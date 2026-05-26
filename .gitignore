@@ -1,0 +1,23 @@
+# Ignore everything by default
+*
+
+# Track these files and directories
+!.gitignore
+!README.md
+!requirements.txt
+!generate_demo.py
+!generate_demo_sd3.py
+!collect_data_demo.py
+
+!classifier_ckpt/
+!classifier_ckpt/*/
+!classifier_ckpt/**
+
+!flux_osi_modules/
+!flux_osi_modules/*.py
+
+!sd3_osi_modules/
+!sd3_osi_modules/*.py
+
+!figure/
+!figure/thumbnail.png
