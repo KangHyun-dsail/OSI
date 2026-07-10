@@ -1,0 +1,758 @@
+[
+    {
+        "prompt": "a triangular slice of bread and a rectangular bread basket",
+        "objects": [
+            "triangular slice of bread",
+            "rectangular bread basket"
+        ]
+    },
+    {
+        "prompt": "a pentagonal toolbox and a spherical toolset",
+        "objects": [
+            "pentagonal toolbox",
+            "spherical toolset"
+        ]
+    },
+    {
+        "prompt": "a small key and a big door",
+        "objects": [
+            "small key",
+            "big door"
+        ]
+    },
+    {
+        "prompt": "an oval coffee table and a square end table",
+        "objects": [
+            "oval coffee table",
+            "square end table"
+        ]
+    },
+    {
+        "prompt": "a round balloon and a rectangular party invitation",
+        "objects": [
+            "round balloon",
+            "rectangular party invitation"
+        ]
+    },
+    {
+        "prompt": "a spherical crystal and a pyramidal crystal holder",
+        "objects": [
+            "spherical crystal",
+            "pyramidal crystal holder"
+        ]
+    },
+    {
+        "prompt": "a cubic box of chocolates and a teardrop chocolate truffle",
+        "objects": [
+            "cubic box of chocolates",
+            "teardrop chocolate truffle"
+        ]
+    },
+    {
+        "prompt": "a pentagonal desk and a diamond desk organizer",
+        "objects": [
+            "pentagonal desk",
+            "diamond desk organizer"
+        ]
+    },
+    {
+        "prompt": "a big mountain and a small tree",
+        "objects": [
+            "big mountain",
+            "small tree"
+        ]
+    },
+    {
+        "prompt": "an oval table and a square placemat",
+        "objects": [
+            "oval table",
+            "square placemat"
+        ]
+    },
+    {
+        "prompt": "a pentagonal chocolate box and a spherical chocolate truffle",
+        "objects": [
+            "pentagonal chocolate box",
+            "spherical chocolate truffle"
+        ]
+    },
+    {
+        "prompt": "a circular ceiling light and a triangular bookshelf.",
+        "objects": [
+            "circular ceiling light",
+            "triangular bookshelf"
+        ]
+    },
+    {
+        "prompt": "a spherical bowling ball and a conical bowling pin",
+        "objects": [
+            "spherical bowling ball",
+            "conical bowling pin"
+        ]
+    },
+    {
+        "prompt": "a big gorilla and a small monkey",
+        "objects": [
+            "big gorilla",
+            "small monkey"
+        ]
+    },
+    {
+        "prompt": "a short book and a long bookmark",
+        "objects": [
+            "short book",
+            "long bookmark"
+        ]
+    },
+    {
+        "prompt": "a small keychain and a big set of keys",
+        "objects": [
+            "small keychain",
+            "big set of keys"
+        ]
+    },
+    {
+        "prompt": "a pyramidal gift box and a cubic gift wrap",
+        "objects": [
+            "pyramidal gift box",
+            "cubic gift wrap"
+        ]
+    },
+    {
+        "prompt": "a cubic Rubik's cube and a pentagonal game box",
+        "objects": [
+            "cubic Rubik's cube",
+            "pentagonal game box"
+        ]
+    },
+    {
+        "prompt": "a big sunflower and a small daisy",
+        "objects": [
+            "big sunflower",
+            "small daisy"
+        ]
+    },
+    {
+        "prompt": "a cubic Rubik's cube and a cylindrical pencil holder",
+        "objects": [
+            "cubic Rubik's cube",
+            "cylindrical pencil holder"
+        ]
+    },
+    {
+        "prompt": "a pentagonal handbag and a spherical keychain charm",
+        "objects": [
+            "pentagonal handbag",
+            "spherical keychain charm"
+        ]
+    },
+    {
+        "prompt": "a big truck and a small car",
+        "objects": [
+            "big truck",
+            "small car"
+        ]
+    },
+    {
+        "prompt": "a long necklace and a short earring",
+        "objects": [
+            "long necklace",
+            "short earring"
+        ]
+    },
+    {
+        "prompt": "an oval coffee table and a square ottoman",
+        "objects": [
+            "oval coffee table",
+            "square ottoman"
+        ]
+    },
+    {
+        "prompt": "a rectangular phone and a teardrop phone charm",
+        "objects": [
+            "rectangular phone",
+            "teardrop phone charm"
+        ]
+    },
+    {
+        "prompt": "a small cup and a big saucer",
+        "objects": [
+            "small cup",
+            "big saucer"
+        ]
+    },
+    {
+        "prompt": "a small pebble and a big rock",
+        "objects": [
+            "small pebble",
+            "big rock"
+        ]
+    },
+    {
+        "prompt": "a cubic sugar cube and a cylindrical salt shaker",
+        "objects": [
+            "cubic sugar cube",
+            "cylindrical salt shaker"
+        ]
+    },
+    {
+        "prompt": "a small button and a big zipper",
+        "objects": [
+            "small button",
+            "big zipper"
+        ]
+    },
+    {
+        "prompt": "a spherical balloon and a rectangular banner",
+        "objects": [
+            "spherical balloon",
+            "rectangular banner"
+        ]
+    },
+    {
+        "prompt": "a big balloon and a small marble",
+        "objects": [
+            "big balloon",
+            "small marble"
+        ]
+    },
+    {
+        "prompt": "a diamond wine glass and a cylindrical wine bottle",
+        "objects": [
+            "diamond wine glass",
+            "cylindrical wine bottle"
+        ]
+    },
+    {
+        "prompt": "a round peach and a rectangular bar of soap",
+        "objects": [
+            "round peach",
+            "rectangular bar of soap"
+        ]
+    },
+    {
+        "prompt": "a triangular slice of bread and a cylindrical loaf",
+        "objects": [
+            "triangular slice of bread",
+            "cylindrical loaf"
+        ]
+    },
+    {
+        "prompt": "an oblong potato and a teardrop plum",
+        "objects": [
+            "oblong potato",
+            "teardrop plum"
+        ]
+    },
+    {
+        "prompt": "an oval pizza and a round pizza cutter.",
+        "objects": [
+            "oval pizza",
+            "round pizza cutter"
+        ]
+    },
+    {
+        "prompt": "a triangular sign and a small sculpture",
+        "objects": [
+            "triangular sign",
+            "small sculpture"
+        ]
+    },
+    {
+        "prompt": "an big bathtub and a square showerhead",
+        "objects": [
+            "big bathtub",
+            "square showerhead"
+        ]
+    },
+    {
+        "prompt": "a small lion and a big horse",
+        "objects": [
+            "small lion",
+            "big horse"
+        ]
+    },
+    {
+        "prompt": "a round cinnamon roll and a round toaster pastry",
+        "objects": [
+            "round cinnamon roll",
+            "round toaster pastry"
+        ]
+    },
+    {
+        "prompt": "The cylindrical water bottle with its square lid and conical base kept hikers hydrated on the triangular trail.",
+        "objects": [
+            "cylindrical water bottle",
+            "square lid",
+            "conical base",
+            "triangular trail"
+        ]
+    },
+    {
+        "prompt": "The rectangular mirror with its oval reflection and oblong frame hung in the round bathroom.",
+        "objects": [
+            "rectangular mirror",
+            "oval reflection",
+            "oblong frame",
+            "round bathroom"
+        ]
+    },
+    {
+        "prompt": "The teardrop earrings with their triangular studs and spherical pearls sparkled in the diamond jewelry box.",
+        "objects": [
+            "teardrop earrings",
+            "triangular studs",
+            "spherical pearls",
+            "diamond jewelry box"
+        ]
+    },
+    {
+        "prompt": "The cubic bookshelf with its cylindrical legs and rectangular shelves held books in the oblong study.",
+        "objects": [
+            "cubic bookshelf",
+            "cylindrical legs",
+            "rectangular shelves",
+            "oblong study"
+        ]
+    },
+    {
+        "prompt": "The triangular sail with its pentagonal stitching and oblong boom propelled the circular boat on the ocean.",
+        "objects": [
+            "triangular sail",
+            "pentagonal stitching",
+            "oblong boom",
+            "circular boat",
+            "ocean"
+        ]
+    },
+    {
+        "prompt": "The crescent sofa with its square cushions and oval back provided seating in the triangular living room.",
+        "objects": [
+            "crescent sofa",
+            "square cushions",
+            "oval back",
+            "triangular living room"
+        ]
+    },
+    {
+        "prompt": "The oblong vase with its diamond pattern and circular mouth displayed flowers in the conical corner of the room.",
+        "objects": [
+            "oblong vase",
+            "diamond pattern",
+            "circular mouth",
+            "flowers",
+            "conical corner"
+        ]
+    },
+    {
+        "prompt": "The pyramidal pyramid with its triangular base and rectangular entrance attracted tourists to the square desert.",
+        "objects": [
+            "pyramidal pyramid",
+            "triangular base",
+            "rectangular entrance",
+            "square desert"
+        ]
+    },
+    {
+        "prompt": "The circular steering wheel with its triangular spokes and oblong rim controlled the conical car on the pentagonal road.",
+        "objects": [
+            "circular steering wheel",
+            "triangular spokes",
+            "oblong rim",
+            "conical car",
+            "pentagonal road"
+        ]
+    },
+    {
+        "prompt": "The conical ice cream cone with its spherical scoop and triangular cone held a tasty treat in the diamond park.",
+        "objects": [
+            "conical ice cream cone",
+            "spherical scoop",
+            "triangular cone",
+            "diamond park"
+        ]
+    },
+    {
+        "prompt": "A long rectangular table and a small circular vase were placed in the center of the room.",
+        "objects": [
+            "long rectangular table",
+            "small circular vase",
+            "room"
+        ]
+    },
+    {
+        "prompt": "The cylindrical tower and the spherical dome stood tall against the skyline.",
+        "objects": [
+            "cylindrical tower",
+            "spherical dome",
+            "skyline"
+        ]
+    },
+    {
+        "prompt": "The triangular wedge and the oblong brick were the only pieces left in the construction set.",
+        "objects": [
+            "triangular wedge",
+            "oblong brick",
+            "construction set"
+        ]
+    },
+    {
+        "prompt": "The round knob and the square plate were attached to the door.",
+        "objects": [
+            "round knob",
+            "square plate",
+            "door"
+        ]
+    },
+    {
+        "prompt": "The teardrop pendant and the diamond-studded bracelet were her favorite pieces of jewelry.",
+        "objects": [
+            "teardrop pendant",
+            "diamond-studded bracelet"
+        ]
+    },
+    {
+        "prompt": "The conical hat and the crescent moon were the only things visible in the night sky.",
+        "objects": [
+            "conical hat",
+            "crescent moon",
+            "night sky"
+        ]
+    },
+    {
+        "prompt": "A row of cubic boxes and a pile of pyramidal stones were stacked neatly in the corner of the room.",
+        "objects": [
+            "cubic boxes",
+            "pyramidal stones"
+        ]
+    },
+    {
+        "prompt": "The oval mirror and the rectangular frame were mounted on the wall.",
+        "objects": [
+            "oval mirror",
+            "rectangular frame",
+            "wall"
+        ]
+    },
+    {
+        "prompt": "The spherical ball and the pentagonal pyramid were the objects of focus in the geometry lesson.",
+        "objects": [
+            "spherical ball",
+            "pentagonal pyramid"
+        ]
+    },
+    {
+        "prompt": "The triangular sail and the square deck were the defining features of the sailboat.",
+        "objects": [
+            "triangular sail",
+            "square deck",
+            "sailboat"
+        ]
+    },
+    {
+        "prompt": "The cylindrical barrel and the conical flask were the only containers left in the laboratory.",
+        "objects": [
+            "cylindrical barrel",
+            "conical flask",
+            "laboratory"
+        ]
+    },
+    {
+        "prompt": "The oblong rug and the circular ottoman were arranged in the center of the living room.",
+        "objects": [
+            "oblong rug",
+            "circular ottoman",
+            "living room"
+        ]
+    },
+    {
+        "prompt": "The diamond window and the rectangular door were the only openings in the otherwise blank wall.",
+        "objects": [
+            "diamond window",
+            "rectangular door",
+            "blank wall"
+        ]
+    },
+    {
+        "prompt": "The spherical planet and the crescent moon were the celestial bodies that fascinated him the most.",
+        "objects": [
+            "spherical planet",
+            "crescent moon",
+            "celestial bodies"
+        ]
+    },
+    {
+        "prompt": "The triangular slice and the round pizza were the only options on the menu.",
+        "objects": [
+            "triangular slice",
+            "round pizza",
+            "menu"
+        ]
+    },
+    {
+        "prompt": "The cubic dice and the cylindrical pencil were the tools of his favorite game.",
+        "objects": [
+            "cubic dice",
+            "cylindrical pencil"
+        ]
+    },
+    {
+        "prompt": "The teardrop leaves and the oval petals made up the floral arrangement on the table.",
+        "objects": [
+            "teardrop leaves",
+            "oval petals",
+            "floral arrangement",
+            "table"
+        ]
+    },
+    {
+        "prompt": "The square room and the oblong hallway were the only spaces in the house.",
+        "objects": [
+            "square room",
+            "oblong hallway"
+        ]
+    },
+    {
+        "prompt": "The pyramidal roof and the triangular archway were the defining features of the ancient temple.",
+        "objects": [
+            "pyramidal roof",
+            "triangular archway",
+            "ancient temple"
+        ]
+    },
+    {
+        "prompt": "The circular wreath and the rectangular picture frame hung on the front door.",
+        "objects": [
+            "circular wreath",
+            "rectangular picture frame",
+            "front door"
+        ]
+    },
+    {
+        "prompt": "The conical hat and the spherical ball were the objects of attention in the magic show.",
+        "objects": [
+            "conical hat",
+            "spherical ball"
+        ]
+    },
+    {
+        "prompt": "The crescent curve and the diamond pattern were the highlights of the carpet design.",
+        "objects": [
+            "crescent curve",
+            "diamond pattern",
+            "carpet design"
+        ]
+    },
+    {
+        "prompt": "The pentagonal prism and the triangular pyramid were the shapes that he struggled with the most in math class.",
+        "objects": [
+            "pentagonal prism",
+            "triangular pyramid"
+        ]
+    },
+    {
+        "prompt": "The cylindrical column and the square pedestal were the only pieces of furniture in the foyer.",
+        "objects": [
+            "cylindrical column",
+            "square pedestal",
+            "furniture",
+            "foyer"
+        ]
+    },
+    {
+        "prompt": "The oblong table and the round chairs were arranged for the dinner party.",
+        "objects": [
+            "oblong table",
+            "round chairs"
+        ]
+    },
+    {
+        "prompt": "The spherical globe and the teardrop droplet were the symbols of science and nature.",
+        "objects": [
+            "spherical globe",
+            "teardrop droplet"
+        ]
+    },
+    {
+        "prompt": "The triangular roof and the diamond windows were the defining features of the modern architecture.",
+        "objects": [
+            "triangular roof",
+            "diamond windows",
+            "modern architecture"
+        ]
+    },
+    {
+        "prompt": "The cubic block and the cylindrical tube were the building blocks for his latest invention.",
+        "objects": [
+            "cubic block",
+            "cylindrical tube"
+        ]
+    },
+    {
+        "prompt": "The rectangular screen and the oval speakers were the only electronic devices in the room.",
+        "objects": [
+            "rectangular screen",
+            "oval speakers"
+        ]
+    },
+    {
+        "prompt": "The conical mountain and the crescent beach were the contrasting views from the hotel room.",
+        "objects": [
+            "conical mountain",
+            "crescent beach",
+            "hotel room"
+        ]
+    },
+    {
+        "prompt": "The pentagonal star and the square checkerboard were the patterns on the quilt.",
+        "objects": [
+            "pentagonal star",
+            "square checkerboard",
+            "quilt"
+        ]
+    },
+    {
+        "prompt": "The pyramidal shape and the triangular lines were the inspiration for the art project.",
+        "objects": [
+            "pyramidal shape",
+            "triangular lines"
+        ]
+    },
+    {
+        "prompt": "The oblong painting and the circular sculpture were the centerpieces of the art exhibit.",
+        "objects": [
+            "oblong painting",
+            "circular sculpture",
+            "art exhibit"
+        ]
+    },
+    {
+        "prompt": "The diamond ring and the teardrop necklace were the precious gifts from her beloved.",
+        "objects": [
+            "diamond ring",
+            "teardrop necklace",
+            "precious gifts"
+        ]
+    },
+    {
+        "prompt": "The cylindrical tower and the spherical fountain were the landmarks of the city.",
+        "objects": [
+            "cylindrical tower",
+            "spherical fountain"
+        ]
+    },
+    {
+        "prompt": "The triangular flag and the rectangular banner were waving in the wind on the parade.",
+        "objects": [
+            "triangular flag",
+            "rectangular banner"
+        ]
+    },
+    {
+        "prompt": "The cubic room and the conical lampshade were the unique features of the hotel suite.",
+        "objects": [
+            "cubic room",
+            "conical lampshade",
+            "hotel suite"
+        ]
+    },
+    {
+        "prompt": "The oval platter and the round bowl were used for serving dinner.",
+        "objects": [
+            "oval platter",
+            "round bowl"
+        ]
+    },
+    {
+        "prompt": "The pentagonal prism and the pyramidal tetrahedron were the shapes of the crystals in the museum exhibit.",
+        "objects": [
+            "pentagonal prism",
+            "pyramidal tetrahedron",
+            "crystals",
+            "museum exhibit"
+        ]
+    },
+    {
+        "prompt": "A triangular plane and a circular hot air balloon floated in the sky.",
+        "objects": [
+            "triangular plane",
+            "circular hot air balloon"
+        ]
+    },
+    {
+        "prompt": "A small kitten and a big dog sat side by side.",
+        "objects": [
+            "small kitten",
+            "big dog"
+        ]
+    },
+    {
+        "prompt": "A long road and a short path led to the same destination.",
+        "objects": [
+            "long road",
+            "short path",
+            "destination"
+        ]
+    },
+    {
+        "prompt": "The tall tree and the short shrub created a contrast in the garden.",
+        "objects": [
+            "tall tree",
+            "short shrub",
+            "garden"
+        ]
+    },
+    {
+        "prompt": "The big book and the small notepad were both useful for different purposes.",
+        "objects": [
+            "big book",
+            "small notepad"
+        ]
+    },
+    {
+        "prompt": "The long dress and the short skirt were both fashionable choices.",
+        "objects": [
+            "long dress",
+            "short skirt",
+            "fashionable choices"
+        ]
+    },
+    {
+        "prompt": "The tall tower and the short building dominated the skyline.",
+        "objects": [
+            "tall tower",
+            "short building",
+            "skyline"
+        ]
+    },
+    {
+        "prompt": "The big elephant and the small mouse made an unlikely pair.",
+        "objects": [
+            "big elephant",
+            "small mouse"
+        ]
+    },
+    {
+        "prompt": "The long river and the short stream flowed through the picturesque valley.",
+        "objects": [
+            "long river",
+            "short stream",
+            "picturesque valley"
+        ]
+    },
+    {
+        "prompt": "The tall ladder and the short stool were both necessary for reaching high places.",
+        "objects": [
+            "tall ladder",
+            "short stool",
+            "high places"
+        ]
+    },
+    {
+        "prompt": "The big house and the small cabin provided different types of accommodations.",
+        "objects": [
+            "big house",
+            "small cabin"
+        ]
+    }
+]

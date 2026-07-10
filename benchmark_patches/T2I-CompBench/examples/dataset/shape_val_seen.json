@@ -1,0 +1,2202 @@
+[
+    {
+        "prompt": "an oblong cucumber and a teardrop plum",
+        "objects": [
+            "cucumber",
+            "plum"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a pentagonal stop sign and a spherical traffic light",
+        "objects": [
+            "stop sign",
+            "traffic light"
+        ],
+        "attributes": [
+            "pentagonal",
+            "spherical"
+        ]
+    },
+    {
+        "prompt": "a cubic ice cube and a spherical ice bucket",
+        "objects": [
+            "ice cube",
+            "ice bucket"
+        ],
+        "attributes": [
+            "cubic",
+            "spherical"
+        ]
+    },
+    {
+        "prompt": "an oblong eggplant and a teardrop melon",
+        "objects": [
+            "eggplant",
+            "melon"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a cubic block and a cylindrical bottle",
+        "objects": [
+            "block",
+            "bottle"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a cubic block and a cylindrical canister",
+        "objects": [
+            "block",
+            "canister"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a diamond pendant and a round locket",
+        "objects": [
+            "pendant",
+            "locket"
+        ],
+        "attributes": [
+            "diamond",
+            "round"
+        ]
+    },
+    {
+        "prompt": "a teardrop pendant and a cubic bracelet charm",
+        "objects": [
+            "pendant",
+            "bracelet charm"
+        ],
+        "attributes": [
+            "teardrop",
+            "cubic"
+        ]
+    },
+    {
+        "prompt": "a pentagonal speed limit sign and a pyramidal paperweight",
+        "objects": [
+            "speed limit sign",
+            "paperweight"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a diamond ring and a pyramidal ring box",
+        "objects": [
+            "ring",
+            "ring box"
+        ],
+        "attributes": [
+            "diamond",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a diamond brooch and a teardrop bracelet",
+        "objects": [
+            "brooch",
+            "bracelet"
+        ],
+        "attributes": [
+            "diamond",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a pentagonal postbox and a pyramidal obelisk",
+        "objects": [
+            "postbox",
+            "obelisk"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a conical wizard hat and a spherical crystal wand",
+        "objects": [
+            "wizard hat",
+            "crystal wand"
+        ],
+        "attributes": [
+            "conical",
+            "spherical"
+        ]
+    },
+    {
+        "prompt": "a round muffin and a square napkin",
+        "objects": [
+            "muffin",
+            "napkin"
+        ],
+        "attributes": [
+            "round",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a cylindrical candle and a pentagonal candle holder",
+        "objects": [
+            "candle",
+            "candle holder"
+        ],
+        "attributes": [
+            "cylindrical",
+            "pentagonal"
+        ]
+    },
+    {
+        "prompt": "a round muffin and a square muffin liner",
+        "objects": [
+            "muffin",
+            "muffin liner"
+        ],
+        "attributes": [
+            "round",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a spherical globe and a conical flagpole",
+        "objects": [
+            "globe",
+            "flagpole"
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a big bear and a small squirrel",
+        "objects": [
+            "bear",
+            "squirrel"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "an oval sink and a rectangular mirror.",
+        "objects": [
+            "sink",
+            "mirror."
+        ],
+        "attributes": [
+            "oval",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "an oval mirror and a rectangular painting",
+        "objects": [
+            "mirror",
+            "painting"
+        ],
+        "attributes": [
+            "oval",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a triangular slice of cheese and a rectangular cheese board",
+        "objects": [
+            "slice of cheese",
+            "cheese board"
+        ],
+        "attributes": [
+            "triangular",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a small bagel and a rectangular sandwich",
+        "objects": [
+            "bagel",
+            "sandwich"
+        ],
+        "attributes": [
+            "small",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a tall skyscraper and a short lamppost",
+        "objects": [
+            "skyscraper",
+            "lamppost"
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a teardrop pendant and a triangular chain necklace",
+        "objects": [
+            "pendant",
+            "chain necklace"
+        ],
+        "attributes": [
+            "teardrop",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "an oblong sweet potato and a teardrop peach",
+        "objects": [
+            "sweet potato",
+            "peach"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a spherical balloon and a conical party hat",
+        "objects": [
+            "balloon",
+            "party hat"
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a pyramidal trophy and a spherical trophy ball",
+        "objects": [
+            "trophy",
+            "trophy ball"
+        ],
+        "attributes": [
+            "pyramidal",
+            "spherical"
+        ]
+    },
+    {
+        "prompt": "an oblong squash and a teardrop plum",
+        "objects": [
+            "squash",
+            "plum"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a tall skyscraper and a short street lamp",
+        "objects": [
+            "skyscraper",
+            "street lamp"
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a spherical baseball and a conical baseball cap",
+        "objects": [
+            "baseball",
+            "baseball cap"
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "an oval coffee table and a rectangular rug",
+        "objects": [
+            "coffee table",
+            "rug"
+        ],
+        "attributes": [
+            "oval",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a round cookie and a square container.",
+        "objects": [
+            "cookie",
+            "container."
+        ],
+        "attributes": [
+            "round",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a diamond engagement ring and a round pendant",
+        "objects": [
+            "engagement ring",
+            "pendant"
+        ],
+        "attributes": [
+            "diamond",
+            "round"
+        ]
+    },
+    {
+        "prompt": "an oval bathtub and a square shower curtain",
+        "objects": [
+            "bathtub",
+            "shower curtain"
+        ],
+        "attributes": [
+            "oval",
+            "square"
+        ]
+    },
+    {
+        "prompt": "an oblong acorn squash and a teardrop apricot",
+        "objects": [
+            "acorn squash",
+            "apricot"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "an oblong pear and a teardrop melon",
+        "objects": [
+            "pear",
+            "melon"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a tall skyscraper and a short cabin",
+        "objects": [
+            "skyscraper",
+            "cabin"
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a round bag and a square box",
+        "objects": [
+            "bag",
+            "box"
+        ],
+        "attributes": [
+            "round",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a spherical ball and a conical party hat",
+        "objects": [
+            "ball",
+            "party hat"
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a long snake and a short tree",
+        "objects": [
+            "snake",
+            "tree"
+        ],
+        "attributes": [
+            "long",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a tall basketball player and a small hat",
+        "objects": [
+            "basketball player",
+            "hat"
+        ],
+        "attributes": [
+            "tall",
+            "small"
+        ]
+    },
+    {
+        "prompt": "a square book and a cylindrical pencil",
+        "objects": [
+            "book",
+            "pencil"
+        ],
+        "attributes": [
+            "square",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a cubic block and a cylindrical container of hand cream",
+        "objects": [
+            "block",
+            "container of hand cream"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a cubic block and a triangular building set",
+        "objects": [
+            "block",
+            "building set"
+        ],
+        "attributes": [
+            "cubic",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a diamond pendant and a round bracelet",
+        "objects": [
+            "pendant",
+            "bracelet"
+        ],
+        "attributes": [
+            "diamond",
+            "round"
+        ]
+    },
+    {
+        "prompt": "an oval sink and a rectangular soap dispenser",
+        "objects": [
+            "sink",
+            "soap dispenser"
+        ],
+        "attributes": [
+            "oval",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "an oblong squash and a teardrop strawberry",
+        "objects": [
+            "squash",
+            "strawberry"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a rectangular laptop and a teardrop laptop bag",
+        "objects": [
+            "laptop",
+            "laptop bag"
+        ],
+        "attributes": [
+            "rectangular",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "an oblong carrot and a teardrop plum",
+        "objects": [
+            "carrot",
+            "plum"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a big hippopotamus and a small rabbit",
+        "objects": [
+            "hippopotamus",
+            "rabbit"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "a cylindrical vase and a triangular flower arrangement",
+        "objects": [
+            "vase",
+            "flower arrangement"
+        ],
+        "attributes": [
+            "cylindrical",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a spherical ornament and a triangular tree topper",
+        "objects": [
+            "ornament",
+            "tree topper"
+        ],
+        "attributes": [
+            "spherical",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a conical Christmas tree and a pentagonal tree skirt",
+        "objects": [
+            "Christmas tree",
+            "tree skirt"
+        ],
+        "attributes": [
+            "conical",
+            "pentagonal"
+        ]
+    },
+    {
+        "prompt": "a round bagel and a square toaster",
+        "objects": [
+            "bagel",
+            "toaster"
+        ],
+        "attributes": [
+            "round",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a big hippopotamus and a small mouse",
+        "objects": [
+            "hippopotamus",
+            "mouse"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "a big lion and a small mouse",
+        "objects": [
+            "lion",
+            "mouse"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "a tall sunflower and a short daisy",
+        "objects": [
+            "sunflower",
+            "daisy"
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a spherical basketball and a conical referee hat",
+        "objects": [
+            "basketball",
+            "referee hat"
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a circular rug and a triangular coffee table",
+        "objects": [
+            "rug",
+            "coffee table"
+        ],
+        "attributes": [
+            "circular",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a pyramidal paperweight and a pentagonal paperclip holder",
+        "objects": [
+            "paperweight",
+            "paperclip holder"
+        ],
+        "attributes": [
+            "pyramidal",
+            "pentagonal"
+        ]
+    },
+    {
+        "prompt": "a cubic box and a pyramidal paperweight",
+        "objects": [
+            "box",
+            "paperweight"
+        ],
+        "attributes": [
+            "cubic",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "an oblong zucchini and a teardrop plum",
+        "objects": [
+            "zucchini",
+            "plum"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a cubic block and a cylindrical flashlight.",
+        "objects": [
+            "block",
+            "flashlight."
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a pentagonal yield sign and a pyramidal book stand.",
+        "objects": [
+            "yield sign",
+            "book stand."
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "an oblong potato and a teardrop mango",
+        "objects": [
+            "potato",
+            "mango"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a round basketball and a cylindrical water bottle",
+        "objects": [
+            "basketball",
+            "water bottle"
+        ],
+        "attributes": [
+            "round",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a rectangular mirror and a spherical magnifying glass",
+        "objects": [
+            "mirror",
+            "magnifying glass"
+        ],
+        "attributes": [
+            "rectangular",
+            "spherical"
+        ]
+    },
+    {
+        "prompt": "an oblong zucchini and a teardrop cherry",
+        "objects": [
+            "zucchini",
+            "cherry"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a tall palm tree and a short cactus",
+        "objects": [
+            "palm tree",
+            "cactus"
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a diamond bracelet and a rectangular watch",
+        "objects": [
+            "bracelet",
+            "watch"
+        ],
+        "attributes": [
+            "diamond",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a pentagonal medal and a pyramidal trophy",
+        "objects": [
+            "medal",
+            "trophy"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a round bagel and a rectangular sandwich press",
+        "objects": [
+            "bagel",
+            "sandwich press"
+        ],
+        "attributes": [
+            "round",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a small block and a cylindrical soda can",
+        "objects": [
+            "block",
+            "soda can"
+        ],
+        "attributes": [
+            "small",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a cubic block and a cylindrical paper towel roll",
+        "objects": [
+            "block",
+            "paper towel roll"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a pyramidal candle and a diamond candlestick holder",
+        "objects": [
+            "candle",
+            "candlestick holder"
+        ],
+        "attributes": [
+            "pyramidal",
+            "diamond"
+        ]
+    },
+    {
+        "prompt": "a tall skyscraper and a short cottage",
+        "objects": [
+            "skyscraper",
+            "cottage"
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a tall oak tree and a short sapling",
+        "objects": [
+            "oak tree",
+            "sapling"
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a pentagonal pencil sharpener and a cylindrical eraser",
+        "objects": [
+            "pencil sharpener",
+            "eraser"
+        ],
+        "attributes": [
+            "pentagonal",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a round pizza and a rectangular piece of lasagna",
+        "objects": [
+            "pizza",
+            "piece of lasagna"
+        ],
+        "attributes": [
+            "round",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a pyramidal candle holder and a conical candle",
+        "objects": [
+            "candle holder",
+            "candle"
+        ],
+        "attributes": [
+            "pyramidal",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "an oblong sweet potato and a teardrop blueberry",
+        "objects": [
+            "sweet potato",
+            "blueberry"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a big gorilla and a small mouse",
+        "objects": [
+            "gorilla",
+            "mouse"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "a round cookie and a square tin",
+        "objects": [
+            "cookie",
+            "tin"
+        ],
+        "attributes": [
+            "round",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a pentagonal caution sign and a pyramidal vase",
+        "objects": [
+            "caution sign",
+            "vase"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a spherical soccer ball and a diamond soccer goal",
+        "objects": [
+            "soccer ball",
+            "soccer goal"
+        ],
+        "attributes": [
+            "spherical",
+            "diamond"
+        ]
+    },
+    {
+        "prompt": "a rectangular computer and a teardrop pendant",
+        "objects": [
+            "computer",
+            "pendant"
+        ],
+        "attributes": [
+            "rectangular",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "an oval picture frame and a rectangular painting",
+        "objects": [
+            "picture frame",
+            "painting"
+        ],
+        "attributes": [
+            "oval",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a pentagonal pencil and a teardrop pencil sharpener",
+        "objects": [
+            "pencil",
+            "pencil sharpener"
+        ],
+        "attributes": [
+            "pentagonal",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a teardrop pendant and a pentagonal charm bracelet",
+        "objects": [
+            "pendant",
+            "charm bracelet"
+        ],
+        "attributes": [
+            "teardrop",
+            "pentagonal"
+        ]
+    },
+    {
+        "prompt": "a cubic box and a cylindrical bottle of lotion",
+        "objects": [
+            "box",
+            "bottle of lotion"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a big tiger and a small kitten",
+        "objects": [
+            "tiger",
+            "kitten"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "a pentagonal road sign and a pyramidal bookshelf",
+        "objects": [
+            "road sign",
+            "bookshelf"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a small rug and a triangular end table",
+        "objects": [
+            "rug",
+            "end table"
+        ],
+        "attributes": [
+            "small",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a teardrop pendant and a spherical bead necklace",
+        "objects": [
+            "pendant",
+            "bead necklace"
+        ],
+        "attributes": [
+            "teardrop",
+            "spherical"
+        ]
+    },
+    {
+        "prompt": "a round bagel and a square piece of toast",
+        "objects": [
+            "bagel",
+            "piece of toast"
+        ],
+        "attributes": [
+            "round",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a big elephant and a small cricket",
+        "objects": [
+            "elephant",
+            "cricket"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "a cubic ice cube and a cylindrical water bottle",
+        "objects": [
+            "ice cube",
+            "water bottle"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a pentagonal clock and a conical clock face",
+        "objects": [
+            "clock",
+            "clock face"
+        ],
+        "attributes": [
+            "pentagonal",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "an oblong watermelon and a teardrop pear.",
+        "objects": [
+            "watermelon",
+            "pear."
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a pyramidal paperweight and a conical pen holder",
+        "objects": [
+            "paperweight",
+            "pen holder"
+        ],
+        "attributes": [
+            "pyramidal",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a big whale and a small dolphin",
+        "objects": [
+            "whale",
+            "dolphin"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "a rectangular television and a teardrop remote control",
+        "objects": [
+            "television",
+            "remote control"
+        ],
+        "attributes": [
+            "rectangular",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "an oblong carrot and a teardrop peach",
+        "objects": [
+            "carrot",
+            "peach"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a round bagel and a rectangular bacon strip",
+        "objects": [
+            "bagel",
+            "bacon strip"
+        ],
+        "attributes": [
+            "round",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a pyramidal tomb and a spherical urn",
+        "objects": [
+            "tomb",
+            "urn"
+        ],
+        "attributes": [
+            "pyramidal",
+            "spherical"
+        ]
+    },
+    {
+        "prompt": "a round bagel and a rectangular piece of toast",
+        "objects": [
+            "bagel",
+            "piece of toast"
+        ],
+        "attributes": [
+            "round",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a pentagonal badge and a pyramidal crystal",
+        "objects": [
+            "badge",
+            "crystal"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a spherical snowball and a conical snowman hat",
+        "objects": [
+            "snowball",
+            "snowman hat"
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "an oval picture frame and a square painting",
+        "objects": [
+            "picture frame",
+            "painting"
+        ],
+        "attributes": [
+            "oval",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a long bridge and a short fence",
+        "objects": [
+            "bridge",
+            "fence"
+        ],
+        "attributes": [
+            "long",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a triangular slice of pizza and a pentagonal pizza box",
+        "objects": [
+            "slice of pizza",
+            "pizza box"
+        ],
+        "attributes": [
+            "triangular",
+            "pentagonal"
+        ]
+    },
+    {
+        "prompt": "a diamond tiara and a round brooch",
+        "objects": [
+            "tiara",
+            "brooch"
+        ],
+        "attributes": [
+            "diamond",
+            "round"
+        ]
+    },
+    {
+        "prompt": "a circular pendant light and a triangular corner shelf.",
+        "objects": [
+            "pendant light",
+            "corner shelf."
+        ],
+        "attributes": [
+            "circular",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a spherical snowball and a conical party hat",
+        "objects": [
+            "snowball",
+            "party hat"
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a big bear and a small rabbit",
+        "objects": [
+            "bear",
+            "rabbit"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "a pentagonal star and a crescent moon",
+        "objects": [
+            "star",
+            "moon"
+        ],
+        "attributes": [
+            "pentagonal",
+            "crescent"
+        ]
+    },
+    {
+        "prompt": "a cubic block and a cylindrical toothpaste tube",
+        "objects": [
+            "block",
+            "toothpaste tube"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a pyramidal trophy and a spherical trophy stand",
+        "objects": [
+            "trophy",
+            "trophy stand"
+        ],
+        "attributes": [
+            "pyramidal",
+            "spherical"
+        ]
+    },
+    {
+        "prompt": "a round bagel and a rectangular breakfast sandwich",
+        "objects": [
+            "bagel",
+            "breakfast sandwich"
+        ],
+        "attributes": [
+            "round",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a pentagonal traffic sign and a pyramidal paper clip holder",
+        "objects": [
+            "traffic sign",
+            "paper clip holder"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a big elephant and a small dog",
+        "objects": [
+            "elephant",
+            "dog"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "a cubic box and a conical party hat",
+        "objects": [
+            "box",
+            "party hat"
+        ],
+        "attributes": [
+            "cubic",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a spherical tennis ball and a conical tennis shoe",
+        "objects": [
+            "tennis ball",
+            "tennis shoe"
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a pentagonal parking sign and a pyramidal trophy",
+        "objects": [
+            "parking sign",
+            "trophy"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a pyramidal bookend and a conical bookstand",
+        "objects": [
+            "bookend",
+            "bookstand"
+        ],
+        "attributes": [
+            "pyramidal",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a spherical snow globe and an oblong frame",
+        "objects": [
+            "snow globe",
+            "frame"
+        ],
+        "attributes": [
+            "spherical",
+            "oblong"
+        ]
+    },
+    {
+        "prompt": "a cubic block and a cylindrical container of markers",
+        "objects": [
+            "block",
+            "container of markers"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a circular dining table and a triangular table runner",
+        "objects": [
+            "dining table",
+            "table runner"
+        ],
+        "attributes": [
+            "circular",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a circular mirror and a triangular shelf unit",
+        "objects": [
+            "mirror",
+            "shelf unit"
+        ],
+        "attributes": [
+            "circular",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a cubic block and a cylindrical tube of toothpaste",
+        "objects": [
+            "block",
+            "tube of toothpaste"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "an oblong potato and a teardrop grapefruit",
+        "objects": [
+            "potato",
+            "grapefruit"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a triangular slice of pizza and a pyramidal pizza box",
+        "objects": [
+            "slice of pizza",
+            "pizza box"
+        ],
+        "attributes": [
+            "triangular",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a cubic block and a pyramidal puzzle box",
+        "objects": [
+            "block",
+            "puzzle box"
+        ],
+        "attributes": [
+            "cubic",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a conical lampshade and a cubic lamp base",
+        "objects": [
+            "lampshade",
+            "lamp base"
+        ],
+        "attributes": [
+            "conical",
+            "cubic"
+        ]
+    },
+    {
+        "prompt": "a round pizza and a square pizza box",
+        "objects": [
+            "pizza",
+            "pizza box"
+        ],
+        "attributes": [
+            "round",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a pentagonal yield sign and a pyramidal salt shaker",
+        "objects": [
+            "yield sign",
+            "salt shaker"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "an oblong squash and a teardrop nectarine.",
+        "objects": [
+            "squash",
+            "nectarine."
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a cubic dice and a triangular game piece",
+        "objects": [
+            "dice",
+            "game piece"
+        ],
+        "attributes": [
+            "cubic",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a circular pendant light and a triangular wall hook",
+        "objects": [
+            "pendant light",
+            "wall hook"
+        ],
+        "attributes": [
+            "circular",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a small bathtub and a rectangular bath mat",
+        "objects": [
+            "bathtub",
+            "bath mat"
+        ],
+        "attributes": [
+            "small",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a cubic book and a cylindrical can of soup",
+        "objects": [
+            "book",
+            "can of soup"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a pentagonal pencil sharpener and a spherical pencil eraser",
+        "objects": [
+            "pencil sharpener",
+            "pencil eraser"
+        ],
+        "attributes": [
+            "pentagonal",
+            "spherical"
+        ]
+    },
+    {
+        "prompt": "a circular mirror and a triangular corner shelf",
+        "objects": [
+            "mirror",
+            "corner shelf"
+        ],
+        "attributes": [
+            "circular",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a triangular slice of pie and a rectangular pie dish",
+        "objects": [
+            "slice of pie",
+            "pie dish"
+        ],
+        "attributes": [
+            "triangular",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a cubic block and a cylindrical bottle of water",
+        "objects": [
+            "block",
+            "bottle of water"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a tall basketball player and a short jockey.",
+        "objects": [
+            "basketball player",
+            "jockey."
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a teardrop pendant and a pyramidal gemstone",
+        "objects": [
+            "pendant",
+            "gemstone"
+        ],
+        "attributes": [
+            "teardrop",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a big hippopotamus and a small cat",
+        "objects": [
+            "hippopotamus",
+            "cat"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "a circular clock and a triangular wall shelf.",
+        "objects": [
+            "clock",
+            "wall shelf."
+        ],
+        "attributes": [
+            "circular",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a tall lighthouse and a short bench",
+        "objects": [
+            "lighthouse",
+            "bench"
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a round bagel and a square toaster.",
+        "objects": [
+            "bagel",
+            "toaster."
+        ],
+        "attributes": [
+            "round",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a circular clock and a triangular wall art",
+        "objects": [
+            "clock",
+            "wall art"
+        ],
+        "attributes": [
+            "circular",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a pyramidal puzzle box and a cubic puzzle piece",
+        "objects": [
+            "puzzle box",
+            "puzzle piece"
+        ],
+        "attributes": [
+            "pyramidal",
+            "cubic"
+        ]
+    },
+    {
+        "prompt": "an oblong squash and a teardrop apricot",
+        "objects": [
+            "squash",
+            "apricot"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a spherical globe and a conical pencil.",
+        "objects": [
+            "globe",
+            "pencil."
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "an oblong cucumber and a teardrop kiwi",
+        "objects": [
+            "cucumber",
+            "kiwi"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a spherical beach ball and a conical party hat",
+        "objects": [
+            "beach ball",
+            "party hat"
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "an oval rug and a square coffee table",
+        "objects": [
+            "rug",
+            "coffee table"
+        ],
+        "attributes": [
+            "oval",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a diamond engagement ring and a teardrop necklace",
+        "objects": [
+            "engagement ring",
+            "necklace"
+        ],
+        "attributes": [
+            "diamond",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "an oblong carrot and a teardrop grape",
+        "objects": [
+            "carrot",
+            "grape"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a spherical soccer ball and a conical traffic cone",
+        "objects": [
+            "soccer ball",
+            "traffic cone"
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a tall skyscraper and a short bush.",
+        "objects": [
+            "skyscraper",
+            "bush."
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a small stop sign and a pyramidal paperweight",
+        "objects": [
+            "stop sign",
+            "paperweight"
+        ],
+        "attributes": [
+            "small",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a cubic block and a cylindrical jar of honey",
+        "objects": [
+            "block",
+            "jar of honey"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a round pizza and a rectangular slice of bread",
+        "objects": [
+            "pizza",
+            "slice of bread"
+        ],
+        "attributes": [
+            "round",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a round bagel and a rectangular toaster",
+        "objects": [
+            "bagel",
+            "toaster"
+        ],
+        "attributes": [
+            "round",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a rectangular table and a pentagonal tablecloth",
+        "objects": [
+            "table",
+            "tablecloth"
+        ],
+        "attributes": [
+            "rectangular",
+            "pentagonal"
+        ]
+    },
+    {
+        "prompt": "a tall palm tree and a short shrub",
+        "objects": [
+            "palm tree",
+            "shrub"
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a big pig and a small mouse",
+        "objects": [
+            "pig",
+            "mouse"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "an oblong squash and a teardrop peach",
+        "objects": [
+            "squash",
+            "peach"
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a pentagonal stop sign and a pyramidal monument",
+        "objects": [
+            "stop sign",
+            "monument"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a small eraser and a cylindrical pen",
+        "objects": [
+            "eraser",
+            "pen"
+        ],
+        "attributes": [
+            "small",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a spherical globe and a conical pencil sharpener",
+        "objects": [
+            "globe",
+            "pencil sharpener"
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a pyramidal trophy and a pentagonal trophy base",
+        "objects": [
+            "trophy",
+            "trophy base"
+        ],
+        "attributes": [
+            "pyramidal",
+            "pentagonal"
+        ]
+    },
+    {
+        "prompt": "an oval bathtub and a rectangular soap dish",
+        "objects": [
+            "bathtub",
+            "soap dish"
+        ],
+        "attributes": [
+            "oval",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a rectangular wallet and a spherical coin purse",
+        "objects": [
+            "wallet",
+            "coin purse"
+        ],
+        "attributes": [
+            "rectangular",
+            "spherical"
+        ]
+    },
+    {
+        "prompt": "a pentagonal badge and a pyramidal monument",
+        "objects": [
+            "badge",
+            "monument"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a tall tree and a short bush",
+        "objects": [
+            "tree",
+            "bush"
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a cubic dice and a cylindrical pencil holder",
+        "objects": [
+            "dice",
+            "pencil holder"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "a pentagonal street sign and a pyramidal pyramid",
+        "objects": [
+            "street sign",
+            "pyramid"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a pyramidal mountain and a conical volcano",
+        "objects": [
+            "mountain",
+            "volcano"
+        ],
+        "attributes": [
+            "pyramidal",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a diamond ring and a round necklace",
+        "objects": [
+            "ring",
+            "necklace"
+        ],
+        "attributes": [
+            "diamond",
+            "round"
+        ]
+    },
+    {
+        "prompt": "a pentagonal badge and a pyramidal award statue",
+        "objects": [
+            "badge",
+            "award statue"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a spherical golf ball and a conical tee.",
+        "objects": [
+            "golf ball",
+            "tee."
+        ],
+        "attributes": [
+            "spherical",
+            "conical"
+        ]
+    },
+    {
+        "prompt": "a tall oak tree and a short blade of grass",
+        "objects": [
+            "oak tree",
+            "blade of grass"
+        ],
+        "attributes": [
+            "tall",
+            "short"
+        ]
+    },
+    {
+        "prompt": "a rectangular table and a round lamp",
+        "objects": [
+            "table",
+            "lamp"
+        ],
+        "attributes": [
+            "rectangular",
+            "round"
+        ]
+    },
+    {
+        "prompt": "an oval platter and a rectangular tablecloth.",
+        "objects": [
+            "platter",
+            "tablecloth."
+        ],
+        "attributes": [
+            "oval",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "a teardrop pendant and a diamond brooch pin",
+        "objects": [
+            "pendant",
+            "brooch pin"
+        ],
+        "attributes": [
+            "teardrop",
+            "diamond"
+        ]
+    },
+    {
+        "prompt": "a round doughnut and a square napkin.",
+        "objects": [
+            "doughnut",
+            "napkin."
+        ],
+        "attributes": [
+            "round",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a diamond cufflink and a spherical shirt button",
+        "objects": [
+            "cufflink",
+            "shirt button"
+        ],
+        "attributes": [
+            "diamond",
+            "spherical"
+        ]
+    },
+    {
+        "prompt": "a cubic dice and a cylindrical salt shaker",
+        "objects": [
+            "dice",
+            "salt shaker"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    },
+    {
+        "prompt": "an oblong eggplant and a teardrop fig.",
+        "objects": [
+            "eggplant",
+            "fig."
+        ],
+        "attributes": [
+            "oblong",
+            "teardrop"
+        ]
+    },
+    {
+        "prompt": "a pentagonal stop sign and a pyramidal sculpture",
+        "objects": [
+            "stop sign",
+            "sculpture"
+        ],
+        "attributes": [
+            "pentagonal",
+            "pyramidal"
+        ]
+    },
+    {
+        "prompt": "a circular clock and a triangular shelf",
+        "objects": [
+            "clock",
+            "shelf"
+        ],
+        "attributes": [
+            "circular",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a round watermelon and a square cutting board.",
+        "objects": [
+            "watermelon",
+            "cutting board."
+        ],
+        "attributes": [
+            "round",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a circular clock and a triangular bookshelf",
+        "objects": [
+            "clock",
+            "bookshelf"
+        ],
+        "attributes": [
+            "circular",
+            "triangular"
+        ]
+    },
+    {
+        "prompt": "a big whale and a small shrimp",
+        "objects": [
+            "whale",
+            "shrimp"
+        ],
+        "attributes": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "prompt": "an oval picture and a rectangular frame.",
+        "objects": [
+            "picture",
+            "frame."
+        ],
+        "attributes": [
+            "oval",
+            "rectangular"
+        ]
+    },
+    {
+        "prompt": "an oval dining table and a square dining chair",
+        "objects": [
+            "dining table",
+            "dining chair"
+        ],
+        "attributes": [
+            "oval",
+            "square"
+        ]
+    },
+    {
+        "prompt": "a cubic die and a cylindrical flashlight",
+        "objects": [
+            "die",
+            "flashlight"
+        ],
+        "attributes": [
+            "cubic",
+            "cylindrical"
+        ]
+    }
+]

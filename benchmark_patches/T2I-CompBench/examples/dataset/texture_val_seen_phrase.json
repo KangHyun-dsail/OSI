@@ -1,0 +1,1402 @@
+[
+    {
+        "prompt": "a plastic toy and a glass bottle",
+        "objects": [
+            "plastic toy",
+            "glass bottle"
+        ]
+    },
+    {
+        "prompt": "rubber sole shoes and fluffy clouds",
+        "objects": [
+            "rubber sole shoes",
+            "fluffy clouds"
+        ]
+    },
+    {
+        "prompt": "a metallic desk lamp and a fluffy sweater",
+        "objects": [
+            "metallic desk lamp",
+            "fluffy sweater"
+        ]
+    },
+    {
+        "prompt": "a rubber band and a wooden floor",
+        "objects": [
+            "rubber band",
+            "wooden floor"
+        ]
+    },
+    {
+        "prompt": "a fabric towel and a glass table",
+        "objects": [
+            "fabric towel",
+            "glass table"
+        ]
+    },
+    {
+        "prompt": "a metallic car and a fabric dress",
+        "objects": [
+            "metallic car",
+            "fabric dress"
+        ]
+    },
+    {
+        "prompt": "a rubber ball and a leather wallet",
+        "objects": [
+            "rubber ball",
+            "leather wallet"
+        ]
+    },
+    {
+        "prompt": "a fabric towel and a leather chair",
+        "objects": [
+            "fabric towel",
+            "leather chair"
+        ]
+    },
+    {
+        "prompt": "a fluffy rug and a leather wallet",
+        "objects": [
+            "fluffy rug",
+            "leather wallet"
+        ]
+    },
+    {
+        "prompt": "a plastic cutlery and fluffy clouds",
+        "objects": [
+            "plastic cutlery",
+            "fluffy clouds"
+        ]
+    },
+    {
+        "prompt": "a wooden door and a glass jar",
+        "objects": [
+            "wooden door",
+            "glass jar"
+        ]
+    },
+    {
+        "prompt": "a fluffy teddy bear and a leather belt",
+        "objects": [
+            "fluffy teddy bear",
+            "leather belt"
+        ]
+    },
+    {
+        "prompt": "a plastic toy and a fluffy pillow",
+        "objects": [
+            "plastic toy",
+            "fluffy pillow"
+        ]
+    },
+    {
+        "prompt": "a rubber band and a plastic container",
+        "objects": [
+            "rubber band",
+            "plastic container"
+        ]
+    },
+    {
+        "prompt": "a leather wallet and a glass window",
+        "objects": [
+            "leather wallet",
+            "glass window"
+        ]
+    },
+    {
+        "prompt": "a wooden desk and a leather jacket",
+        "objects": [
+            "wooden desk",
+            "leather jacket"
+        ]
+    },
+    {
+        "prompt": "a metallic spoon and a wooden chair",
+        "objects": [
+            "metallic spoon",
+            "wooden chair"
+        ]
+    },
+    {
+        "prompt": "a leather jacket and a glass vase",
+        "objects": [
+            "leather jacket",
+            "glass vase"
+        ]
+    },
+    {
+        "prompt": "a wooden spoon and a fabric rug",
+        "objects": [
+            "wooden spoon",
+            "fabric rug"
+        ]
+    },
+    {
+        "prompt": "a metallic jewelry and a glass bottle",
+        "objects": [
+            "metallic jewelry",
+            "glass bottle"
+        ]
+    },
+    {
+        "prompt": "a metallic desk lamp and a wooden toy",
+        "objects": [
+            "metallic desk lamp",
+            "wooden toy"
+        ]
+    },
+    {
+        "prompt": "a plastic phone case and a leather chair",
+        "objects": [
+            "plastic phone case",
+            "leather chair"
+        ]
+    },
+    {
+        "prompt": "a rubber band and a wooden spoon",
+        "objects": [
+            "rubber band",
+            "wooden spoon"
+        ]
+    },
+    {
+        "prompt": "a metallic key and a fluffy pillow",
+        "objects": [
+            "metallic key",
+            "fluffy pillow"
+        ]
+    },
+    {
+        "prompt": "a leather shoes and a glass cup",
+        "objects": [
+            "leather shoes",
+            "glass cup"
+        ]
+    },
+    {
+        "prompt": "a metallic door knob and a wooden floor",
+        "objects": [
+            "metallic door knob",
+            "wooden floor"
+        ]
+    },
+    {
+        "prompt": "a rubber tire and a metallic key",
+        "objects": [
+            "rubber tire",
+            "metallic key"
+        ]
+    },
+    {
+        "prompt": "a metallic keychain and wooden chopsticks",
+        "objects": [
+            "metallic keychain",
+            "wooden chopsticks"
+        ]
+    },
+    {
+        "prompt": "a fabric blanket and a leather jacket",
+        "objects": [
+            "fabric blanket",
+            "leather jacket"
+        ]
+    },
+    {
+        "prompt": "a plastic container and a glass jar",
+        "objects": [
+            "plastic container",
+            "glass jar"
+        ]
+    },
+    {
+        "prompt": "fluffy clouds and a glass table",
+        "objects": [
+            "fluffy clouds",
+            "glass table"
+        ]
+    },
+    {
+        "prompt": "a rubber eraser and a metallic door knob",
+        "objects": [
+            "rubber eraser",
+            "metallic door knob"
+        ]
+    },
+    {
+        "prompt": "a rubber tire and a leather chair",
+        "objects": [
+            "rubber tire",
+            "leather chair"
+        ]
+    },
+    {
+        "prompt": "a fabric bag and a glass vase",
+        "objects": [
+            "fabric bag",
+            "glass vase"
+        ]
+    },
+    {
+        "prompt": "a plastic container and a fabric blanket",
+        "objects": [
+            "plastic container",
+            "fabric blanket"
+        ]
+    },
+    {
+        "prompt": "a metallic desk lamp and a fabric curtain",
+        "objects": [
+            "metallic desk lamp",
+            "fabric curtain"
+        ]
+    },
+    {
+        "prompt": "a metallic desk lamp and a glass cup",
+        "objects": [
+            "metallic desk lamp",
+            "glass cup"
+        ]
+    },
+    {
+        "prompt": "a metallic car and a fluffy sweater",
+        "objects": [
+            "metallic car",
+            "fluffy sweater"
+        ]
+    },
+    {
+        "prompt": "a metallic door knob and a fabric blanket",
+        "objects": [
+            "metallic door knob",
+            "fabric blanket"
+        ]
+    },
+    {
+        "prompt": "a rubber ball and a glass vase",
+        "objects": [
+            "rubber ball",
+            "glass vase"
+        ]
+    },
+    {
+        "prompt": "a wooden toy and a fabric pants",
+        "objects": [
+            "wooden toy",
+            "fabric pants"
+        ]
+    },
+    {
+        "prompt": "rubber sole shoes and a metallic key",
+        "objects": [
+            "rubber sole shoes",
+            "metallic key"
+        ]
+    },
+    {
+        "prompt": "a wooden door and a fluffy blanket",
+        "objects": [
+            "wooden door",
+            "fluffy blanket"
+        ]
+    },
+    {
+        "prompt": "a plastic container and a leather chair",
+        "objects": [
+            "plastic container",
+            "leather chair"
+        ]
+    },
+    {
+        "prompt": "rubber gloves and a wooden table",
+        "objects": [
+            "rubber gloves",
+            "wooden table"
+        ]
+    },
+    {
+        "prompt": "a fabric shirt and a fluffy teddy bear",
+        "objects": [
+            "fabric shirt",
+            "fluffy teddy bear"
+        ]
+    },
+    {
+        "prompt": "a wooden floor and a fabric shirt",
+        "objects": [
+            "wooden floor",
+            "fabric shirt"
+        ]
+    },
+    {
+        "prompt": "a fabric bag and a leather chair",
+        "objects": [
+            "fabric bag",
+            "leather chair"
+        ]
+    },
+    {
+        "prompt": "a plastic bag and a fabric pants",
+        "objects": [
+            "plastic bag",
+            "fabric pants"
+        ]
+    },
+    {
+        "prompt": "a fabric pants and a fluffy rug",
+        "objects": [
+            "fabric pants",
+            "fluffy rug"
+        ]
+    },
+    {
+        "prompt": "a metallic spoon and a glass vase",
+        "objects": [
+            "metallic spoon",
+            "glass vase"
+        ]
+    },
+    {
+        "prompt": "a rubber eraser and leather gloves",
+        "objects": [
+            "rubber eraser",
+            "leather gloves"
+        ]
+    },
+    {
+        "prompt": "a rubber tire and a metallic fork",
+        "objects": [
+            "rubber tire",
+            "metallic fork"
+        ]
+    },
+    {
+        "prompt": "a plastic container and a metallic fork",
+        "objects": [
+            "plastic container",
+            "metallic fork"
+        ]
+    },
+    {
+        "prompt": "a wooden table and a leather belt",
+        "objects": [
+            "wooden table",
+            "leather belt"
+        ]
+    },
+    {
+        "prompt": "a wooden floor and a glass bottle",
+        "objects": [
+            "wooden floor",
+            "glass bottle"
+        ]
+    },
+    {
+        "prompt": "a metallic door knob and a fabric pillow",
+        "objects": [
+            "metallic door knob",
+            "fabric pillow"
+        ]
+    },
+    {
+        "prompt": "a rubber ball and a fabric curtain",
+        "objects": [
+            "rubber ball",
+            "fabric curtain"
+        ]
+    },
+    {
+        "prompt": "a wooden table and a fabric blanket",
+        "objects": [
+            "wooden table",
+            "fabric blanket"
+        ]
+    },
+    {
+        "prompt": "a plastic toy and a leather bag",
+        "objects": [
+            "plastic toy",
+            "leather bag"
+        ]
+    },
+    {
+        "prompt": "a plastic phone case and a fabric bag",
+        "objects": [
+            "plastic phone case",
+            "fabric bag"
+        ]
+    },
+    {
+        "prompt": "a metallic watch and a glass bottle",
+        "objects": [
+            "metallic watch",
+            "glass bottle"
+        ]
+    },
+    {
+        "prompt": "a metallic key and fluffy clouds",
+        "objects": [
+            "metallic key",
+            "fluffy clouds"
+        ]
+    },
+    {
+        "prompt": "rubber gloves and a metallic watch",
+        "objects": [
+            "rubber gloves",
+            "metallic watch"
+        ]
+    },
+    {
+        "prompt": "a plastic toy and a wooden table",
+        "objects": [
+            "plastic toy",
+            "wooden table"
+        ]
+    },
+    {
+        "prompt": "a wooden toy and a fabric hat",
+        "objects": [
+            "wooden toy",
+            "fabric hat"
+        ]
+    },
+    {
+        "prompt": "a metallic fork and a fabric dress",
+        "objects": [
+            "metallic fork",
+            "fabric dress"
+        ]
+    },
+    {
+        "prompt": "a plastic cutlery and a glass mirror",
+        "objects": [
+            "plastic cutlery",
+            "glass mirror"
+        ]
+    },
+    {
+        "prompt": "a fabric rug and a leather belt",
+        "objects": [
+            "fabric rug",
+            "leather belt"
+        ]
+    },
+    {
+        "prompt": "a plastic container and a fluffy rug",
+        "objects": [
+            "plastic container",
+            "fluffy rug"
+        ]
+    },
+    {
+        "prompt": "a metallic car and a glass cup",
+        "objects": [
+            "metallic car",
+            "glass cup"
+        ]
+    },
+    {
+        "prompt": "a rubber tire and a plastic bottle",
+        "objects": [
+            "rubber tire",
+            "plastic bottle"
+        ]
+    },
+    {
+        "prompt": "a leather chair and a glass cup",
+        "objects": [
+            "leather chair",
+            "glass cup"
+        ]
+    },
+    {
+        "prompt": "a wooden chair and a fabric hat",
+        "objects": [
+            "wooden chair",
+            "fabric hat"
+        ]
+    },
+    {
+        "prompt": "a wooden desk and leather gloves",
+        "objects": [
+            "wooden desk",
+            "leather gloves"
+        ]
+    },
+    {
+        "prompt": "a plastic chair and a fluffy teddy bear",
+        "objects": [
+            "plastic chair",
+            "fluffy teddy bear"
+        ]
+    },
+    {
+        "prompt": "a fabric pillow and a leather chair",
+        "objects": [
+            "fabric pillow",
+            "leather chair"
+        ]
+    },
+    {
+        "prompt": "a fabric rug and a fluffy pillow",
+        "objects": [
+            "fabric rug",
+            "fluffy pillow"
+        ]
+    },
+    {
+        "prompt": "a metallic watch and a fluffy sweater",
+        "objects": [
+            "metallic watch",
+            "fluffy sweater"
+        ]
+    },
+    {
+        "prompt": "rubber gloves and a fabric hat",
+        "objects": [
+            "rubber gloves",
+            "fabric hat"
+        ]
+    },
+    {
+        "prompt": "a metallic key and a fabric curtain",
+        "objects": [
+            "metallic key",
+            "fabric curtain"
+        ]
+    },
+    {
+        "prompt": "a plastic container and a glass window",
+        "objects": [
+            "plastic container",
+            "glass window"
+        ]
+    },
+    {
+        "prompt": "a fabric hat and a fluffy blanket",
+        "objects": [
+            "fabric hat",
+            "fluffy blanket"
+        ]
+    },
+    {
+        "prompt": "a metallic spoon and a fluffy blanket",
+        "objects": [
+            "metallic spoon",
+            "fluffy blanket"
+        ]
+    },
+    {
+        "prompt": "a wooden spoon and a glass bottle",
+        "objects": [
+            "wooden spoon",
+            "glass bottle"
+        ]
+    },
+    {
+        "prompt": "a metallic desk lamp and a fabric dress",
+        "objects": [
+            "metallic desk lamp",
+            "fabric dress"
+        ]
+    },
+    {
+        "prompt": "a fabric blanket and a fluffy blanket",
+        "objects": [
+            "fabric blanket",
+            "fluffy blanket"
+        ]
+    },
+    {
+        "prompt": "a metallic door knob and a fabric pants",
+        "objects": [
+            "metallic door knob",
+            "fabric pants"
+        ]
+    },
+    {
+        "prompt": "a rubber band and wooden chopsticks",
+        "objects": [
+            "rubber band",
+            "wooden chopsticks"
+        ]
+    },
+    {
+        "prompt": "rubber sole shoes and a fluffy blanket",
+        "objects": [
+            "rubber sole shoes",
+            "fluffy blanket"
+        ]
+    },
+    {
+        "prompt": "a plastic container and a fluffy teddy bear",
+        "objects": [
+            "plastic container",
+            "fluffy teddy bear"
+        ]
+    },
+    {
+        "prompt": "a metallic door knob and a wooden desk",
+        "objects": [
+            "metallic door knob",
+            "wooden desk"
+        ]
+    },
+    {
+        "prompt": "a wooden chair and a fluffy teddy bear",
+        "objects": [
+            "wooden chair",
+            "fluffy teddy bear"
+        ]
+    },
+    {
+        "prompt": "a metallic jewelry and a fabric dress",
+        "objects": [
+            "metallic jewelry",
+            "fabric dress"
+        ]
+    },
+    {
+        "prompt": "a rubber ball and a metallic car",
+        "objects": [
+            "rubber ball",
+            "metallic car"
+        ]
+    },
+    {
+        "prompt": "a fabric rug and fluffy clouds",
+        "objects": [
+            "fabric rug",
+            "fluffy clouds"
+        ]
+    },
+    {
+        "prompt": "a plastic chair and leather gloves",
+        "objects": [
+            "plastic chair",
+            "leather gloves"
+        ]
+    },
+    {
+        "prompt": "a wooden door and a fabric dress",
+        "objects": [
+            "wooden door",
+            "fabric dress"
+        ]
+    },
+    {
+        "prompt": "a plastic bag and a glass jar",
+        "objects": [
+            "plastic bag",
+            "glass jar"
+        ]
+    },
+    {
+        "prompt": "a rubber band and a glass jar",
+        "objects": [
+            "rubber band",
+            "glass jar"
+        ]
+    },
+    {
+        "prompt": "a plastic chair and a metallic car",
+        "objects": [
+            "plastic chair",
+            "metallic car"
+        ]
+    },
+    {
+        "prompt": "a plastic cutlery and a wooden door",
+        "objects": [
+            "plastic cutlery",
+            "wooden door"
+        ]
+    },
+    {
+        "prompt": "a metallic knife and a glass jar",
+        "objects": [
+            "metallic knife",
+            "glass jar"
+        ]
+    },
+    {
+        "prompt": "a rubber ball and a leather shoes",
+        "objects": [
+            "rubber ball",
+            "leather shoes"
+        ]
+    },
+    {
+        "prompt": "rubber gloves and a fluffy pillow",
+        "objects": [
+            "rubber gloves",
+            "fluffy pillow"
+        ]
+    },
+    {
+        "prompt": "a fabric blanket and a glass jar",
+        "objects": [
+            "fabric blanket",
+            "glass jar"
+        ]
+    },
+    {
+        "prompt": "a fluffy pillow and a glass window",
+        "objects": [
+            "fluffy pillow",
+            "glass window"
+        ]
+    },
+    {
+        "prompt": "a metallic key and a wooden jewelry box",
+        "objects": [
+            "metallic key",
+            "wooden jewelry box"
+        ]
+    },
+    {
+        "prompt": "a metallic keychain and a fluffy teddy bear",
+        "objects": [
+            "metallic keychain",
+            "fluffy teddy bear"
+        ]
+    },
+    {
+        "prompt": "a rubber band and a wooden toy",
+        "objects": [
+            "rubber band",
+            "wooden toy"
+        ]
+    },
+    {
+        "prompt": "a plastic bottle and a leather jacket",
+        "objects": [
+            "plastic bottle",
+            "leather jacket"
+        ]
+    },
+    {
+        "prompt": "a plastic phone case and a wooden toy",
+        "objects": [
+            "plastic phone case",
+            "wooden toy"
+        ]
+    },
+    {
+        "prompt": "rubber sole shoes and a plastic container",
+        "objects": [
+            "rubber sole shoes",
+            "plastic container"
+        ]
+    },
+    {
+        "prompt": "a fluffy pillow and a leather belt",
+        "objects": [
+            "fluffy pillow",
+            "leather belt"
+        ]
+    },
+    {
+        "prompt": "a rubber band and a fabric blanket",
+        "objects": [
+            "rubber band",
+            "fabric blanket"
+        ]
+    },
+    {
+        "prompt": "a metallic door knob and a glass mirror",
+        "objects": [
+            "metallic door knob",
+            "glass mirror"
+        ]
+    },
+    {
+        "prompt": "leather gloves and a glass jar",
+        "objects": [
+            "leather gloves",
+            "glass jar"
+        ]
+    },
+    {
+        "prompt": "rubber sole shoes and a fluffy teddy bear",
+        "objects": [
+            "rubber sole shoes",
+            "fluffy teddy bear"
+        ]
+    },
+    {
+        "prompt": "rubber gloves and a metallic knife",
+        "objects": [
+            "rubber gloves",
+            "metallic knife"
+        ]
+    },
+    {
+        "prompt": "wooden chopsticks and a glass cup",
+        "objects": [
+            "wooden chopsticks",
+            "glass cup"
+        ]
+    },
+    {
+        "prompt": "a rubber band and a glass window",
+        "objects": [
+            "rubber band",
+            "glass window"
+        ]
+    },
+    {
+        "prompt": "a metallic desk lamp and a leather jacket",
+        "objects": [
+            "metallic desk lamp",
+            "leather jacket"
+        ]
+    },
+    {
+        "prompt": "a fabric pillow and a fluffy blanket",
+        "objects": [
+            "fabric pillow",
+            "fluffy blanket"
+        ]
+    },
+    {
+        "prompt": "a fabric hat and a glass mirror",
+        "objects": [
+            "fabric hat",
+            "glass mirror"
+        ]
+    },
+    {
+        "prompt": "a rubber ball and a leather belt",
+        "objects": [
+            "rubber ball",
+            "leather belt"
+        ]
+    },
+    {
+        "prompt": "a plastic phone case and a fabric curtain",
+        "objects": [
+            "plastic phone case",
+            "fabric curtain"
+        ]
+    },
+    {
+        "prompt": "a rubber band and a fabric curtain",
+        "objects": [
+            "rubber band",
+            "fabric curtain"
+        ]
+    },
+    {
+        "prompt": "a metallic fork and leather gloves",
+        "objects": [
+            "metallic fork",
+            "leather gloves"
+        ]
+    },
+    {
+        "prompt": "a metallic spoon and wooden chopsticks",
+        "objects": [
+            "metallic spoon",
+            "wooden chopsticks"
+        ]
+    },
+    {
+        "prompt": "a rubber ball and a metallic spoon",
+        "objects": [
+            "rubber ball",
+            "metallic spoon"
+        ]
+    },
+    {
+        "prompt": "a metallic fork and a fabric blanket",
+        "objects": [
+            "metallic fork",
+            "fabric blanket"
+        ]
+    },
+    {
+        "prompt": "a rubber tire and a fluffy rug",
+        "objects": [
+            "rubber tire",
+            "fluffy rug"
+        ]
+    },
+    {
+        "prompt": "a metallic jewelry and a wooden spoon",
+        "objects": [
+            "metallic jewelry",
+            "wooden spoon"
+        ]
+    },
+    {
+        "prompt": "rubber gloves and a wooden spoon",
+        "objects": [
+            "rubber gloves",
+            "wooden spoon"
+        ]
+    },
+    {
+        "prompt": "a metallic watch and a fluffy towel",
+        "objects": [
+            "metallic watch",
+            "fluffy towel"
+        ]
+    },
+    {
+        "prompt": "a plastic chair and a glass mirror",
+        "objects": [
+            "plastic chair",
+            "glass mirror"
+        ]
+    },
+    {
+        "prompt": "a rubber band and a glass table",
+        "objects": [
+            "rubber band",
+            "glass table"
+        ]
+    },
+    {
+        "prompt": "rubber gloves and a metallic car",
+        "objects": [
+            "rubber gloves",
+            "metallic car"
+        ]
+    },
+    {
+        "prompt": "rubber gloves and a plastic toy",
+        "objects": [
+            "rubber gloves",
+            "plastic toy"
+        ]
+    },
+    {
+        "prompt": "a fabric shirt and a leather wallet",
+        "objects": [
+            "fabric shirt",
+            "leather wallet"
+        ]
+    },
+    {
+        "prompt": "a fabric pants and a fluffy blanket",
+        "objects": [
+            "fabric pants",
+            "fluffy blanket"
+        ]
+    },
+    {
+        "prompt": "a metallic car and a leather shoes",
+        "objects": [
+            "metallic car",
+            "leather shoes"
+        ]
+    },
+    {
+        "prompt": "a rubber ball and a glass mirror",
+        "objects": [
+            "rubber ball",
+            "glass mirror"
+        ]
+    },
+    {
+        "prompt": "rubber gloves and leather gloves",
+        "objects": [
+            "rubber gloves",
+            "leather gloves"
+        ]
+    },
+    {
+        "prompt": "a metallic desk lamp and a fluffy blanket",
+        "objects": [
+            "metallic desk lamp",
+            "fluffy blanket"
+        ]
+    },
+    {
+        "prompt": "rubber gloves and a metallic door knob",
+        "objects": [
+            "rubber gloves",
+            "metallic door knob"
+        ]
+    },
+    {
+        "prompt": "a leather belt and a glass bottle",
+        "objects": [
+            "leather belt",
+            "glass bottle"
+        ]
+    },
+    {
+        "prompt": "a rubber ball and a plastic phone case",
+        "objects": [
+            "rubber ball",
+            "plastic phone case"
+        ]
+    },
+    {
+        "prompt": "a wooden jewelry box and a fabric blanket",
+        "objects": [
+            "wooden jewelry box",
+            "fabric blanket"
+        ]
+    },
+    {
+        "prompt": "a plastic bag and a wooden table",
+        "objects": [
+            "plastic bag",
+            "wooden table"
+        ]
+    },
+    {
+        "prompt": "a metallic keychain and a wooden jewelry box",
+        "objects": [
+            "metallic keychain",
+            "wooden jewelry box"
+        ]
+    },
+    {
+        "prompt": "a wooden floor and a fluffy rug",
+        "objects": [
+            "wooden floor",
+            "fluffy rug"
+        ]
+    },
+    {
+        "prompt": "a plastic chair and a wooden chair",
+        "objects": [
+            "plastic chair",
+            "wooden chair"
+        ]
+    },
+    {
+        "prompt": "a rubber tire and a wooden table",
+        "objects": [
+            "rubber tire",
+            "wooden table"
+        ]
+    },
+    {
+        "prompt": "a metallic keychain and a fabric pants",
+        "objects": [
+            "metallic keychain",
+            "fabric pants"
+        ]
+    },
+    {
+        "prompt": "a plastic bag and a fluffy rug",
+        "objects": [
+            "plastic bag",
+            "fluffy rug"
+        ]
+    },
+    {
+        "prompt": "a wooden door and a glass mirror",
+        "objects": [
+            "wooden door",
+            "glass mirror"
+        ]
+    },
+    {
+        "prompt": "a wooden jewelry box and a fluffy blanket",
+        "objects": [
+            "wooden jewelry box",
+            "fluffy blanket"
+        ]
+    },
+    {
+        "prompt": "a fabric hat and a fluffy sweater",
+        "objects": [
+            "fabric hat",
+            "fluffy sweater"
+        ]
+    },
+    {
+        "prompt": "a plastic bottle and a leather wallet",
+        "objects": [
+            "plastic bottle",
+            "leather wallet"
+        ]
+    },
+    {
+        "prompt": "a plastic phone case and a fabric hat",
+        "objects": [
+            "plastic phone case",
+            "fabric hat"
+        ]
+    },
+    {
+        "prompt": "a metallic spoon and a fluffy towel",
+        "objects": [
+            "metallic spoon",
+            "fluffy towel"
+        ]
+    },
+    {
+        "prompt": "a rubber eraser and a plastic chair",
+        "objects": [
+            "rubber eraser",
+            "plastic chair"
+        ]
+    },
+    {
+        "prompt": "a metallic spoon and a glass window",
+        "objects": [
+            "metallic spoon",
+            "glass window"
+        ]
+    },
+    {
+        "prompt": "a rubber tire and a wooden spoon",
+        "objects": [
+            "rubber tire",
+            "wooden spoon"
+        ]
+    },
+    {
+        "prompt": "rubber sole shoes and a metallic car",
+        "objects": [
+            "rubber sole shoes",
+            "metallic car"
+        ]
+    },
+    {
+        "prompt": "a plastic cutlery and a wooden picture frame",
+        "objects": [
+            "plastic cutlery",
+            "wooden picture frame"
+        ]
+    },
+    {
+        "prompt": "a metallic fork and a fluffy blanket",
+        "objects": [
+            "metallic fork",
+            "fluffy blanket"
+        ]
+    },
+    {
+        "prompt": "a plastic toy and a metallic jewelry",
+        "objects": [
+            "plastic toy",
+            "metallic jewelry"
+        ]
+    },
+    {
+        "prompt": "rubber sole shoes and a glass cup",
+        "objects": [
+            "rubber sole shoes",
+            "glass cup"
+        ]
+    },
+    {
+        "prompt": "a wooden floor and a glass window",
+        "objects": [
+            "wooden floor",
+            "glass window"
+        ]
+    },
+    {
+        "prompt": "a fabric shirt and a glass window",
+        "objects": [
+            "fabric shirt",
+            "glass window"
+        ]
+    },
+    {
+        "prompt": "a plastic container and a fabric curtain",
+        "objects": [
+            "plastic container",
+            "fabric curtain"
+        ]
+    },
+    {
+        "prompt": "a plastic container and a metallic jewelry",
+        "objects": [
+            "plastic container",
+            "metallic jewelry"
+        ]
+    },
+    {
+        "prompt": "a rubber eraser and a metallic keychain",
+        "objects": [
+            "rubber eraser",
+            "metallic keychain"
+        ]
+    },
+    {
+        "prompt": "a fabric dress and a fluffy towel",
+        "objects": [
+            "fabric dress",
+            "fluffy towel"
+        ]
+    },
+    {
+        "prompt": "a rubber tire and a plastic container",
+        "objects": [
+            "rubber tire",
+            "plastic container"
+        ]
+    },
+    {
+        "prompt": "a plastic chair and a fabric shirt",
+        "objects": [
+            "plastic chair",
+            "fabric shirt"
+        ]
+    },
+    {
+        "prompt": "a metallic fork and a wooden desk",
+        "objects": [
+            "metallic fork",
+            "wooden desk"
+        ]
+    },
+    {
+        "prompt": "a metallic jewelry and a leather wallet",
+        "objects": [
+            "metallic jewelry",
+            "leather wallet"
+        ]
+    },
+    {
+        "prompt": "a plastic phone case and leather gloves",
+        "objects": [
+            "plastic phone case",
+            "leather gloves"
+        ]
+    },
+    {
+        "prompt": "a metallic key and a fabric bag",
+        "objects": [
+            "metallic key",
+            "fabric bag"
+        ]
+    },
+    {
+        "prompt": "a rubber tire and a fabric pillow",
+        "objects": [
+            "rubber tire",
+            "fabric pillow"
+        ]
+    },
+    {
+        "prompt": "rubber gloves and a wooden floor",
+        "objects": [
+            "rubber gloves",
+            "wooden floor"
+        ]
+    },
+    {
+        "prompt": "a plastic bag and a leather chair",
+        "objects": [
+            "plastic bag",
+            "leather chair"
+        ]
+    },
+    {
+        "prompt": "a metallic car and a leather jacket",
+        "objects": [
+            "metallic car",
+            "leather jacket"
+        ]
+    },
+    {
+        "prompt": "a rubber eraser and a wooden picture frame",
+        "objects": [
+            "rubber eraser",
+            "wooden picture frame"
+        ]
+    },
+    {
+        "prompt": "a fluffy towel and a leather belt",
+        "objects": [
+            "fluffy towel",
+            "leather belt"
+        ]
+    },
+    {
+        "prompt": "a fabric blanket and a glass cup",
+        "objects": [
+            "fabric blanket",
+            "glass cup"
+        ]
+    },
+    {
+        "prompt": "a plastic container and a fluffy blanket",
+        "objects": [
+            "plastic container",
+            "fluffy blanket"
+        ]
+    },
+    {
+        "prompt": "a metallic fork and a wooden jewelry box",
+        "objects": [
+            "metallic fork",
+            "wooden jewelry box"
+        ]
+    },
+    {
+        "prompt": "a fluffy pillow and a leather shoes",
+        "objects": [
+            "fluffy pillow",
+            "leather shoes"
+        ]
+    },
+    {
+        "prompt": "a fluffy towel and a glass jar",
+        "objects": [
+            "fluffy towel",
+            "glass jar"
+        ]
+    },
+    {
+        "prompt": "a metallic fork and a wooden spoon",
+        "objects": [
+            "metallic fork",
+            "wooden spoon"
+        ]
+    },
+    {
+        "prompt": "a rubber ball and a fluffy towel",
+        "objects": [
+            "rubber ball",
+            "fluffy towel"
+        ]
+    },
+    {
+        "prompt": "a rubber eraser and a leather belt",
+        "objects": [
+            "rubber eraser",
+            "leather belt"
+        ]
+    },
+    {
+        "prompt": "a plastic phone case and a metallic jewelry",
+        "objects": [
+            "plastic phone case",
+            "metallic jewelry"
+        ]
+    },
+    {
+        "prompt": "a plastic container and a fluffy sweater",
+        "objects": [
+            "plastic container",
+            "fluffy sweater"
+        ]
+    },
+    {
+        "prompt": "a rubber band and a fabric towel",
+        "objects": [
+            "rubber band",
+            "fabric towel"
+        ]
+    },
+    {
+        "prompt": "a fabric dress and a glass vase",
+        "objects": [
+            "fabric dress",
+            "glass vase"
+        ]
+    }
+]

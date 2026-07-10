@@ -1,0 +1,2380 @@
+[
+    {
+        "prompt": "A person is looking at a rainbow and marveling at its beauty.",
+        "objects": [
+            "person",
+            "rainbow"
+        ]
+    },
+    {
+        "prompt": "A woman is speaking on the phone and making plans with a friend.",
+        "objects": [
+            "woman",
+            "phone",
+            "friend"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a yoga mat and heading to a class.",
+        "objects": [
+            "woman",
+            "yoga mat",
+            "class"
+        ]
+    },
+    {
+        "prompt": "The woodcarver is creating a sculpture of a bird from a block of wood.",
+        "objects": [
+            "woodcarver",
+            "sculpture",
+            "bird",
+            "block",
+            "wood"
+        ]
+    },
+    {
+        "prompt": "A cat is lazily lounging in a sunny windowsill.",
+        "objects": [
+            "cat",
+            "windowsill"
+        ]
+    },
+    {
+        "prompt": "A dog is playing with a chew toy on the carpet.",
+        "objects": [
+            "dog",
+            "toy",
+            "carpet"
+        ]
+    },
+    {
+        "prompt": "A child is running around a playground and playing with friends.",
+        "objects": [
+            "child",
+            "playground",
+            "friends"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a waterfall and feeling awestruck.",
+        "objects": [
+            "person",
+            "waterfall"
+        ]
+    },
+    {
+        "prompt": "A group of people are enjoying a barbecue in the backyard.",
+        "objects": [
+            "group",
+            "people",
+            "barbecue",
+            "backyard"
+        ]
+    },
+    {
+        "prompt": "A scientist is conducting experiments in a high-tech lab.",
+        "objects": [
+            "scientist",
+            "lab"
+        ]
+    },
+    {
+        "prompt": "A person is wearing a backpack and hiking up a mountain trail.",
+        "objects": [
+            "person",
+            "backpack",
+            "mountain",
+            "trail"
+        ]
+    },
+    {
+        "prompt": "A group of activists are marching in protest, chanting slogans and waving signs.",
+        "objects": [
+            "group",
+            "activists",
+            "signs"
+        ]
+    },
+    {
+        "prompt": "A couple is walking their dog and chatting along the way.",
+        "objects": [
+            "couple",
+            "dog",
+            "way"
+        ]
+    },
+    {
+        "prompt": "A painter is adding the final touches to a beautiful masterpiece.",
+        "objects": [
+            "painter",
+            "touches",
+            "masterpiece"
+        ]
+    },
+    {
+        "prompt": "The baker kneaded the dough before placing it in the oven to bake.",
+        "objects": [
+            "baker",
+            "dough",
+            "oven"
+        ]
+    },
+    {
+        "prompt": "A person is getting a relaxing massage, feeling tension melt away from their muscles.",
+        "objects": [
+            "person",
+            "massage",
+            "muscles"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a camera and taking photos of a beautiful landscape.",
+        "objects": [
+            "woman",
+            "camera",
+            "landscape"
+        ]
+    },
+    {
+        "prompt": "A person is laughing in the crowd.",
+        "objects": [
+            "person",
+            "crowd"
+        ]
+    },
+    {
+        "prompt": "The science fiction writer is creating a futuristic world in their book.",
+        "objects": [
+            "writer",
+            "world",
+            "book"
+        ]
+    },
+    {
+        "prompt": "A man is holding a book and reading on a park bench.",
+        "objects": [
+            "man",
+            "book",
+            "bench"
+        ]
+    },
+    {
+        "prompt": "The baby is crawling towards the toy.",
+        "objects": [
+            "baby",
+            "toy"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a paint can and redecorating a room.",
+        "objects": [
+            "woman",
+            "paint can",
+            "room"
+        ]
+    },
+    {
+        "prompt": "A person is walking with a friend and catching up on their lives.",
+        "objects": [
+            "person",
+            "friend"
+        ]
+    },
+    {
+        "prompt": "A person is wearing gloves and holding a snowball.",
+        "objects": [
+            "person",
+            "gloves",
+            "snowball"
+        ]
+    },
+    {
+        "prompt": "A river is flowing through a canyon.",
+        "objects": [
+            "river",
+            "canyon"
+        ]
+    },
+    {
+        "prompt": "A man is mowing the lawn with a push mower.",
+        "objects": [
+            "man",
+            "lawn",
+            "mower"
+        ]
+    },
+    {
+        "prompt": "A surfer is waxing their board before heading out into the water.",
+        "objects": [
+            "surfer",
+            "board",
+            "water"
+        ]
+    },
+    {
+        "prompt": "A dog is standing on its hind legs and trying to catch a frisbee.",
+        "objects": [
+            "dog",
+            "hind legs",
+            "frisbee"
+        ]
+    },
+    {
+        "prompt": "A person is practicing their juggling skills at the circus.",
+        "objects": [
+            "person",
+            "circus"
+        ]
+    },
+    {
+        "prompt": "A man is holding a briefcase and rushing to catch a train.",
+        "objects": [
+            "man",
+            "briefcase",
+            "train"
+        ]
+    },
+    {
+        "prompt": "A person is wearing a hat and sunglasses while fishing.",
+        "objects": [
+            "person",
+            "hat",
+            "sunglasses",
+            "fishing"
+        ]
+    },
+    {
+        "prompt": "A man is holding a soldering iron and repairing a broken electronic device.",
+        "objects": [
+            "man",
+            "soldering iron",
+            "device"
+        ]
+    },
+    {
+        "prompt": "A group of people are cheering at a sports game.",
+        "objects": [
+            "people",
+            "sports game"
+        ]
+    },
+    {
+        "prompt": "A person is shaking their head in disagreement.",
+        "objects": [
+            "person",
+            "head"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy drum set and making a joyful noise.",
+        "objects": [
+            "child",
+            "toy",
+            "drum",
+            "set"
+        ]
+    },
+    {
+        "prompt": "A woman is doing dishes in the kitchen.",
+        "objects": [
+            "woman",
+            "dishes",
+            "kitchen"
+        ]
+    },
+    {
+        "prompt": "A group of friends is having a picnic under a big oak tree.",
+        "objects": [
+            "group",
+            "friends",
+            "picnic",
+            "oak",
+            "tree"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy airplane and pretending to fly.",
+        "objects": [
+            "child",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "A woman is shopping for fresh produce at the farmer's market.",
+        "objects": [
+            "woman",
+            "produce",
+            "market"
+        ]
+    },
+    {
+        "prompt": "A man is holding a compass and navigating through the wilderness.",
+        "objects": [
+            "man",
+            "compass",
+            "wilderness"
+        ]
+    },
+    {
+        "prompt": "The textile artist is weaving a tapestry on a loom.",
+        "objects": [
+            "textile artist",
+            "tapestry",
+            "loom"
+        ]
+    },
+    {
+        "prompt": "A woman is speaking in sign language and communicating with a deaf friend.",
+        "objects": [
+            "woman",
+            "language",
+            "friend"
+        ]
+    },
+    {
+        "prompt": "A parent is comforting their child after a bad dream, holding them close and soothing their fears.",
+        "objects": [
+            "parent",
+            "child",
+            "dream"
+        ]
+    },
+    {
+        "prompt": "A person is standing on a skateboard and performing tricks.",
+        "objects": [
+            "person",
+            "skateboard"
+        ]
+    },
+    {
+        "prompt": "A person is jumping over a hurdle and competing in a track and field event.",
+        "objects": [
+            "person",
+            "hurdle",
+            "event"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a yo-yo and performing tricks.",
+        "objects": [
+            "child",
+            "yo-yo"
+        ]
+    },
+    {
+        "prompt": "A dog is playing with a chew toy and happily wagging its tail.",
+        "objects": [
+            "dog",
+            "toy",
+            "tail"
+        ]
+    },
+    {
+        "prompt": "A man is holding a map and navigating a boat on a lake.",
+        "objects": [
+            "man",
+            "map",
+            "boat",
+            "lake"
+        ]
+    },
+    {
+        "prompt": "A dog is playing fetch with its owner and bringing back a ball.",
+        "objects": [
+            "dog",
+            "owner",
+            "ball"
+        ]
+    },
+    {
+        "prompt": "The singer is performing a duet with a partner on stage.",
+        "objects": [
+            "singer",
+            "partner",
+            "stage"
+        ]
+    },
+    {
+        "prompt": "A person is walking with a guidebook and taking a tour of a historic site.",
+        "objects": [
+            "person",
+            "guidebook",
+            "site"
+        ]
+    },
+    {
+        "prompt": "A man is standing on a street corner and waiting for a bus.",
+        "objects": [
+            "man",
+            "street",
+            "corner",
+            "bus"
+        ]
+    },
+    {
+        "prompt": "A person is holding a basketball and playing a game with friends.",
+        "objects": [
+            "person",
+            "basketball",
+            "game",
+            "friends"
+        ]
+    },
+    {
+        "prompt": "A dog is wagging its tail and playing fetch with its owner.",
+        "objects": [
+            "dog",
+            "tail",
+            "owner"
+        ]
+    },
+    {
+        "prompt": "A dog is chasing its tail and having a playful moment.",
+        "objects": [
+            "dog",
+            "tail"
+        ]
+    },
+    {
+        "prompt": "A man is sitting on a park bench feeding pigeons.",
+        "objects": [
+            "man",
+            "bench",
+            "pigeons"
+        ]
+    },
+    {
+        "prompt": "A person is standing on a ladder and fixing a leaky roof.",
+        "objects": [
+            "person",
+            "ladder",
+            "roof"
+        ]
+    },
+    {
+        "prompt": "A man is holding a basketball and practicing his jump shot.",
+        "objects": [
+            "man",
+            "basketball"
+        ]
+    },
+    {
+        "prompt": "A man is holding a microphone and performing at a karaoke bar.",
+        "objects": [
+            "man",
+            "microphone",
+            "bar"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a cup of coffee while waiting for the bus.",
+        "objects": [
+            "woman",
+            "cup",
+            "coffee",
+            "bus"
+        ]
+    },
+    {
+        "prompt": "A student is typing on a laptop at a coffee shop.",
+        "objects": [
+            "student",
+            "laptop",
+            "coffee shop"
+        ]
+    },
+    {
+        "prompt": "A couple is holding hands and walking through a park.",
+        "objects": [
+            "couple",
+            "hands",
+            "park"
+        ]
+    },
+    {
+        "prompt": "A chef is carefully seasoning a dish, tasting it over and over until it's just right.",
+        "objects": [
+            "chef",
+            "dish"
+        ]
+    },
+    {
+        "prompt": "A man is playing the drums in his garage band.",
+        "objects": [
+            "man",
+            "drums",
+            "garage"
+        ]
+    },
+    {
+        "prompt": "A person is playing guitar on the beach.",
+        "objects": [
+            "person",
+            "guitar",
+            "beach"
+        ]
+    },
+    {
+        "prompt": "The sushi chef is slicing fresh fish for sashimi.",
+        "objects": [
+            "sushi chef",
+            "fish",
+            "sashimi"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a bouquet of flowers and smiling with happiness.",
+        "objects": [
+            "woman",
+            "bouquet",
+            "flowers"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a hula hoop and perfecting their moves.",
+        "objects": [
+            "child",
+            "hula hoop"
+        ]
+    },
+    {
+        "prompt": "A dog is chasing after a ball and wagging its tail.",
+        "objects": [
+            "dog",
+            "ball",
+            "tail"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a map and planning a road trip.",
+        "objects": [
+            "person",
+            "map",
+            "trip"
+        ]
+    },
+    {
+        "prompt": "A person is holding a glass of wine and enjoying a sunset.",
+        "objects": [
+            "person",
+            "glass",
+            "wine",
+            "sunset"
+        ]
+    },
+    {
+        "prompt": "A dog is panting and resting after a long walk.",
+        "objects": [
+            "dog",
+            "walk"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a work of art and analyzing its meaning.",
+        "objects": [
+            "person",
+            "work",
+            "art"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a slice of pizza and taking a bite.",
+        "objects": [
+            "woman",
+            "pizza"
+        ]
+    },
+    {
+        "prompt": "A person is holding a calculator and working on a math problem.",
+        "objects": [
+            "person",
+            "calculator"
+        ]
+    },
+    {
+        "prompt": "A person is clapping in applause.",
+        "objects": [
+            "person"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a basket of fruit and smiling at the farmer's market.",
+        "objects": [
+            "woman",
+            "basket",
+            "fruit",
+            "farmer",
+            "market"
+        ]
+    },
+    {
+        "prompt": "A horse is galloping in a meadow.",
+        "objects": [
+            "horse",
+            "meadow"
+        ]
+    },
+    {
+        "prompt": "A child is carefully planting a seed in the garden, hoping it will grow into a beautiful flower.",
+        "objects": [
+            "child",
+            "seed",
+            "garden",
+            "flower"
+        ]
+    },
+    {
+        "prompt": "A person is walking with a friend and enjoying a conversation.",
+        "objects": [
+            "person",
+            "friend",
+            "conversation"
+        ]
+    },
+    {
+        "prompt": "A bartender is mixing drinks behind the bar.",
+        "objects": [
+            "bartender",
+            "drinks",
+            "bar"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a display of vintage clothing and admiring the fashion.",
+        "objects": [
+            "person",
+            "display",
+            "clothing"
+        ]
+    },
+    {
+        "prompt": "A person is holding a phone and scrolling through social media.",
+        "objects": [
+            "person",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "A child is playing in the sandbox.",
+        "objects": [
+            "child",
+            "sandbox"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a rolling pin and making pie crust.",
+        "objects": [
+            "woman",
+            "rolling pin",
+            "pie crust"
+        ]
+    },
+    {
+        "prompt": "A bride is walking down the aisle towards her groom.",
+        "objects": [
+            "bride",
+            "aisle",
+            "groom"
+        ]
+    },
+    {
+        "prompt": "A couple is stargazing in a field.",
+        "objects": [
+            "couple",
+            "field"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a full moon and feeling inspired.",
+        "objects": [
+            "person",
+            "moon"
+        ]
+    },
+    {
+        "prompt": "A group of friends is playing frisbee on the beach.",
+        "objects": [
+            "group",
+            "friends",
+            "frisbee",
+            "beach"
+        ]
+    },
+    {
+        "prompt": "The scientist observed the behavior of the animals in their natural habitat.",
+        "objects": [
+            "scientist",
+            "animals",
+            "habitat"
+        ]
+    },
+    {
+        "prompt": "A boat is sailing on a lake.",
+        "objects": [
+            "boat",
+            "lake"
+        ]
+    },
+    {
+        "prompt": "A chef is preparing a fancy meal for a special occasion, carefully plating each dish.",
+        "objects": [
+            "chef",
+            "meal",
+            "occasion",
+            "dish"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a microphone and singing at a concert.",
+        "objects": [
+            "woman",
+            "microphone",
+            "concert"
+        ]
+    },
+    {
+        "prompt": "A person is standing on a rooftop and enjoying the view.",
+        "objects": [
+            "person",
+            "rooftop",
+            "view"
+        ]
+    },
+    {
+        "prompt": "A person is gazing up at the stars through a telescope.",
+        "objects": [
+            "person",
+            "stars",
+            "telescope"
+        ]
+    },
+    {
+        "prompt": "A couple is cuddled up together on a park bench.",
+        "objects": [
+            "couple",
+            "bench",
+            "park"
+        ]
+    },
+    {
+        "prompt": "A person is jumping on a trampoline and feeling exhilarated.",
+        "objects": [
+            "person",
+            "trampoline"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a work of art and admiring its beauty.",
+        "objects": [
+            "person",
+            "art"
+        ]
+    },
+    {
+        "prompt": "A child is blowing bubbles in the park.",
+        "objects": [
+            "child",
+            "bubbles",
+            "park"
+        ]
+    },
+    {
+        "prompt": "A person is sighing in relief.",
+        "objects": [
+            "person"
+        ]
+    },
+    {
+        "prompt": "A group of friends is playing soccer in a park.",
+        "objects": [
+            "group",
+            "friends",
+            "soccer",
+            "park"
+        ]
+    },
+    {
+        "prompt": "A man is running his hand over a smooth rock at the beach.",
+        "objects": [
+            "man",
+            "hand",
+            "rock",
+            "beach"
+        ]
+    },
+    {
+        "prompt": "A baby is holding onto their mother's finger.",
+        "objects": [
+            "baby",
+            "finger",
+            "mother"
+        ]
+    },
+    {
+        "prompt": "A gymnast is performing a perfect routine on the balance beam.",
+        "objects": [
+            "gymnast",
+            "routine",
+            "balance beam"
+        ]
+    },
+    {
+        "prompt": "A person is looking at the menu and deciding what to order.",
+        "objects": [
+            "person",
+            "menu"
+        ]
+    },
+    {
+        "prompt": "A man is holding a leash and taking his dog for a walk.",
+        "objects": [
+            "man",
+            "leash",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "A person is running in a marathon and striving for a personal best.",
+        "objects": [
+            "person",
+            "marathon"
+        ]
+    },
+    {
+        "prompt": "A man is building a birdhouse in his workshop.",
+        "objects": [
+            "man",
+            "birdhouse",
+            "workshop"
+        ]
+    },
+    {
+        "prompt": "A person is wearing a chef's hat and cooking a meal.",
+        "objects": [
+            "person",
+            "hat",
+            "meal"
+        ]
+    },
+    {
+        "prompt": "A person is running on a treadmill and working up a sweat.",
+        "objects": [
+            "person",
+            "treadmill"
+        ]
+    },
+    {
+        "prompt": "A person is taking a hot air balloon ride over the countryside.",
+        "objects": [
+            "person",
+            "hot air balloon",
+            "countryside"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a yo-yo and trying to make it go up and down.",
+        "objects": [
+            "child",
+            "yo-yo"
+        ]
+    },
+    {
+        "prompt": "A storm is brewing in the distance.",
+        "objects": [
+            "storm"
+        ]
+    },
+    {
+        "prompt": "A group of people are hiking through a forest trail.",
+        "objects": [
+            "group",
+            "people",
+            "forest",
+            "trail"
+        ]
+    },
+    {
+        "prompt": "A couple is enjoying a picnic in the park.",
+        "objects": [
+            "couple",
+            "picnic",
+            "park"
+        ]
+    },
+    {
+        "prompt": "The athlete stretched before the big game, hoping to avoid any injuries.",
+        "objects": [
+            "athlete",
+            "game"
+        ]
+    },
+    {
+        "prompt": "The wind is whistling through the trees.",
+        "objects": [
+            "wind",
+            "trees"
+        ]
+    },
+    {
+        "prompt": "A group of friends are sitting around a campfire and roasting marshmallows.",
+        "objects": [
+            "group",
+            "friends",
+            "campfire",
+            "marshmallows"
+        ]
+    },
+    {
+        "prompt": "The model is posing for a fashion photoshoot.",
+        "objects": [
+            "model"
+        ]
+    },
+    {
+        "prompt": "A child is blowing bubbles in the park, giggling as they float through the air.",
+        "objects": [
+            "child",
+            "bubbles",
+            "park"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a cup of coffee and chatting with a friend.",
+        "objects": [
+            "woman",
+            "cup",
+            "coffee",
+            "friend"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy train and creating a miniature world.",
+        "objects": [
+            "child",
+            "toy train",
+            "world"
+        ]
+    },
+    {
+        "prompt": "A couple is watching a movie on the couch.",
+        "objects": [
+            "couple",
+            "movie",
+            "couch"
+        ]
+    },
+    {
+        "prompt": "A man is holding a telescope and stargazing in the middle of the night.",
+        "objects": [
+            "man",
+            "telescope",
+            "night"
+        ]
+    },
+    {
+        "prompt": "The skater gracefully glided across the ice, performing intricate moves and jumps.",
+        "objects": [
+            "skater",
+            "ice"
+        ]
+    },
+    {
+        "prompt": "A dancer is practicing their routine, perfecting each step and movement.",
+        "objects": [
+            "dancer",
+            "routine",
+            "step",
+            "movement"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy kitchen and making imaginary meals.",
+        "objects": [
+            "child",
+            "toy kitchen"
+        ]
+    },
+    {
+        "prompt": "A child is holding a book and reading it in bed.",
+        "objects": [
+            "child",
+            "book",
+            "bed"
+        ]
+    },
+    {
+        "prompt": "A dog is licking its owner's face and showing affection.",
+        "objects": [
+            "dog",
+            "face",
+            "owner"
+        ]
+    },
+    {
+        "prompt": "A firefly is lighting up the night sky.",
+        "objects": [
+            "firefly",
+            "night",
+            "sky"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a bouquet of balloons and celebrating a birthday.",
+        "objects": [
+            "woman",
+            "balloons",
+            "birthday"
+        ]
+    },
+    {
+        "prompt": "A woman is practicing her painting skills in an art studio.",
+        "objects": [
+            "woman",
+            "painting",
+            "studio"
+        ]
+    },
+    {
+        "prompt": "A writer is brainstorming ideas for their next novel, scribbling notes in a notebook.",
+        "objects": [
+            "writer",
+            "notebook"
+        ]
+    },
+    {
+        "prompt": "The writer is brainstorming ideas for a new book.",
+        "objects": [
+            "writer",
+            "book"
+        ]
+    },
+    {
+        "prompt": "A woman is sipping coffee while looking out a window.",
+        "objects": [
+            "woman",
+            "coffee",
+            "window"
+        ]
+    },
+    {
+        "prompt": "A couple is relaxing in a hammock under the shade of a tree.",
+        "objects": [
+            "couple",
+            "hammock",
+            "tree"
+        ]
+    },
+    {
+        "prompt": "A boy is playing basketball in the driveway.",
+        "objects": [
+            "boy",
+            "basketball",
+            "driveway"
+        ]
+    },
+    {
+        "prompt": "A couple is taking a romantic bike ride through the countryside.",
+        "objects": [
+            "couple",
+            "bike",
+            "countryside"
+        ]
+    },
+    {
+        "prompt": "A woman is practicing archery in a field.",
+        "objects": [
+            "woman",
+            "archery",
+            "field"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a jump ball and bouncing it up and down.",
+        "objects": [
+            "child",
+            "ball"
+        ]
+    },
+    {
+        "prompt": "A person is nodding in agreement.",
+        "objects": [
+            "person"
+        ]
+    },
+    {
+        "prompt": "A woman is talking to her doctor about her health.",
+        "objects": [
+            "woman",
+            "doctor"
+        ]
+    },
+    {
+        "prompt": "A performer is rehearsing for a big show, going over their lines and moves again and again.",
+        "objects": [
+            "performer",
+            "show"
+        ]
+    },
+    {
+        "prompt": "A man is holding a baseball bat and practicing his swing.",
+        "objects": [
+            "man",
+            "baseball bat"
+        ]
+    },
+    {
+        "prompt": "A bird is nesting in a tree.",
+        "objects": [
+            "bird",
+            "tree"
+        ]
+    },
+    {
+        "prompt": "A dog is wagging its tail and greeting a visitor.",
+        "objects": [
+            "dog",
+            "tail",
+            "visitor"
+        ]
+    },
+    {
+        "prompt": "A person is holding a piece of fruit and taking a bite.",
+        "objects": [
+            "person",
+            "fruit"
+        ]
+    },
+    {
+        "prompt": "A man is tinkering with a car engine in his garage.",
+        "objects": [
+            "man",
+            "car",
+            "engine",
+            "garage"
+        ]
+    },
+    {
+        "prompt": "A person is jumping on a trampoline and having a blast.",
+        "objects": [
+            "person",
+            "trampoline"
+        ]
+    },
+    {
+        "prompt": "A dog is jumping over a hurdle and competing in an agility course.",
+        "objects": [
+            "dog",
+            "hurdle",
+            "course"
+        ]
+    },
+    {
+        "prompt": "The mechanic is repairing a car in the garage.",
+        "objects": [
+            "mechanic",
+            "car",
+            "garage"
+        ]
+    },
+    {
+        "prompt": "A person is running through a field and enjoying the fresh air.",
+        "objects": [
+            "person",
+            "field"
+        ]
+    },
+    {
+        "prompt": "A dog is cuddling with its owner and showing affection.",
+        "objects": [
+            "dog",
+            "owner"
+        ]
+    },
+    {
+        "prompt": "A couple is cuddled up in front of a cozy fireplace.",
+        "objects": [
+            "couple",
+            "fireplace"
+        ]
+    },
+    {
+        "prompt": "A man is standing on a ladder and painting a wall.",
+        "objects": [
+            "man",
+            "ladder",
+            "wall"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a baby and cooing to soothe them.",
+        "objects": [
+            "woman",
+            "baby"
+        ]
+    },
+    {
+        "prompt": "The artist painted a stunning landscape of a waterfall cascading into a pool.",
+        "objects": [
+            "artist",
+            "landscape",
+            "waterfall",
+            "pool"
+        ]
+    },
+    {
+        "prompt": "The boxer is training with a punching bag at the gym.",
+        "objects": [
+            "boxer",
+            "punching bag",
+            "gym"
+        ]
+    },
+    {
+        "prompt": "A person is walking with a cane and taking their time down the street.",
+        "objects": [
+            "person",
+            "cane",
+            "street"
+        ]
+    },
+    {
+        "prompt": "A book is lying open on a coffee table, waiting to be read.",
+        "objects": [
+            "book",
+            "table"
+        ]
+    },
+    {
+        "prompt": "A man is holding a violin and playing a beautiful melody.",
+        "objects": [
+            "man",
+            "violin"
+        ]
+    },
+    {
+        "prompt": "A man is holding a set of keys and unlocking his car.",
+        "objects": [
+            "man",
+            "keys",
+            "car"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a bubble wand and blowing bubbles in the sunshine.",
+        "objects": [
+            "child",
+            "bubble",
+            "wand",
+            "bubbles",
+            "sunshine"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a sculpture garden and appreciating the artwork.",
+        "objects": [
+            "person",
+            "sculpture",
+            "garden",
+            "artwork"
+        ]
+    },
+    {
+        "prompt": "A child is holding a balloon at a birthday party.",
+        "objects": [
+            "child",
+            "balloon",
+            "party"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy train and making it chug along.",
+        "objects": [
+            "child",
+            "toy train"
+        ]
+    },
+    {
+        "prompt": "A dog is playing tug-of-war with its owner and wagging its tail.",
+        "objects": [
+            "dog",
+            "owner",
+            "tail"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a hammer and nailing a picture to the wall.",
+        "objects": [
+            "woman",
+            "hammer",
+            "picture",
+            "wall"
+        ]
+    },
+    {
+        "prompt": "A child is chasing after a butterfly in the park.",
+        "objects": [
+            "child",
+            "butterfly",
+            "park"
+        ]
+    },
+    {
+        "prompt": "A man is fishing on a pier by the lake.",
+        "objects": [
+            "man",
+            "pier",
+            "lake"
+        ]
+    },
+    {
+        "prompt": "The calligrapher is writing in beautiful script with a quill pen.",
+        "objects": [
+            "calligrapher",
+            "script",
+            "quill",
+            "pen"
+        ]
+    },
+    {
+        "prompt": "The magician is performing a trick with cards.",
+        "objects": [
+            "magician",
+            "cards"
+        ]
+    },
+    {
+        "prompt": "A man is playing the guitar and singing a song.",
+        "objects": [
+            "man",
+            "guitar",
+            "song"
+        ]
+    },
+    {
+        "prompt": "The mountain biker is navigating a rocky trail.",
+        "objects": [
+            "mountain",
+            "biker",
+            "trail",
+            "rocky"
+        ]
+    },
+    {
+        "prompt": "A person is walking with a backpack and exploring a new city.",
+        "objects": [
+            "person",
+            "backpack",
+            "city"
+        ]
+    },
+    {
+        "prompt": "A man is holding a rake and raking leaves in the yard.",
+        "objects": [
+            "man",
+            "rake",
+            "leaves",
+            "yard"
+        ]
+    },
+    {
+        "prompt": "The paper crafter is making a paper flower bouquet.",
+        "objects": [
+            "paper",
+            "crafter",
+            "flower",
+            "bouquet"
+        ]
+    },
+    {
+        "prompt": "A musician is composing a new song, experimenting with melodies and lyrics.",
+        "objects": [
+            "musician",
+            "song"
+        ]
+    },
+    {
+        "prompt": "The coach is giving a pep talk to the team before the game.",
+        "objects": [
+            "coach",
+            "team",
+            "game"
+        ]
+    },
+    {
+        "prompt": "A person is wearing sunglasses on a sunny day.",
+        "objects": [
+            "person",
+            "sunglasses",
+            "day"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a basket of laundry and heading to the washing machine.",
+        "objects": [
+            "woman",
+            "basket",
+            "laundry",
+            "washing machine"
+        ]
+    },
+    {
+        "prompt": "A person is jumping over a hurdle and training for a race.",
+        "objects": [
+            "person",
+            "hurdle",
+            "race"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy robot and making it move around.",
+        "objects": [
+            "child",
+            "toy",
+            "robot"
+        ]
+    },
+    {
+        "prompt": "A couple is watching a movie and snuggled up on the couch.",
+        "objects": [
+            "couple",
+            "movie",
+            "couch"
+        ]
+    },
+    {
+        "prompt": "A dog is walking on a leash with its owner.",
+        "objects": [
+            "dog",
+            "leash",
+            "owner"
+        ]
+    },
+    {
+        "prompt": "A person is kissing someone they love.",
+        "objects": [
+            "person",
+            "someone"
+        ]
+    },
+    {
+        "prompt": "The painter is putting a fresh coat of paint on the walls.",
+        "objects": [
+            "painter",
+            "coat",
+            "paint",
+            "walls"
+        ]
+    },
+    {
+        "prompt": "A child is running through a sprinkler and getting soaked.",
+        "objects": [
+            "child",
+            "sprinkler"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a kite and watching it soar high in the sky.",
+        "objects": [
+            "child",
+            "kite",
+            "sky"
+        ]
+    },
+    {
+        "prompt": "A woman is practicing her dance routine in a studio.",
+        "objects": [
+            "woman",
+            "dance",
+            "routine",
+            "studio"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a map and trying to find their way.",
+        "objects": [
+            "person",
+            "map"
+        ]
+    },
+    {
+        "prompt": "The florist is arranging a bouquet of flowers.",
+        "objects": [
+            "florist",
+            "bouquet",
+            "flowers"
+        ]
+    },
+    {
+        "prompt": "A man is flying a kite on a windy day.",
+        "objects": [
+            "man",
+            "kite",
+            "day"
+        ]
+    },
+    {
+        "prompt": "A gardener is pruning a beautiful bonsai tree.",
+        "objects": [
+            "gardener",
+            "bonsai",
+            "tree"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy spaceship and pretending to explore space.",
+        "objects": [
+            "child",
+            "spaceship"
+        ]
+    },
+    {
+        "prompt": "A group of people is hiking in a scenic nature reserve.",
+        "objects": [
+            "group",
+            "people",
+            "reserve"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a hula hoop and twirling it around their waist.",
+        "objects": [
+            "child",
+            "hula hoop",
+            "waist"
+        ]
+    },
+    {
+        "prompt": "A dog is chasing a ball and having fun in the park.",
+        "objects": [
+            "dog",
+            "ball",
+            "park"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy building set and creating a tower.",
+        "objects": [
+            "child",
+            "toy",
+            "building",
+            "set",
+            "tower"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a bubble wand and creating a sea of bubbles.",
+        "objects": [
+            "child",
+            "bubble wand",
+            "bubbles"
+        ]
+    },
+    {
+        "prompt": "A child is jumping rope in the schoolyard.",
+        "objects": [
+            "child",
+            "rope",
+            "schoolyard"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a bouquet of roses and giving them to her partner.",
+        "objects": [
+            "woman",
+            "bouquet",
+            "roses",
+            "partner"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy boat at the beach.",
+        "objects": [
+            "child",
+            "boat",
+            "beach"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy pirate ship and making it sail.",
+        "objects": [
+            "child",
+            "toy",
+            "pirate",
+            "ship"
+        ]
+    },
+    {
+        "prompt": "A group of friends are watching a movie together.",
+        "objects": [
+            "group",
+            "friends",
+            "movie"
+        ]
+    },
+    {
+        "prompt": "A child is jumping on a trampoline in their backyard.",
+        "objects": [
+            "child",
+            "trampoline",
+            "backyard"
+        ]
+    },
+    {
+        "prompt": "A man is playing golf at a scenic course.",
+        "objects": [
+            "man",
+            "golf",
+            "course"
+        ]
+    },
+    {
+        "prompt": "A skier is gliding down a snow-covered mountain.",
+        "objects": [
+            "skier",
+            "mountain",
+            "snow"
+        ]
+    },
+    {
+        "prompt": "A man is practicing his archery skills at the range.",
+        "objects": [
+            "man",
+            "archery",
+            "range"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a frisbee and throwing it back and forth.",
+        "objects": [
+            "child",
+            "frisbee"
+        ]
+    },
+    {
+        "prompt": "A person is holding a bouquet of flowers and giving it to a loved one.",
+        "objects": [
+            "person",
+            "bouquet",
+            "flowers",
+            "loved one"
+        ]
+    },
+    {
+        "prompt": "The climber is scaling a rock face with ropes and gear.",
+        "objects": [
+            "climber",
+            "rock",
+            "face",
+            "ropes",
+            "gear"
+        ]
+    },
+    {
+        "prompt": "A woman is practicing her violin in her music room.",
+        "objects": [
+            "woman",
+            "violin",
+            "music room"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a sunset and feeling peaceful.",
+        "objects": [
+            "person",
+            "sunset"
+        ]
+    },
+    {
+        "prompt": "The customer is trying on shoes at the store.",
+        "objects": [
+            "customer",
+            "shoes",
+            "store"
+        ]
+    },
+    {
+        "prompt": "A man is washing his car in the driveway.",
+        "objects": [
+            "man",
+            "car",
+            "driveway"
+        ]
+    },
+    {
+        "prompt": "A gardener is tending to their plants, carefully watering and pruning each one.",
+        "objects": [
+            "gardener",
+            "plants"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a Frisbee and trying to catch it.",
+        "objects": [
+            "child",
+            "Frisbee"
+        ]
+    },
+    {
+        "prompt": "A girl is reading a book in a hammock in the backyard.",
+        "objects": [
+            "girl",
+            "book",
+            "hammock",
+            "backyard"
+        ]
+    },
+    {
+        "prompt": "A person is holding a camera and taking photos of the city.",
+        "objects": [
+            "person",
+            "camera",
+            "city"
+        ]
+    },
+    {
+        "prompt": "A man is raking leaves in the front yard.",
+        "objects": [
+            "man",
+            "leaves",
+            "yard"
+        ]
+    },
+    {
+        "prompt": "A couple is stargazing on a hill.",
+        "objects": [
+            "couple",
+            "hill"
+        ]
+    },
+    {
+        "prompt": "A woman is speaking on the phone and pacing back and forth.",
+        "objects": [
+            "woman",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "A person is wearing a graduation cap and gown and receiving their diploma.",
+        "objects": [
+            "person",
+            "graduation cap",
+            "gown",
+            "diploma"
+        ]
+    },
+    {
+        "prompt": "The sun was setting behind the mountains as the hiker reached the peak.",
+        "objects": [
+            "sun",
+            "mountains",
+            "hiker",
+            "peak"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy microscope and examining insects.",
+        "objects": [
+            "child",
+            "microscope",
+            "insects"
+        ]
+    },
+    {
+        "prompt": "A woman is practicing calligraphy at home.",
+        "objects": [
+            "woman",
+            "calligraphy",
+            "home"
+        ]
+    },
+    {
+        "prompt": "A train is passing through a station.",
+        "objects": [
+            "train",
+            "station"
+        ]
+    },
+    {
+        "prompt": "The fisherman cast their line into the water, waiting patiently for a bite.",
+        "objects": [
+            "fisherman",
+            "line",
+            "water"
+        ]
+    },
+    {
+        "prompt": "A person is yawning in a boring meeting.",
+        "objects": [
+            "person",
+            "meeting"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a bouquet of flowers on her wedding day.",
+        "objects": [
+            "woman",
+            "bouquet",
+            "flowers",
+            "wedding"
+        ]
+    },
+    {
+        "prompt": "A volunteer is helping out at a homeless shelter, serving meals and offering a kind word.",
+        "objects": [
+            "volunteer",
+            "shelter",
+            "meals"
+        ]
+    },
+    {
+        "prompt": "A person is wearing a chef's hat and cooking a gourmet meal.",
+        "objects": [
+            "person",
+            "hat",
+            "meal"
+        ]
+    },
+    {
+        "prompt": "A man is holding a golf club and teeing off on a course.",
+        "objects": [
+            "man",
+            "golf club",
+            "course"
+        ]
+    },
+    {
+        "prompt": "A dog is sitting next to its owner and listening to commands.",
+        "objects": [
+            "dog",
+            "owner",
+            "commands"
+        ]
+    },
+    {
+        "prompt": "The makeup artist is creating a dramatic look for a fashion show.",
+        "objects": [
+            "makeup artist",
+            "look",
+            "fashion show"
+        ]
+    },
+    {
+        "prompt": "A toddler clumsily chased after a ball, giggling with delight.",
+        "objects": [
+            "toddler",
+            "ball"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a jump rope and mastering their skills.",
+        "objects": [
+            "child",
+            "jump rope"
+        ]
+    },
+    {
+        "prompt": "A group of friends is playing board games on a rainy day.",
+        "objects": [
+            "group",
+            "friends",
+            "board games",
+            "day"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a starry night sky and feeling awe-struck.",
+        "objects": [
+            "person",
+            "night",
+            "sky"
+        ]
+    },
+    {
+        "prompt": "A woman is walking with her dog in the forest.",
+        "objects": [
+            "woman",
+            "dog",
+            "forest"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a plate of food and serving it to guests.",
+        "objects": [
+            "woman",
+            "plate",
+            "food",
+            "guests"
+        ]
+    },
+    {
+        "prompt": "A cat is wearing a collar with a bell on it.",
+        "objects": [
+            "cat",
+            "collar",
+            "bell"
+        ]
+    },
+    {
+        "prompt": "A man is holding a saw and building a wooden table.",
+        "objects": [
+            "man",
+            "saw",
+            "table"
+        ]
+    },
+    {
+        "prompt": "A couple is sitting on a swing and talking to each other.",
+        "objects": [
+            "couple",
+            "swing"
+        ]
+    },
+    {
+        "prompt": "The dancer is performing a ballet on pointe.",
+        "objects": [
+            "dancer",
+            "ballet",
+            "pointe"
+        ]
+    },
+    {
+        "prompt": "A person is holding a backpack sprayer and spraying weeds in a garden.",
+        "objects": [
+            "person",
+            "backpack",
+            "sprayer",
+            "weeds",
+            "garden"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a yoga pose and breathing deeply.",
+        "objects": [
+            "woman",
+            "pose"
+        ]
+    },
+    {
+        "prompt": "A man is running his fingers through his hair and looking stressed.",
+        "objects": [
+            "man",
+            "fingers",
+            "hair"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a map of the stars and searching for constellations.",
+        "objects": [
+            "person",
+            "map",
+            "stars",
+            "constellations"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a map of the solar system and studying the planets.",
+        "objects": [
+            "person",
+            "map",
+            "solar system",
+            "planets"
+        ]
+    },
+    {
+        "prompt": "A person is bungee jumping off a bridge.",
+        "objects": [
+            "person",
+            "bridge"
+        ]
+    },
+    {
+        "prompt": "A dog is playing with a tennis ball and running after it.",
+        "objects": [
+            "dog",
+            "tennis ball"
+        ]
+    },
+    {
+        "prompt": "A team of athletes is competing in a tournament, pushing themselves to give it their all.",
+        "objects": [
+            "team",
+            "athletes",
+            "tournament"
+        ]
+    },
+    {
+        "prompt": "A couple is enjoying a candlelit dinner at a restaurant.",
+        "objects": [
+            "couple",
+            "candlelit",
+            "dinner",
+            "restaurant"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy airplane and making it fly.",
+        "objects": [
+            "child",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a waterfall and feeling refreshed.",
+        "objects": [
+            "person",
+            "waterfall"
+        ]
+    },
+    {
+        "prompt": "A dog is jumping through a hoop and performing a trick.",
+        "objects": [
+            "dog",
+            "hoop",
+            "trick"
+        ]
+    },
+    {
+        "prompt": "A person is holding a pencil and sketching a portrait.",
+        "objects": [
+            "person",
+            "pencil",
+            "portrait"
+        ]
+    },
+    {
+        "prompt": "A man is holding a telescope and observing a comet in the night sky.",
+        "objects": [
+            "man",
+            "telescope",
+            "comet",
+            "night",
+            "sky"
+        ]
+    },
+    {
+        "prompt": "A person is holding a megaphone and leading a protest.",
+        "objects": [
+            "person",
+            "megaphone",
+            "protest"
+        ]
+    },
+    {
+        "prompt": "A father is teaching his son how to ride a bike in the park.",
+        "objects": [
+            "father",
+            "son",
+            "bike",
+            "park"
+        ]
+    },
+    {
+        "prompt": "The detective carefully examined the evidence found at the crime scene.",
+        "objects": [
+            "detective",
+            "evidence",
+            "crime",
+            "scene"
+        ]
+    },
+    {
+        "prompt": "A woman is sitting on a bench and writing in a journal.",
+        "objects": [
+            "woman",
+            "bench",
+            "journal"
+        ]
+    },
+    {
+        "prompt": "A woman is watching her child play at the playground.",
+        "objects": [
+            "woman",
+            "child",
+            "playground"
+        ]
+    },
+    {
+        "prompt": "A dog is running after a frisbee in the park.",
+        "objects": [
+            "dog",
+            "frisbee",
+            "park"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a map and navigating through a new city.",
+        "objects": [
+            "woman",
+            "map",
+            "city"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a bouquet of balloons and celebrating a special occasion.",
+        "objects": [
+            "woman",
+            "balloons",
+            "occasion"
+        ]
+    },
+    {
+        "prompt": "A group of friends are swimming in the lake.",
+        "objects": [
+            "group",
+            "friends",
+            "lake"
+        ]
+    },
+    {
+        "prompt": "A man is playing pool at the local bar.",
+        "objects": [
+            "man",
+            "pool",
+            "bar"
+        ]
+    },
+    {
+        "prompt": "The painter is creating a landscape painting on canvas.",
+        "objects": [
+            "painter",
+            "landscape",
+            "painting",
+            "canvas"
+        ]
+    },
+    {
+        "prompt": "A cat is playing with a ball of yarn on the carpet.",
+        "objects": [
+            "cat",
+            "ball",
+            "yarn",
+            "carpet"
+        ]
+    },
+    {
+        "prompt": "A dog is digging in the sand and wagging its tail.",
+        "objects": [
+            "dog",
+            "sand",
+            "tail"
+        ]
+    },
+    {
+        "prompt": "A person is walking with a colleague and discussing a project.",
+        "objects": [
+            "person",
+            "colleague",
+            "project"
+        ]
+    },
+    {
+        "prompt": "A person is wearing a backpack and walking on a hiking trail.",
+        "objects": [
+            "person",
+            "backpack",
+            "trail"
+        ]
+    },
+    {
+        "prompt": "A man is running a marathon and crossing the finish line.",
+        "objects": [
+            "man",
+            "marathon",
+            "finish line"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a display of minerals and admiring their natural beauty.",
+        "objects": [
+            "person",
+            "minerals",
+            "display"
+        ]
+    },
+    {
+        "prompt": "A woman is doing yoga on the beach at sunrise.",
+        "objects": [
+            "woman",
+            "beach",
+            "sunrise"
+        ]
+    },
+    {
+        "prompt": "A man is speaking to his therapist about his feelings.",
+        "objects": [
+            "man",
+            "therapist"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a map of the human brain and studying neuroscience.",
+        "objects": [
+            "person",
+            "map",
+            "brain"
+        ]
+    },
+    {
+        "prompt": "A person is sitting on a bench and watching people walk by.",
+        "objects": [
+            "person",
+            "bench",
+            "people"
+        ]
+    },
+    {
+        "prompt": "The actor rehearsed their lines with their scene partner, perfecting their performance.",
+        "objects": [
+            "actor",
+            "lines",
+            "partner",
+            "performance"
+        ]
+    },
+    {
+        "prompt": "A man is speaking to his boss about a project at work.",
+        "objects": [
+            "man",
+            "boss",
+            "project",
+            "work"
+        ]
+    },
+    {
+        "prompt": "A man is kayaking on a lake.",
+        "objects": [
+            "man",
+            "lake",
+            "kayaking"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a jump ball and bouncing it around the playground.",
+        "objects": [
+            "child",
+            "ball",
+            "playground"
+        ]
+    },
+    {
+        "prompt": "A person is wearing a lifejacket and kayaking down a river.",
+        "objects": [
+            "person",
+            "lifejacket",
+            "river"
+        ]
+    },
+    {
+        "prompt": "A person is looking at a flock of birds flying in formation.",
+        "objects": [
+            "person",
+            "birds",
+            "formation"
+        ]
+    },
+    {
+        "prompt": "A woman is holding a guitar and strumming a tune.",
+        "objects": [
+            "woman",
+            "guitar"
+        ]
+    },
+    {
+        "prompt": "The sun is setting over the mountains.",
+        "objects": [
+            "sun",
+            "mountains"
+        ]
+    },
+    {
+        "prompt": "A group of people are watching a fireworks display.",
+        "objects": [
+            "group",
+            "people",
+            "fireworks",
+            "display"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a jump rope and chanting rhymes.",
+        "objects": [
+            "child",
+            "jump rope"
+        ]
+    },
+    {
+        "prompt": "A person is walking with their hands in their pockets.",
+        "objects": [
+            "person",
+            "hands",
+            "pockets"
+        ]
+    },
+    {
+        "prompt": "The puppeteer is performing a puppet show for children.",
+        "objects": [
+            "puppeteer",
+            "puppet",
+            "children"
+        ]
+    },
+    {
+        "prompt": "A man is holding a telescope and observing the night sky.",
+        "objects": [
+            "man",
+            "telescope",
+            "night",
+            "sky"
+        ]
+    },
+    {
+        "prompt": "The zookeeper is feeding the animals in their care.",
+        "objects": [
+            "zookeeper",
+            "animals"
+        ]
+    },
+    {
+        "prompt": "A family is having a barbecue in the park.",
+        "objects": [
+            "family",
+            "barbecue",
+            "park"
+        ]
+    },
+    {
+        "prompt": "A person is wearing a white coat and working in a laboratory.",
+        "objects": [
+            "person",
+            "coat",
+            "laboratory"
+        ]
+    },
+    {
+        "prompt": "A group of children are giggling on the swings.",
+        "objects": [
+            "group",
+            "children",
+            "swings"
+        ]
+    },
+    {
+        "prompt": "A group of friends are playing frisbee in the park.",
+        "objects": [
+            "group",
+            "friends",
+            "frisbee",
+            "park"
+        ]
+    },
+    {
+        "prompt": "A child is playing with a toy construction set and building a tower.",
+        "objects": [
+            "child",
+            "toy",
+            "construction",
+            "set",
+            "tower"
+        ]
+    }
+]

@@ -4,15 +4,55 @@
 # Track these files and directories
 !.gitignore
 !README.md
+!INSTALL.md
+!RELEASE_PLAN.md
 !requirements.txt
+
+# Demos
 !generate_demo.py
 !generate_demo_sd3.py
 !collect_data_demo.py
 
+# Dataset collection + classifier training pipeline
+!generate_dataset_flux.py
+!generate_dataset_sd3.py
+!label_mask2former.py
+!label_blip.py
+!label_merge.py
+!feature_extract.py
+!train_classifier_multi_object_real.py
+
+# Generation + evaluation
+!generate_osi_main_table.py
+!generate_compbench.py
+!sd3_generate_geneval.py
+!sd3_generate_compbench.py
+!evaluate_geneval.py
+!evaluate_aesthetic/
+!evaluate_aesthetic/*.py
+
+# Stage runner scripts
+!scripts/
+!scripts/*.sh
+
+# Docs
+!docs/
+!docs/**
+
+# Data assets (small: object class list)
+!assets/
+!assets/*.txt
+
+# Benchmark overlay files (upstream repos are cloned separately, see benchmark_patches/README.md)
+!benchmark_patches/
+!benchmark_patches/**
+
+# Pretrained classifiers
 !classifier_ckpt/
 !classifier_ckpt/*/
 !classifier_ckpt/**
 
+# Custom pipeline modules
 !flux_osi_modules/
 !flux_osi_modules/*.py
 
