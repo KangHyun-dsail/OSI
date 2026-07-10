@@ -1,0 +1,829 @@
+[
+    {
+        "prompt": "rubber boots and a glass plate",
+        "objects": [
+            "boots",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a metallic necklace and a fabric sweater",
+        "objects": [
+            "necklace",
+            "sweater"
+        ]
+    },
+    {
+        "prompt": "rubber boots and a leather sofa",
+        "objects": [
+            "boots",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a plastic cup and a leather hat",
+        "objects": [
+            "cup",
+            "hat"
+        ]
+    },
+    {
+        "prompt": "rubber mat and a glass bowl",
+        "objects": [
+            "mat",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a fabric sweater and a fluffy hat",
+        "objects": [
+            "sweater",
+            "hat"
+        ]
+    },
+    {
+        "prompt": "a metallic bracelet and a fabric jacket",
+        "objects": [
+            "bracelet",
+            "jacket"
+        ]
+    },
+    {
+        "prompt": "a wooden fork and a leather sofa",
+        "objects": [
+            "fork",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "wooden pencils and a fluffy scarf",
+        "objects": [
+            "pencils",
+            "scarf"
+        ]
+    },
+    {
+        "prompt": "rubber boots and a plastic cup",
+        "objects": [
+            "boots",
+            "cup"
+        ]
+    },
+    {
+        "prompt": "a fluffy hat and a glass plate",
+        "objects": [
+            "hat",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a plastic cup and a fabric sweater",
+        "objects": [
+            "cup",
+            "sweater"
+        ]
+    },
+    {
+        "prompt": "a metallic bracelet and a wooden knife",
+        "objects": [
+            "bracelet",
+            "knife"
+        ]
+    },
+    {
+        "prompt": "a metallic necklace and a wooden fork",
+        "objects": [
+            "necklace",
+            "fork"
+        ]
+    },
+    {
+        "prompt": "a metallic ring and a fluffy hat",
+        "objects": [
+            "ring",
+            "hat"
+        ]
+    },
+    {
+        "prompt": "a fabric scarf and a glass bowl",
+        "objects": [
+            "scarf",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a fabric scarf and a leather hat",
+        "objects": [
+            "scarf",
+            "hat"
+        ]
+    },
+    {
+        "prompt": "wooden pencils and a leather hat",
+        "objects": [
+            "pencils",
+            "hat"
+        ]
+    },
+    {
+        "prompt": "wooden pencils and a leather sofa",
+        "objects": [
+            "pencils",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a wooden fork and a glass bowl",
+        "objects": [
+            "fork",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a metallic ring and a glass plate",
+        "objects": [
+            "ring",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a fabric jacket and a glass plate",
+        "objects": [
+            "jacket",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a metallic bracelet and a leather hat",
+        "objects": [
+            "bracelet",
+            "hat"
+        ]
+    },
+    {
+        "prompt": "a metallic earring and a leather sofa",
+        "objects": [
+            "earring",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a fabric sweater and a leather watch",
+        "objects": [
+            "sweater",
+            "watch"
+        ]
+    },
+    {
+        "prompt": "a plastic plate and a fluffy hat",
+        "objects": [
+            "plate",
+            "hat"
+        ]
+    },
+    {
+        "prompt": "a metallic ring and a wooden knife",
+        "objects": [
+            "ring",
+            "knife"
+        ]
+    },
+    {
+        "prompt": "a plastic plate and a fluffy scarf",
+        "objects": [
+            "plate",
+            "scarf"
+        ]
+    },
+    {
+        "prompt": "a fabric sweater and a leather sofa",
+        "objects": [
+            "sweater",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a plastic cup and a wooden knife",
+        "objects": [
+            "cup",
+            "knife"
+        ]
+    },
+    {
+        "prompt": "a metallic necklace and a leather hat",
+        "objects": [
+            "necklace",
+            "hat"
+        ]
+    },
+    {
+        "prompt": "rubber mat and a metallic bracelet",
+        "objects": [
+            "rubber mat",
+            "bracelet"
+        ]
+    },
+    {
+        "prompt": "a fabric scarf and a leather sofa",
+        "objects": [
+            "scarf",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a metallic earring and a fabric jacket",
+        "objects": [
+            "earring",
+            "jacket"
+        ]
+    },
+    {
+        "prompt": "rubber mat and a fluffy scarf",
+        "objects": [
+            "mat",
+            "scarf"
+        ]
+    },
+    {
+        "prompt": "a fluffy hat and a leather hat",
+        "objects": [
+            "hat",
+            "hat"
+        ]
+    },
+    {
+        "prompt": "rubber boots and a leather watch",
+        "objects": [
+            "boots",
+            "watch"
+        ]
+    },
+    {
+        "prompt": "a metallic ring and a fabric sweater",
+        "objects": [
+            "ring",
+            "sweater"
+        ]
+    },
+    {
+        "prompt": "a wooden fork and a leather hat",
+        "objects": [
+            "fork",
+            "hat"
+        ]
+    },
+    {
+        "prompt": "wooden pencils and a glass plate",
+        "objects": [
+            "pencils",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "The glass perfume bottle and metallic cap release the fragrance of the wooden scent on the fabric handkerchief.",
+        "objects": [
+            "glass",
+            "perfume bottle",
+            "metallic cap",
+            "wooden scent",
+            "fabric handkerchief"
+        ]
+    },
+    {
+        "prompt": "The metallic whisk and wooden bowl mix the fluffy batter for the cake on the plastic counter.",
+        "objects": [
+            "whisk",
+            "bowl",
+            "cake",
+            "counter"
+        ]
+    },
+    {
+        "prompt": "The leather wallet and fluffy keychain hang on the metallic hook by the wooden door.",
+        "objects": [
+            "wallet",
+            "keychain",
+            "hook",
+            "door"
+        ]
+    },
+    {
+        "prompt": "The wooden ladder and glass jar hold the metallic screws for the shelf on the fabric workbench.",
+        "objects": [
+            "ladder",
+            "jar",
+            "screws",
+            "shelf",
+            "workbench"
+        ]
+    },
+    {
+        "prompt": "The metallic chair and plastic table hold the wooden laptop for the fluffy student in the library.",
+        "objects": [
+            "chair",
+            "table",
+            "laptop",
+            "student",
+            "library"
+        ]
+    },
+    {
+        "prompt": "The fluffy rug and leather ottoman rest on the wooden floor in the cozy reading nook.",
+        "objects": [
+            "rug",
+            "ottoman",
+            "floor"
+        ]
+    },
+    {
+        "prompt": "The glass vase and metallic stand display the wooden flowers on the fabric dresser.",
+        "objects": [
+            "glass vase",
+            "metallic stand",
+            "wooden flowers",
+            "fabric dresser"
+        ]
+    },
+    {
+        "prompt": "The wooden spoon and metallic ladle serve the fluffy soup in the plastic bowl.",
+        "objects": [
+            "spoon",
+            "ladle",
+            "soup",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "The leather shoes and fluffy socks rest on the metallic rack by the glass door.",
+        "objects": [
+            "shoes",
+            "socks",
+            "rack",
+            "door"
+        ]
+    },
+    {
+        "prompt": "The wooden crate and glass bottle hold the metallic soda on the fabric picnic blanket.",
+        "objects": [
+            "crate",
+            "bottle",
+            "soda",
+            "blanket"
+        ]
+    },
+    {
+        "prompt": "The metallic lamp and wooden desk provide light for the glass computer on the fluffy chair.",
+        "objects": [
+            "lamp",
+            "desk",
+            "computer",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "The leather journal and wooden pen rest on the fabric notebook for the metallic writer.",
+        "objects": [
+            "journal",
+            "pen",
+            "notebook",
+            "writer"
+        ]
+    },
+    {
+        "prompt": "The wooden cutting board and metallic cheese grater slice the fluffy cheddar for the plastic sandwich.",
+        "objects": [
+            "cutting board",
+            "cheese grater",
+            "plastic sandwich"
+        ]
+    },
+    {
+        "prompt": "The glass test tube and metallic clamp hold the wooden pipette for the fluffy experiment.",
+        "objects": [
+            "glass",
+            "test tube",
+            "metallic",
+            "clamp",
+            "wooden",
+            "pipette",
+            "experiment"
+        ]
+    },
+    {
+        "prompt": "The leather wallet and metallic coin purse hold the plastic credit cards on the fabric counter.",
+        "objects": [
+            "wallet",
+            "coin purse",
+            "credit cards",
+            "counter"
+        ]
+    },
+    {
+        "prompt": "The wooden salad bowl and metallic tongs mix the fluffy greens for the glass dinner party.",
+        "objects": [
+            "salad bowl",
+            "tongs",
+            "greens",
+            "dinner party",
+            "glass"
+        ]
+    },
+    {
+        "prompt": "The metallic pot and wooden spoon boil the fluffy noodles on the plastic stove.",
+        "objects": [
+            "pot",
+            "spoon",
+            "noodles",
+            "stove"
+        ]
+    },
+    {
+        "prompt": "The glass picture frame and metallic stand display the wooden photo on the fabric nightstand.",
+        "objects": [
+            "glass",
+            "picture frame",
+            "metallic stand",
+            "wooden photo",
+            "fabric nightstand"
+        ]
+    },
+    {
+        "prompt": "The fluffy cat and leather collar nap on the wooden windowsill next to the glass vase.",
+        "objects": [
+            "cat",
+            "collar",
+            "windowsill",
+            "vase"
+        ]
+    },
+    {
+        "prompt": "The wooden bookshelf and metallic bookends hold the plastic books for the fluffy reader.",
+        "objects": [
+            "bookshelf",
+            "bookends",
+            "books"
+        ]
+    },
+    {
+        "prompt": "The metallic bicycle and wooden basket hold the fluffy flowers on the plastic handlebar.",
+        "objects": [
+            "bicycle",
+            "basket",
+            "flowers",
+            "handlebar"
+        ]
+    },
+    {
+        "prompt": "The glass candle holder and metallic candlestick illuminate the wooden dining table on the fabric tablecloth.",
+        "objects": [
+            "glass candle holder",
+            "candlestick",
+            "wooden dining table",
+            "fabric tablecloth"
+        ]
+    },
+    {
+        "prompt": "The leather wallet and fluffy coin pouch hold the metallic change for the plastic vending machine.",
+        "objects": [
+            "wallet",
+            "pouch",
+            "change",
+            "vending machine"
+        ]
+    },
+    {
+        "prompt": "The wooden ruler and glass magnifying glass measure the metallic screws on the fabric workbench.",
+        "objects": [
+            "ruler",
+            "magnifying glass",
+            "screws",
+            "workbench"
+        ]
+    },
+    {
+        "prompt": "The metallic pen and plastic notebook write the wooden notes for the fluffy presentation.",
+        "objects": [
+            "pen",
+            "notebook",
+            "notes",
+            "presentation"
+        ]
+    },
+    {
+        "prompt": "The fluffy teddy bear and leather collar sit on the glass shelf by the wooden bed.",
+        "objects": [
+            "teddy bear",
+            "collar",
+            "shelf",
+            "bed"
+        ]
+    },
+    {
+        "prompt": "The wooden rolling pin and metallic cookie cutter shape the fluffy dough for the plastic cookies.",
+        "objects": [
+            "wooden rolling pin",
+            "metallic cookie cutter",
+            "dough",
+            "plastic cookies"
+        ]
+    },
+    {
+        "prompt": "The glass fish tank and metallic filter provide a home for the wooden fish on the fluffy stand.",
+        "objects": [
+            "glass",
+            "fish tank",
+            "metallic",
+            "filter",
+            "wooden",
+            "fish",
+            "fluffy",
+            "stand"
+        ]
+    },
+    {
+        "prompt": "The metallic spoon and wooden chopsticks stir the fluffy noodles in the plastic takeout container.",
+        "objects": [
+            "spoon",
+            "chopsticks",
+            "noodles",
+            "container"
+        ]
+    },
+    {
+        "prompt": "The leather belt and fluffy scarf hang on the metallic hook by the glass mirror.",
+        "objects": [
+            "belt",
+            "scarf",
+            "hook",
+            "mirror"
+        ]
+    },
+    {
+        "prompt": "The wooden birdhouse and glass bird feeder attract the metallic birds on the fabric tree.",
+        "objects": [
+            "birdhouse",
+            "bird feeder",
+            "birds",
+            "tree"
+        ]
+    },
+    {
+        "prompt": "The fluffy towel and plastic soap dish rest on the metallic tray by the wooden bathtub.",
+        "objects": [
+            "towel",
+            "soap dish",
+            "tray",
+            "bathtub"
+        ]
+    },
+    {
+        "prompt": "The glass baking dish and wooden spoon bake the metallic lasagna for the fluffy dinner party.",
+        "objects": [
+            "glass baking dish",
+            "wooden spoon",
+            "lasagna",
+            "dinner party"
+        ]
+    },
+    {
+        "prompt": "The metallic stapler and leather portfolio hold the plastic documents on the wooden desk.",
+        "objects": [
+            "stapler",
+            "portfolio",
+            "documents",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "The wooden birdhouse and fluffy bird perch on the metallic pole by the glass window.",
+        "objects": [
+            "birdhouse",
+            "bird",
+            "pole",
+            "window"
+        ]
+    },
+    {
+        "prompt": "The glass vase and metallic watering can hold the wooden flowers on the fabric windowsill.",
+        "objects": [
+            "glass vase",
+            "watering can",
+            "wooden flowers",
+            "fabric windowsill"
+        ]
+    },
+    {
+        "prompt": "The metallic pan and plastic spatula cook the fluffy eggs on the wooden stove.",
+        "objects": [
+            "pan",
+            "spatula",
+            "eggs",
+            "stove"
+        ]
+    },
+    {
+        "prompt": "The wooden bookshelf and glass bookends hold the metallic books for the fluffy bookworm.",
+        "objects": [
+            "bookshelf",
+            "bookends",
+            "books",
+            "bookworm"
+        ]
+    },
+    {
+        "prompt": "The leather chair and metallic lamp provide comfort and light for the wooden desk on the fluffy rug.",
+        "objects": [
+            "chair",
+            "lamp",
+            "desk",
+            "rug"
+        ]
+    },
+    {
+        "prompt": "The glass terrarium and wooden plant holder display the metallic succulent on the fabric shelf.",
+        "objects": [
+            "glass terrarium",
+            "wooden plant holder",
+            "succulent",
+            "fabric shelf"
+        ]
+    },
+    {
+        "prompt": "The metallic hammer and wooden mallet pound the fluffy nails into the plastic board.",
+        "objects": [
+            "hammer",
+            "mallet",
+            "nails",
+            "board"
+        ]
+    },
+    {
+        "prompt": "The glass vase and metallic frame display the wooden flowers on the fabric mantle.",
+        "objects": [
+            "glass vase",
+            "metallic frame",
+            "wooden flowers",
+            "fabric mantle"
+        ]
+    },
+    {
+        "prompt": "The leather belt and fluffy hat hang on the metallic hook by the glass door.",
+        "objects": [
+            "belt",
+            "hat",
+            "hook",
+            "door"
+        ]
+    },
+    {
+        "prompt": "The wooden pencil and metallic sharpener write the fluffy notes on the plastic notepad.",
+        "objects": [
+            "pencil",
+            "sharpener",
+            "notes",
+            "notepad"
+        ]
+    },
+    {
+        "prompt": "The fluffy pillow and glass lampshade rest on the wooden nightstand by the metallic bed.",
+        "objects": [
+            "pillow",
+            "lampshade",
+            "nightstand",
+            "bed"
+        ]
+    },
+    {
+        "prompt": "The wooden spoon and plastic measuring cup mix the metallic ingredients for the fluffy cake batter.",
+        "objects": [
+            "spoon",
+            "measuring cup",
+            "ingredients",
+            "cake batter"
+        ]
+    },
+    {
+        "prompt": "The leather jacket and metallic zipper keep the fluffy wearer warm on the glass sidewalk.",
+        "objects": [
+            "jacket",
+            "zipper",
+            "wearer",
+            "sidewalk"
+        ]
+    },
+    {
+        "prompt": "The metallic whisk and plastic bowl beat the fluffy egg whites for the wooden meringue.",
+        "objects": [
+            "whisk",
+            "bowl",
+            "egg whites",
+            "meringue"
+        ]
+    },
+    {
+        "prompt": "The wooden hanger and fluffy dress hang on the metallic rack by the glass mirror.",
+        "objects": [
+            "hanger",
+            "dress",
+            "rack",
+            "mirror"
+        ]
+    },
+    {
+        "prompt": "The glass bottle and metallic opener hold the wooden beer for the fluffy party.",
+        "objects": [
+            "glass bottle",
+            "metallic opener",
+            "wooden beer",
+            "party"
+        ]
+    },
+    {
+        "prompt": "The metallic scissors and plastic ruler cut the fluffy paper for the wooden craft project.",
+        "objects": [
+            "scissors",
+            "ruler",
+            "paper",
+            "craft project",
+            "wooden"
+        ]
+    },
+    {
+        "prompt": "The wooden clipboard and glass paperweight hold the metallic documents for the fluffy meeting.",
+        "objects": [
+            "clipboard",
+            "paperweight",
+            "documents"
+        ]
+    },
+    {
+        "prompt": "The leather couch and fluffy pillow provide comfort on the wooden floor by the glass window.",
+        "objects": [
+            "couch",
+            "pillow",
+            "floor",
+            "window"
+        ]
+    },
+    {
+        "prompt": "The metallic kettle and wooden spoon boil the fluffy water for the plastic tea.",
+        "objects": [
+            "kettle",
+            "spoon",
+            "water",
+            "tea"
+        ]
+    },
+    {
+        "prompt": "The glass jar and fluffy ribbon hold the metallic candy on the wooden table.",
+        "objects": [
+            "jar",
+            "ribbon",
+            "candy",
+            "table"
+        ]
+    },
+    {
+        "prompt": "The wooden salad bowl and plastic tongs mix the metallic greens for the fluffy salad.",
+        "objects": [
+            "salad bowl",
+            "tongs",
+            "greens",
+            "salad"
+        ]
+    },
+    {
+        "prompt": "The leather wallet and metallic keychain hold the plastic keys by the glass door.",
+        "objects": [
+            "wallet",
+            "keychain",
+            "keys",
+            "door"
+        ]
+    },
+    {
+        "prompt": "The fluffy towel and metallic hook hang on the wooden hook by the glass shower.",
+        "objects": [
+            "towel",
+            "hook",
+            "shower"
+        ]
+    },
+    {
+        "prompt": "The glass ornament and wooden hook decorate the metallic Christmas tree on the fabric skirt.",
+        "objects": [
+            "glass ornament",
+            "wooden hook",
+            "metallic Christmas tree",
+            "fabric skirt"
+        ]
+    },
+    {
+        "prompt": "The metallic pen and fluffy notebook jot down ideas on the wooden desk.",
+        "objects": [
+            "pen",
+            "notebook",
+            "desk"
+        ]
+    }
+]

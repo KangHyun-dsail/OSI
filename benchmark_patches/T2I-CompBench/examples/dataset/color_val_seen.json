@@ -1,0 +1,2202 @@
+[
+    {
+        "prompt": "a green bench and a blue bowl",
+        "objects": [
+            "bench",
+            "bowl"
+        ],
+        "attributes": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue bench and a green bowl",
+        "objects": [
+            "bench",
+            "bowl"
+        ],
+        "attributes": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a green bench and a blue cake",
+        "objects": [
+            "bench",
+            "cake"
+        ],
+        "attributes": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue bench and a green cake",
+        "objects": [
+            "bench",
+            "cake"
+        ],
+        "attributes": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a brown horse and a blue vase",
+        "objects": [
+            "horse",
+            "vase"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue horse and a brown vase",
+        "objects": [
+            "horse",
+            "vase"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a blue backpack and a brown cow",
+        "objects": [
+            "backpack",
+            "cow"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown backpack and a blue cow",
+        "objects": [
+            "backpack",
+            "cow"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue backpack and a red book",
+        "objects": [
+            "backpack",
+            "book"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red backpack and a blue book",
+        "objects": [
+            "backpack",
+            "book"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a brown bear and a red book",
+        "objects": [
+            "bear",
+            "book"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red bear and a brown book",
+        "objects": [
+            "bear",
+            "book"
+        ],
+        "attributes": [
+            "red",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a red orange and a brown sheep",
+        "objects": [
+            "orange",
+            "sheep"
+        ],
+        "attributes": [
+            "red",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown orange and a red sheep",
+        "objects": [
+            "orange",
+            "sheep"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a green banana and a brown dog",
+        "objects": [
+            "banana",
+            "dog"
+        ],
+        "attributes": [
+            "green",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown banana and a green dog",
+        "objects": [
+            "banana",
+            "dog"
+        ],
+        "attributes": [
+            "brown",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a green banana and a brown horse",
+        "objects": [
+            "banana",
+            "horse"
+        ],
+        "attributes": [
+            "green",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown banana and a green horse",
+        "objects": [
+            "banana",
+            "horse"
+        ],
+        "attributes": [
+            "brown",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a blue cake and a red suitcase",
+        "objects": [
+            "cake",
+            "suitcase"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red cake and a blue suitcase",
+        "objects": [
+            "cake",
+            "suitcase"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a brown elephant and a red suitcase",
+        "objects": [
+            "elephant",
+            "suitcase"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red elephant and a brown suitcase",
+        "objects": [
+            "elephant",
+            "suitcase"
+        ],
+        "attributes": [
+            "red",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a green apple and a brown horse",
+        "objects": [
+            "apple",
+            "horse"
+        ],
+        "attributes": [
+            "green",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown apple and a green horse",
+        "objects": [
+            "apple",
+            "horse"
+        ],
+        "attributes": [
+            "brown",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a green banana and a blue vase",
+        "objects": [
+            "banana",
+            "vase"
+        ],
+        "attributes": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue banana and a green vase",
+        "objects": [
+            "banana",
+            "vase"
+        ],
+        "attributes": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a blue backpack and a brown bear",
+        "objects": [
+            "backpack",
+            "bear"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown backpack and a blue bear",
+        "objects": [
+            "backpack",
+            "bear"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a green apple and a blue vase",
+        "objects": [
+            "apple",
+            "vase"
+        ],
+        "attributes": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue apple and a green vase",
+        "objects": [
+            "apple",
+            "vase"
+        ],
+        "attributes": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a green banana and a red suitcase",
+        "objects": [
+            "banana",
+            "suitcase"
+        ],
+        "attributes": [
+            "green",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red banana and a green suitcase",
+        "objects": [
+            "banana",
+            "suitcase"
+        ],
+        "attributes": [
+            "red",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a blue bowl and a brown elephant",
+        "objects": [
+            "bowl",
+            "elephant"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown bowl and a blue elephant",
+        "objects": [
+            "bowl",
+            "elephant"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue backpack and a red orange",
+        "objects": [
+            "backpack",
+            "orange"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red backpack and a blue orange",
+        "objects": [
+            "backpack",
+            "orange"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue backpack and a red chair",
+        "objects": [
+            "backpack",
+            "chair"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red backpack and a blue chair",
+        "objects": [
+            "backpack",
+            "chair"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue cup and a brown horse",
+        "objects": [
+            "cup",
+            "horse"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown cup and a blue horse",
+        "objects": [
+            "cup",
+            "horse"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a brown sheep and a blue vase",
+        "objects": [
+            "sheep",
+            "vase"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue sheep and a brown vase",
+        "objects": [
+            "sheep",
+            "vase"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown cat and a gold clock",
+        "objects": [
+            "cat",
+            "clock"
+        ],
+        "attributes": [
+            "brown",
+            "gold"
+        ]
+    },
+    {
+        "prompt": "a gold cat and a brown clock",
+        "objects": [
+            "cat",
+            "clock"
+        ],
+        "attributes": [
+            "gold",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a blue backpack and a green banana",
+        "objects": [
+            "backpack",
+            "banana"
+        ],
+        "attributes": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a green backpack and a blue banana",
+        "objects": [
+            "backpack",
+            "banana"
+        ],
+        "attributes": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a brown horse and a red orange",
+        "objects": [
+            "horse",
+            "orange"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red horse and a brown orange",
+        "objects": [
+            "horse",
+            "orange"
+        ],
+        "attributes": [
+            "red",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a red chair and a brown elephant",
+        "objects": [
+            "chair",
+            "elephant"
+        ],
+        "attributes": [
+            "red",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown chair and a red elephant",
+        "objects": [
+            "chair",
+            "elephant"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a green apple and a blue backpack",
+        "objects": [
+            "apple",
+            "backpack"
+        ],
+        "attributes": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue apple and a green backpack",
+        "objects": [
+            "apple",
+            "backpack"
+        ],
+        "attributes": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a blue backpack and a gold clock",
+        "objects": [
+            "backpack",
+            "clock"
+        ],
+        "attributes": [
+            "blue",
+            "gold"
+        ]
+    },
+    {
+        "prompt": "a gold backpack and a blue clock",
+        "objects": [
+            "backpack",
+            "clock"
+        ],
+        "attributes": [
+            "gold",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a brown dog and a red orange",
+        "objects": [
+            "dog",
+            "orange"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red dog and a brown orange",
+        "objects": [
+            "dog",
+            "orange"
+        ],
+        "attributes": [
+            "red",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a blue backpack and a brown sheep",
+        "objects": [
+            "backpack",
+            "sheep"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown backpack and a blue sheep",
+        "objects": [
+            "backpack",
+            "sheep"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue backpack and a brown giraffe",
+        "objects": [
+            "backpack",
+            "giraffe"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown backpack and a blue giraffe",
+        "objects": [
+            "backpack",
+            "giraffe"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a red book and a blue cake",
+        "objects": [
+            "book",
+            "cake"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue book and a red cake",
+        "objects": [
+            "book",
+            "cake"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red suitcase and a blue vase",
+        "objects": [
+            "suitcase",
+            "vase"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue suitcase and a red vase",
+        "objects": [
+            "suitcase",
+            "vase"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a blue cup and a brown sheep",
+        "objects": [
+            "cup",
+            "sheep"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown cup and a blue sheep",
+        "objects": [
+            "cup",
+            "sheep"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a brown bear and a red train",
+        "objects": [
+            "bear",
+            "train"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a blue cup and a red orange",
+        "objects": [
+            "cup",
+            "orange"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red cup and a blue orange",
+        "objects": [
+            "cup",
+            "orange"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a green apple and a red suitcase",
+        "objects": [
+            "apple",
+            "suitcase"
+        ],
+        "attributes": [
+            "green",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red apple and a green suitcase",
+        "objects": [
+            "apple",
+            "suitcase"
+        ],
+        "attributes": [
+            "red",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a blue bowl and a red train",
+        "objects": [
+            "bowl",
+            "train"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red bowl and a blue train",
+        "objects": [
+            "bowl",
+            "train"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a green bench and a red orange",
+        "objects": [
+            "bench",
+            "orange"
+        ],
+        "attributes": [
+            "green",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red bench and a green orange",
+        "objects": [
+            "bench",
+            "orange"
+        ],
+        "attributes": [
+            "red",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a brown cat and a red orange",
+        "objects": [
+            "cat",
+            "orange"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red cat and a brown orange",
+        "objects": [
+            "cat",
+            "orange"
+        ],
+        "attributes": [
+            "red",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a green apple and a red train",
+        "objects": [
+            "apple",
+            "train"
+        ],
+        "attributes": [
+            "green",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red apple and a green train",
+        "objects": [
+            "apple",
+            "train"
+        ],
+        "attributes": [
+            "red",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a brown giraffe and a red train",
+        "objects": [
+            "giraffe",
+            "train"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red giraffe and a brown train",
+        "objects": [
+            "giraffe",
+            "train"
+        ],
+        "attributes": [
+            "red",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a blue boat and a red suitcase",
+        "objects": [
+            "boat",
+            "suitcase"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red boat and a blue suitcase",
+        "objects": [
+            "boat",
+            "suitcase"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue bowl and a brown horse",
+        "objects": [
+            "bowl",
+            "horse"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown bowl and a blue horse",
+        "objects": [
+            "bowl",
+            "horse"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue backpack and a red train",
+        "objects": [
+            "backpack",
+            "train"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red backpack and a blue train",
+        "objects": [
+            "backpack",
+            "train"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a gold clock and a red orange",
+        "objects": [
+            "clock",
+            "orange"
+        ],
+        "attributes": [
+            "gold",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red clock and a gold orange",
+        "objects": [
+            "clock",
+            "orange"
+        ],
+        "attributes": [
+            "red",
+            "gold"
+        ]
+    },
+    {
+        "prompt": "a brown bear and a blue vase",
+        "objects": [
+            "bear",
+            "vase"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue bear and a brown vase",
+        "objects": [
+            "bear",
+            "vase"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a green apple and a brown elephant",
+        "objects": [
+            "apple",
+            "elephant"
+        ],
+        "attributes": [
+            "green",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown apple and a green elephant",
+        "objects": [
+            "apple",
+            "elephant"
+        ],
+        "attributes": [
+            "brown",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a green banana and a brown bear",
+        "objects": [
+            "banana",
+            "bear"
+        ],
+        "attributes": [
+            "green",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown banana and a green bear",
+        "objects": [
+            "banana",
+            "bear"
+        ],
+        "attributes": [
+            "brown",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a blue boat and a brown cat",
+        "objects": [
+            "boat",
+            "cat"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown boat and a blue cat",
+        "objects": [
+            "boat",
+            "cat"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a green banana and a blue boat",
+        "objects": [
+            "banana",
+            "boat"
+        ],
+        "attributes": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue banana and a green boat",
+        "objects": [
+            "banana",
+            "boat"
+        ],
+        "attributes": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a red car and a blue cup",
+        "objects": [
+            "car",
+            "cup"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue car and a red cup",
+        "objects": [
+            "car",
+            "cup"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a blue backpack and a red car",
+        "objects": [
+            "backpack",
+            "car"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red backpack and a blue car",
+        "objects": [
+            "backpack",
+            "car"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a brown cow and a blue cup",
+        "objects": [
+            "cow",
+            "cup"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue cow and a brown cup",
+        "objects": [
+            "cow",
+            "cup"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a red train and a blue vase",
+        "objects": [
+            "train",
+            "vase"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue train and a red vase",
+        "objects": [
+            "train",
+            "vase"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a brown giraffe and a red orange",
+        "objects": [
+            "giraffe",
+            "orange"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red giraffe and a brown orange",
+        "objects": [
+            "giraffe",
+            "orange"
+        ],
+        "attributes": [
+            "red",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a green banana and a brown cow",
+        "objects": [
+            "banana",
+            "cow"
+        ],
+        "attributes": [
+            "green",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown banana and a green cow",
+        "objects": [
+            "banana",
+            "cow"
+        ],
+        "attributes": [
+            "brown",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a brown giraffe and a blue vase",
+        "objects": [
+            "giraffe",
+            "vase"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue giraffe and a brown vase",
+        "objects": [
+            "giraffe",
+            "vase"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown cow and a red suitcase",
+        "objects": [
+            "cow",
+            "suitcase"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red cow and a brown suitcase",
+        "objects": [
+            "cow",
+            "suitcase"
+        ],
+        "attributes": [
+            "red",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a green apple and a blue cup",
+        "objects": [
+            "apple",
+            "cup"
+        ],
+        "attributes": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue apple and a green cup",
+        "objects": [
+            "apple",
+            "cup"
+        ],
+        "attributes": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a red book and a brown sheep",
+        "objects": [
+            "book",
+            "sheep"
+        ],
+        "attributes": [
+            "red",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown book and a red sheep",
+        "objects": [
+            "book",
+            "sheep"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a green banana and a brown giraffe",
+        "objects": [
+            "banana",
+            "giraffe"
+        ],
+        "attributes": [
+            "green",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown banana and a green giraffe",
+        "objects": [
+            "banana",
+            "giraffe"
+        ],
+        "attributes": [
+            "brown",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a blue boat and a red book",
+        "objects": [
+            "boat",
+            "book"
+        ],
+        "attributes": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red boat and a blue book",
+        "objects": [
+            "boat",
+            "book"
+        ],
+        "attributes": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue cup and a brown elephant",
+        "objects": [
+            "cup",
+            "elephant"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown cup and a blue elephant",
+        "objects": [
+            "cup",
+            "elephant"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a red chair and a brown sheep",
+        "objects": [
+            "chair",
+            "sheep"
+        ],
+        "attributes": [
+            "red",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown chair and a red sheep",
+        "objects": [
+            "chair",
+            "sheep"
+        ],
+        "attributes": [
+            "brown",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a brown bear and a blue boat",
+        "objects": [
+            "bear",
+            "boat"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue bear and a brown boat",
+        "objects": [
+            "bear",
+            "boat"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a red car and a white sheep",
+        "objects": [
+            "car",
+            "sheep"
+        ],
+        "attributes": [
+            "red",
+            "white"
+        ]
+    },
+    {
+        "prompt": "a blue bird and a brown bear",
+        "objects": [
+            "bird",
+            "bear"
+        ],
+        "attributes": [
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a green apple and a black backpack",
+        "objects": [
+            "apple",
+            "backpack"
+        ],
+        "attributes": [
+            "green",
+            "black"
+        ]
+    },
+    {
+        "prompt": "a green cup and a blue cell phone",
+        "objects": [
+            "cup",
+            "cell phone"
+        ],
+        "attributes": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a yellow book and a red vase",
+        "objects": [
+            "book",
+            "vase"
+        ],
+        "attributes": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a white car and a red sheep",
+        "objects": [
+            "car",
+            "sheep"
+        ],
+        "attributes": [
+            "white",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a brown bird and a blue bear",
+        "objects": [
+            "bird",
+            "bear"
+        ],
+        "attributes": [
+            "brown",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a black apple and a green backpack",
+        "objects": [
+            "apple",
+            "backpack"
+        ],
+        "attributes": [
+            "black",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a blue cup and a green cell phone",
+        "objects": [
+            "cup",
+            "cell phone"
+        ],
+        "attributes": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a red book and a yellow vase",
+        "objects": [
+            "book",
+            "vase"
+        ],
+        "attributes": [
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a red apple and yellow bananas",
+        "objects": [
+            "apple",
+            "bananas"
+        ],
+        "attributes": [
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a yellow apple and red bananas",
+        "objects": [
+            "apple",
+            "bananas"
+        ],
+        "attributes": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a black hat and a red scarf",
+        "objects": [
+            "hat",
+            "scarf"
+        ],
+        "attributes": [
+            "black",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red hat and a black scarf",
+        "objects": [
+            "hat",
+            "scarf"
+        ],
+        "attributes": [
+            "red",
+            "black"
+        ]
+    },
+    {
+        "prompt": "a silver spoon and a blue plate",
+        "objects": [
+            "spoon",
+            "plate"
+        ],
+        "attributes": [
+            "silver",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a yellow bus and a green tree",
+        "objects": [
+            "bus",
+            "tree"
+        ],
+        "attributes": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a green bus and a yellow tree",
+        "objects": [
+            "bus",
+            "tree"
+        ],
+        "attributes": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a red apple and a purple grape",
+        "objects": [
+            "apple",
+            "grape"
+        ],
+        "attributes": [
+            "red",
+            "purple"
+        ]
+    },
+    {
+        "prompt": "a purple apple and a red grape",
+        "objects": [
+            "apple",
+            "grape"
+        ],
+        "attributes": [
+            "purple",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a white dove and a black feather",
+        "objects": [
+            "dove",
+            "feather"
+        ],
+        "attributes": [
+            "white",
+            "black"
+        ]
+    },
+    {
+        "prompt": "a black dove and a white feather",
+        "objects": [
+            "dove",
+            "feather"
+        ],
+        "attributes": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "prompt": "a brown acorn and a green leaf",
+        "objects": [
+            "acorn",
+            "leaf"
+        ],
+        "attributes": [
+            "brown",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a green acorn and a brown leaf",
+        "objects": [
+            "acorn",
+            "leaf"
+        ],
+        "attributes": [
+            "green",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a red stop sign and a white line",
+        "objects": [
+            "stop sign",
+            "line"
+        ],
+        "attributes": [
+            "red",
+            "white"
+        ]
+    },
+    {
+        "prompt": "a red cat and a yellow mouse",
+        "objects": [
+            "cat",
+            "mouse"
+        ],
+        "attributes": [
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a black cat and a brown mouse",
+        "objects": [
+            "cat",
+            "mouse"
+        ],
+        "attributes": [
+            "black",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown cat and a black mouse",
+        "objects": [
+            "cat",
+            "mouse"
+        ],
+        "attributes": [
+            "brown",
+            "black"
+        ]
+    },
+    {
+        "prompt": "a blue pen and a yellow highlighter",
+        "objects": [
+            "pen",
+            "highlighter"
+        ],
+        "attributes": [
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a yellow pen and a blue highlighter",
+        "objects": [
+            "pen",
+            "highlighter"
+        ],
+        "attributes": [
+            "yellow",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a black moon and a white sky",
+        "objects": [
+            "moon",
+            "sky"
+        ],
+        "attributes": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "prompt": "a yellow pencil and a blue notebook",
+        "objects": [
+            "pencil",
+            "notebook"
+        ],
+        "attributes": [
+            "yellow",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a green leaf and a yellow flower",
+        "objects": [
+            "leaf",
+            "flower"
+        ],
+        "attributes": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a yellow leaf and a green flower",
+        "objects": [
+            "leaf",
+            "flower"
+        ],
+        "attributes": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a black cat and a white paw",
+        "objects": [
+            "cat",
+            "paw"
+        ],
+        "attributes": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "prompt": "a white cat and a black paw",
+        "objects": [
+            "cat",
+            "paw"
+        ],
+        "attributes": [
+            "white",
+            "black"
+        ]
+    },
+    {
+        "prompt": "a yellow duck and a blue pond",
+        "objects": [
+            "duck",
+            "pond"
+        ],
+        "attributes": [
+            "yellow",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a green frog and a brown pond",
+        "objects": [
+            "frog",
+            "pond"
+        ],
+        "attributes": [
+            "green",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a brown frog and a green pond",
+        "objects": [
+            "frog",
+            "pond"
+        ],
+        "attributes": [
+            "brown",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a yellow sun and a red sunset",
+        "objects": [
+            "sun",
+            "sunset"
+        ],
+        "attributes": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red sun and a yellow sunset",
+        "objects": [
+            "sun",
+            "sunset"
+        ],
+        "attributes": [
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a blue pen and a black ink",
+        "objects": [
+            "pen",
+            "ink"
+        ],
+        "attributes": [
+            "blue",
+            "black"
+        ]
+    },
+    {
+        "prompt": "a black pen and a blue ink",
+        "objects": [
+            "pen",
+            "ink"
+        ],
+        "attributes": [
+            "black",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a green grass and a yellow dandelion",
+        "objects": [
+            "grass",
+            "dandelion"
+        ],
+        "attributes": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a yellow grass and a green dandelion",
+        "objects": [
+            "grass",
+            "dandelion"
+        ],
+        "attributes": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a black cat and a gray mouse",
+        "objects": [
+            "cat",
+            "mouse"
+        ],
+        "attributes": [
+            "black",
+            "gray"
+        ]
+    },
+    {
+        "prompt": "a gray cat and a black mouse",
+        "objects": [
+            "cat",
+            "mouse"
+        ],
+        "attributes": [
+            "gray",
+            "black"
+        ]
+    },
+    {
+        "prompt": "a red apple and a yellow pear",
+        "objects": [
+            "apple",
+            "pear"
+        ],
+        "attributes": [
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a yellow apple and a red pear",
+        "objects": [
+            "apple",
+            "pear"
+        ],
+        "attributes": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a white snow and a blue sled",
+        "objects": [
+            "snow",
+            "sled"
+        ],
+        "attributes": [
+            "white",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "a blue snow and a white sled",
+        "objects": [
+            "snow",
+            "sled"
+        ],
+        "attributes": [
+            "blue",
+            "white"
+        ]
+    },
+    {
+        "prompt": "a green frog and a yellow fly",
+        "objects": [
+            "frog",
+            "fly"
+        ],
+        "attributes": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a yellow frog and a green fly",
+        "objects": [
+            "frog",
+            "fly"
+        ],
+        "attributes": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a yellow pencil and a red eraser",
+        "objects": [
+            "pencil",
+            "eraser"
+        ],
+        "attributes": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red pencil and a yellow eraser",
+        "objects": [
+            "pencil",
+            "eraser"
+        ],
+        "attributes": [
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a black cat and a white whisker",
+        "objects": [
+            "cat",
+            "whisker"
+        ],
+        "attributes": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "prompt": "a white cat and a black whisker",
+        "objects": [
+            "cat",
+            "whisker"
+        ],
+        "attributes": [
+            "white",
+            "black"
+        ]
+    },
+    {
+        "prompt": "a brown tree and a green grass",
+        "objects": [
+            "tree",
+            "grass"
+        ],
+        "attributes": [
+            "brown",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a green tree and a brown grass",
+        "objects": [
+            "tree",
+            "grass"
+        ],
+        "attributes": [
+            "green",
+            "brown"
+        ]
+    },
+    {
+        "prompt": "a red rose and a white carnation",
+        "objects": [
+            "rose",
+            "carnation"
+        ],
+        "attributes": [
+            "red",
+            "white"
+        ]
+    },
+    {
+        "prompt": "a white rose and a red carnation",
+        "objects": [
+            "rose",
+            "carnation"
+        ],
+        "attributes": [
+            "white",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a white cloud and a black sky",
+        "objects": [
+            "cloud",
+            "sky"
+        ],
+        "attributes": [
+            "white",
+            "black"
+        ]
+    },
+    {
+        "prompt": "a black cloud and a white sky",
+        "objects": [
+            "cloud",
+            "sky"
+        ],
+        "attributes": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "prompt": "a green leaf and a yellow butterfly",
+        "objects": [
+            "leaf",
+            "butterfly"
+        ],
+        "attributes": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a yellow leaf and a green butterfly",
+        "objects": [
+            "leaf",
+            "butterfly"
+        ],
+        "attributes": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a red tomato and a yellow pepper",
+        "objects": [
+            "tomato",
+            "pepper"
+        ],
+        "attributes": [
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "prompt": "a yellow tomato and a red pepper",
+        "objects": [
+            "tomato",
+            "pepper"
+        ],
+        "attributes": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a red apple and a green kiwi",
+        "objects": [
+            "apple",
+            "kiwi"
+        ],
+        "attributes": [
+            "red",
+            "green"
+        ]
+    },
+    {
+        "prompt": "a green apple and a red kiwi",
+        "objects": [
+            "apple",
+            "kiwi"
+        ],
+        "attributes": [
+            "green",
+            "red"
+        ]
+    },
+    {
+        "prompt": "a white piano and a black bench",
+        "objects": [
+            "piano",
+            "bench"
+        ],
+        "attributes": [
+            "white",
+            "black"
+        ]
+    },
+    {
+        "prompt": "a black piano and a white bench",
+        "objects": [
+            "piano",
+            "bench"
+        ],
+        "attributes": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "prompt": "a brown jacket and a black hat",
+        "objects": [
+            "jacket",
+            "hat"
+        ],
+        "attributes": [
+            "brown",
+            "black"
+        ]
+    }
+]

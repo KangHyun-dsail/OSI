@@ -1,0 +1,767 @@
+[
+    {
+        "prompt": "a red bear and a brown train",
+        "objects": [
+            "red bear",
+            "brown train"
+        ]
+    },
+    {
+        "prompt": "a red cylinder and a blue cube",
+        "objects": [
+            "red cylinder",
+            "blue cube"
+        ]
+    },
+    {
+        "prompt": "a blue cylinder and a red cube",
+        "objects": [
+            "blue cylinder",
+            "red cube"
+        ]
+    },
+    {
+        "prompt": "a blue spoon and a silver plate",
+        "objects": [
+            "blue spoon",
+            "silver plate"
+        ]
+    },
+    {
+        "prompt": "a blue bird and a yellow canary",
+        "objects": [
+            "blue bird",
+            "yellow canary"
+        ]
+    },
+    {
+        "prompt": "a canary and a yellow bluebird",
+        "objects": [
+            "canary",
+            "yellow bluebird"
+        ]
+    },
+    {
+        "prompt": "a yellow taxi and a black tire",
+        "objects": [
+            "yellow taxi",
+            "black tire"
+        ]
+    },
+    {
+        "prompt": "a black taxi and a yellow tire",
+        "objects": [
+            "black taxi",
+            "yellow tire"
+        ]
+    },
+    {
+        "prompt": "a green snake and a brown log",
+        "objects": [
+            "green snake",
+            "brown log"
+        ]
+    },
+    {
+        "prompt": "a brown snake and a green log",
+        "objects": [
+            "brown snake",
+            "green log"
+        ]
+    },
+    {
+        "prompt": "a white moon and a black sky",
+        "objects": [
+            "white moon",
+            "black sky"
+        ]
+    },
+    {
+        "prompt": "a blue pencil and a yellow notebook",
+        "objects": [
+            "blue pencil",
+            "yellow notebook"
+        ]
+    },
+    {
+        "prompt": "a blue duck and a yellow pond",
+        "objects": [
+            "blue duck",
+            "yellow pond"
+        ]
+    },
+    {
+        "prompt": "a blue jay and a green parrot",
+        "objects": [
+            "blue jay",
+            "green parrot"
+        ]
+    },
+    {
+        "prompt": "a green jay and a blue parrot",
+        "objects": [
+            "green jay",
+            "blue parrot"
+        ]
+    },
+    {
+        "prompt": "a brown squirrel and a black nut",
+        "objects": [
+            "brown squirrel",
+            "black nut"
+        ]
+    },
+    {
+        "prompt": "a black squirrel and a brown nut",
+        "objects": [
+            "black squirrel",
+            "brown nut"
+        ]
+    },
+    {
+        "prompt": "a white swan and a black lake",
+        "objects": [
+            "white swan",
+            "black lake"
+        ]
+    },
+    {
+        "prompt": "a black swan and a white lake",
+        "objects": [
+            "black swan",
+            "white lake"
+        ]
+    },
+    {
+        "prompt": "a brown log and a green moss",
+        "objects": [
+            "brown log",
+            "green moss"
+        ]
+    },
+    {
+        "prompt": "a green log and a brown moss",
+        "objects": [
+            "green log",
+            "brown moss"
+        ]
+    },
+    {
+        "prompt": "a brown guitar and a black amplifier",
+        "objects": [
+            "brown guitar",
+            "black amplifier"
+        ]
+    },
+    {
+        "prompt": "a black guitar and a brown amplifier",
+        "objects": [
+            "black guitar",
+            "brown amplifier"
+        ]
+    },
+    {
+        "prompt": "a white envelope and a blue stamp",
+        "objects": [
+            "white envelope",
+            "blue stamp"
+        ]
+    },
+    {
+        "prompt": "a blue envelope and a white stamp",
+        "objects": [
+            "blue envelope",
+            "white stamp"
+        ]
+    },
+    {
+        "prompt": "a blue bicycle and a red helmet",
+        "objects": [
+            "blue bicycle",
+            "red helmet"
+        ]
+    },
+    {
+        "prompt": "a red bicycle and a blue helmet",
+        "objects": [
+            "red bicycle",
+            "blue helmet"
+        ]
+    },
+    {
+        "prompt": "a yellow taxi and a black tire",
+        "objects": [
+            "yellow taxi",
+            "black tire"
+        ]
+    },
+    {
+        "prompt": "a black taxi and a yellow tire",
+        "objects": [
+            "black taxi",
+            "yellow tire"
+        ]
+    },
+    {
+        "prompt": "a black jacket and a brown hat",
+        "objects": [
+            "black jacket",
+            "brown hat"
+        ]
+    },
+    {
+        "prompt": "a blue rose and a green tulip",
+        "objects": [
+            "blue rose",
+            "green tulip"
+        ]
+    },
+    {
+        "prompt": "a green rose and a blue tulip",
+        "objects": [
+            "green rose",
+            "blue tulip"
+        ]
+    },
+    {
+        "prompt": "a red school bus and a green bag",
+        "objects": [
+            "red school bus",
+            "green bag"
+        ]
+    },
+    {
+        "prompt": "a green school bus and a red bag",
+        "objects": [
+            "green school bus",
+            "red bag"
+        ]
+    },
+    {
+        "prompt": "a yellow rabbit and a red rat",
+        "objects": [
+            "yellow rabbit",
+            "red rat"
+        ]
+    },
+    {
+        "prompt": "a red rabbit and a yellow rat",
+        "objects": [
+            "red rabbit",
+            "yellow rat"
+        ]
+    },
+    {
+        "prompt": "a red lipstick and a pink blush",
+        "objects": [
+            "red lipstick",
+            "pink blush"
+        ]
+    },
+    {
+        "prompt": "a pink lipstick and a red blush",
+        "objects": [
+            "pink lipstick",
+            "red blush"
+        ]
+    },
+    {
+        "prompt": "a blue bag and a green water bottle",
+        "objects": [
+            "blue bag",
+            "green water bottle"
+        ]
+    },
+    {
+        "prompt": "a green bag and a blue water bottle",
+        "objects": [
+            "green bag",
+            "blue water bottle"
+        ]
+    },
+    {
+        "prompt": "A bathroom with white tile and a beige toilet.",
+        "objects": [
+            "bathroom",
+            "white tile",
+            "beige toilet"
+        ]
+    },
+    {
+        "prompt": "A bathroom with beige tile and a white toilet.",
+        "objects": [
+            "bathroom",
+            "beige tile",
+            "white toilet"
+        ]
+    },
+    {
+        "prompt": "A green bathroom with a mirror and a pink sink.",
+        "objects": [
+            "green bathroom",
+            "pink sink"
+        ]
+    },
+    {
+        "prompt": "A pink bathroom with a mirror and a green sink.",
+        "objects": [
+            "pink bathroom",
+            "mirror",
+            "green sink"
+        ]
+    },
+    {
+        "prompt": "a black gold and white vase sitting on a counter",
+        "objects": [
+            "black gold and white vase",
+            "counter"
+        ]
+    },
+    {
+        "prompt": "a black white and gold vase sitting on a counter",
+        "objects": [
+            "black white and gold vase",
+            "counter"
+        ]
+    },
+    {
+        "prompt": "A small white kitchen with brown wood floor.",
+        "objects": [
+            "small white kitchen",
+            "brown wood floor"
+        ]
+    },
+    {
+        "prompt": "A small brown kitchen with white wood floor.",
+        "objects": [
+            "small brown kitchen",
+            "white wood floor"
+        ]
+    },
+    {
+        "prompt": "Kitchen scene, grey counter top on one side, whitish on the other and black sink with long neck faucet.",
+        "objects": [
+            "Kitchen scene",
+            "grey counter top",
+            "whitish",
+            "black sink",
+            "long neck faucet"
+        ]
+    },
+    {
+        "prompt": "Kitchen scene, black counter top on one side, whitish on the other and grey sink with long neck faucet.",
+        "objects": [
+            "Kitchen scene",
+            "black counter top",
+            "whitish",
+            "grey sink",
+            "long neck faucet"
+        ]
+    },
+    {
+        "prompt": "Two toilet stall, one blue and the other orange.",
+        "objects": [
+            "Two toilet stall",
+            "blue",
+            "orange"
+        ]
+    },
+    {
+        "prompt": "Two toilet stall, one orange and the other blue.",
+        "objects": [
+            "Two toilet stall",
+            "orange",
+            "blue"
+        ]
+    },
+    {
+        "prompt": "A long, narrow yellow kitchen with black and white floor tiles.",
+        "objects": [
+            "long, narrow yellow kitchen",
+            "black and white floor tiles"
+        ]
+    },
+    {
+        "prompt": "A long, narrow black kitchen with yellow and white floor tiles.",
+        "objects": [
+            "long, narrow black kitchen",
+            "yellow and white floor tiles"
+        ]
+    },
+    {
+        "prompt": "Two hot dogs sit on a white paper plate near a soda cup which are sitting on a green picnic table while a bike and a silver car are parked nearby.",
+        "objects": [
+            "hot dogs",
+            "white paper plate",
+            "soda cup",
+            "green picnic table",
+            "bike",
+            "silver car"
+        ]
+    },
+    {
+        "prompt": "Two hot dogs sit on a green paper plate near a soda cup which are sitting on a white picnic table while a bike and a silver car are parked nearby.",
+        "objects": [
+            "hot dogs",
+            "green paper plate",
+            "soda cup",
+            "white picnic table",
+            "bike",
+            "silver car"
+        ]
+    },
+    {
+        "prompt": "A restroom features black and white checkered flooring and two toilets of which has a black seat and lid and the other a white seat and lid.",
+        "objects": [
+            "restroom",
+            "black and white checkered flooring",
+            "toilets",
+            "black seat and lid",
+            "white seat and lid"
+        ]
+    },
+    {
+        "prompt": "A restroom features white and white checkered flooring and two toilets of which has a black seat and lid and the other a black seat and lid.",
+        "objects": [
+            "restroom",
+            "white and white checkered flooring",
+            "toilets",
+            "black seat and lid",
+            "black seat and lid"
+        ]
+    },
+    {
+        "prompt": "Bathroom scene with white background and tan accents.",
+        "objects": [
+            "Bathroom scene",
+            "white background",
+            "tan accents"
+        ]
+    },
+    {
+        "prompt": "Bathroom scene with tan background and white accents.",
+        "objects": [
+            "Bathroom scene",
+            "tan background",
+            "white accents"
+        ]
+    },
+    {
+        "prompt": "A stainless steel oven sits between white cupboards with black counter tops while sun shines through the kitchen windows.",
+        "objects": [
+            "stainless steel oven",
+            "white cupboards",
+            "black counter tops",
+            "kitchen windows"
+        ]
+    },
+    {
+        "prompt": "A stainless steel oven sits between black cupboards with white counter tops while sun shines through the kitchen windows.",
+        "objects": [
+            "stainless steel oven",
+            "black cupboards",
+            "white counter tops",
+            "kitchen windows"
+        ]
+    },
+    {
+        "prompt": "A kitchen with white tile floor and blue sloped ceiling.",
+        "objects": [
+            "kitchen",
+            "white tile floor",
+            "blue sloped ceiling"
+        ]
+    },
+    {
+        "prompt": "A kitchen with blue tile floor and white sloped ceiling.",
+        "objects": [
+            "kitchen",
+            "blue tile floor",
+            "white sloped ceiling"
+        ]
+    },
+    {
+        "prompt": "A bathroom with green tile and a red shower curtain.",
+        "objects": [
+            "bathroom",
+            "green tile",
+            "red shower curtain"
+        ]
+    },
+    {
+        "prompt": "A bathroom with red tile and a green shower curtain.",
+        "objects": [
+            "bathroom",
+            "red tile",
+            "green shower curtain"
+        ]
+    },
+    {
+        "prompt": "A white bath tub sits empty in a tan, clean bathroom.",
+        "objects": [
+            "white bath tub",
+            "tan, clean bathroom"
+        ]
+    },
+    {
+        "prompt": "A tan bath tub sits empty in a white, clean bathroom.",
+        "objects": [
+            "tan bath tub",
+            "white, clean bathroom"
+        ]
+    },
+    {
+        "prompt": "two white sheep, a black goat and a white goat in a field",
+        "objects": [
+            "two white sheep",
+            "black goat",
+            "white goat",
+            "field"
+        ]
+    },
+    {
+        "prompt": "two black sheep, a white goat and a white goat in a field",
+        "objects": [
+            "two black sheep",
+            "white goat",
+            "white goat",
+            "field"
+        ]
+    },
+    {
+        "prompt": "A black and white cat sits in a white sink.",
+        "objects": [
+            "black and white cat",
+            "white sink"
+        ]
+    },
+    {
+        "prompt": "A black and white cat sits in a white sink.",
+        "objects": [
+            "black and white cat",
+            "white sink"
+        ]
+    },
+    {
+        "prompt": "A woman in a white shirt and jeans holds a pink umbrella in the rain.",
+        "objects": [
+            "woman",
+            "white shirt",
+            "jeans",
+            "pink umbrella"
+        ]
+    },
+    {
+        "prompt": "A woman in a pink shirt and jeans holds a white umbrella in the rain.",
+        "objects": [
+            "woman in a pink shirt and jeans",
+            "white umbrella"
+        ]
+    },
+    {
+        "prompt": "A small bathroom with a small brown toilet next to a white sink.",
+        "objects": [
+            "small bathroom",
+            "small brown toilet",
+            "white sink"
+        ]
+    },
+    {
+        "prompt": "A small bathroom with a small white toilet next to a brown sink.",
+        "objects": [
+            "small bathroom",
+            "small white toilet",
+            "brown sink"
+        ]
+    },
+    {
+        "prompt": "A black and green tile bathroom with a black toilet and a yellow bucket on the floor.",
+        "objects": [
+            "black and green tile bathroom",
+            "black toilet",
+            "yellow bucket"
+        ]
+    },
+    {
+        "prompt": "A black and green tile bathroom with a yellow toilet and a black bucket on the floor.",
+        "objects": [
+            "black and green tile bathroom",
+            "yellow toilet",
+            "black bucket"
+        ]
+    },
+    {
+        "prompt": "A red carpet in a bathroom with white fixtures.",
+        "objects": [
+            "red carpet",
+            "bathroom",
+            "white fixtures"
+        ]
+    },
+    {
+        "prompt": "A white carpet in a bathroom with red fixtures.",
+        "objects": [
+            "white carpet",
+            "bathroom",
+            "red fixtures"
+        ]
+    },
+    {
+        "prompt": "Many stoplights flash yellow on a snow covered street.",
+        "objects": [
+            "stoplights",
+            "yellow",
+            "snow covered street"
+        ]
+    },
+    {
+        "prompt": "Many stoplights flash snow on a yellow covered street.",
+        "objects": [
+            "stoplights",
+            "snow on a yellow covered street"
+        ]
+    },
+    {
+        "prompt": "A blue scooter is parked near a curb in front of a green vintage car.",
+        "objects": [
+            "blue scooter",
+            "green vintage car",
+            "curb"
+        ]
+    },
+    {
+        "prompt": "A green scooter is parked near a curb in front of a blue vintage car.",
+        "objects": [
+            "green scooter",
+            "blue vintage car",
+            "curb"
+        ]
+    },
+    {
+        "prompt": "A dining area features a wood table and chairs, a silver refrigerator and light brown cabinets.",
+        "objects": [
+            "dining area",
+            "wood table",
+            "chairs",
+            "silver refrigerator",
+            "light brown cabinets"
+        ]
+    },
+    {
+        "prompt": "A dining area features a wood table and chairs, a brown refrigerator and light silver cabinets.",
+        "objects": [
+            "dining area",
+            "wood table and chairs",
+            "brown refrigerator",
+            "light silver cabinets"
+        ]
+    },
+    {
+        "prompt": "Bathroom scene, white commode and matching white sink on light brown tone tiled floor.",
+        "objects": [
+            "Bathroom scene",
+            "white commode",
+            "white sink",
+            "light brown tone tiled floor"
+        ]
+    },
+    {
+        "prompt": "Bathroom scene, white commode and matching white sink on light brown tone tiled floor.",
+        "objects": [
+            "Bathroom scene",
+            "white commode",
+            "white sink",
+            "light brown tone tiled floor"
+        ]
+    },
+    {
+        "prompt": "A traffic light with a smile green light above a red sign.",
+        "objects": [
+            "traffic light",
+            "smile green light",
+            "red sign"
+        ]
+    },
+    {
+        "prompt": "A traffic light with a smile red light above a green sign.",
+        "objects": [
+            "traffic light",
+            "smile red light",
+            "green sign"
+        ]
+    },
+    {
+        "prompt": "The man on the large black motorcycle has pink chaps.",
+        "objects": [
+            "man",
+            "large black motorcycle",
+            "pink chaps"
+        ]
+    },
+    {
+        "prompt": "The man on the large pink motorcycle has black chaps.",
+        "objects": [
+            "man",
+            "large pink motorcycle",
+            "black chaps"
+        ]
+    },
+    {
+        "prompt": "A black motorcycle is parked on grey cobblestones.",
+        "objects": [
+            "black motorcycle",
+            "grey cobblestones"
+        ]
+    },
+    {
+        "prompt": "A grey motorcycle is parked on black cobblestones.",
+        "objects": [
+            "grey motorcycle",
+            "black cobblestones"
+        ]
+    },
+    {
+        "prompt": "The white and yellow clock with a red roof reads 11:44.",
+        "objects": [
+            "white and yellow clock",
+            "red roof"
+        ]
+    },
+    {
+        "prompt": "The white and red clock with a yellow roof reads 11:44.",
+        "objects": [
+            "white and red clock",
+            "yellow roof"
+        ]
+    },
+    {
+        "prompt": "A man in a gray jacket standing in a kitchen next to a black dog.",
+        "objects": [
+            "man in a gray jacket",
+            "kitchen",
+            "black dog"
+        ]
+    },
+    {
+        "prompt": "A man in a black jacket standing in a kitchen next to a gray dog.",
+        "objects": [
+            "man in a black jacket",
+            "kitchen",
+            "gray dog"
+        ]
+    },
+    {
+        "prompt": "a white bathroom with a black and white shower curtain",
+        "objects": [
+            "white bathroom",
+            "black and white shower curtain"
+        ]
+    },
+    {
+        "prompt": "a white bathroom with a black and white shower curtain",
+        "objects": [
+            "white bathroom",
+            "black and white shower curtain"
+        ]
+    }
+]

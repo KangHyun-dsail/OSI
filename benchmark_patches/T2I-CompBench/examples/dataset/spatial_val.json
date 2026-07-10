@@ -1,0 +1,2102 @@
+[
+    {
+        "prompt": "a giraffe next to a lamp",
+        "objects": [
+            "giraffe",
+            "lamp"
+        ]
+    },
+    {
+        "prompt": "a girl on the top of a frog",
+        "objects": [
+            "girl",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a mouse on side of a key",
+        "objects": [
+            "mouse",
+            "key"
+        ]
+    },
+    {
+        "prompt": "a bee on the right of a refrigerator",
+        "objects": [
+            "bee",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a balloon on the right of a person",
+        "objects": [
+            "balloon",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a cat on the top of a sofa",
+        "objects": [
+            "cat",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a desk on the right of a horse",
+        "objects": [
+            "desk",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a bicycle on the bottom of a girl",
+        "objects": [
+            "bicycle",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a sheep on the left of a lamp",
+        "objects": [
+            "sheep",
+            "lamp"
+        ]
+    },
+    {
+        "prompt": "a suitcase on the right of a mouse",
+        "objects": [
+            "suitcase",
+            "mouse"
+        ]
+    },
+    {
+        "prompt": "a bird on side of a airplane",
+        "objects": [
+            "bird",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a pig on the bottom of a train",
+        "objects": [
+            "pig",
+            "train"
+        ]
+    },
+    {
+        "prompt": "a mouse on the bottom of a vase",
+        "objects": [
+            "mouse",
+            "vase"
+        ]
+    },
+    {
+        "prompt": "a fish on side of a sofa",
+        "objects": [
+            "fish",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a girl on the top of a refrigerator",
+        "objects": [
+            "girl",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a boy on the bottom of a bee",
+        "objects": [
+            "boy",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a chicken on the left of a girl",
+        "objects": [
+            "chicken",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a woman on the left of a balloon",
+        "objects": [
+            "woman",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a table on the bottom of a dog",
+        "objects": [
+            "table",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a horse on side of a bicycle",
+        "objects": [
+            "horse",
+            "bicycle"
+        ]
+    },
+    {
+        "prompt": "a plate on the bottom of a fish",
+        "objects": [
+            "plate",
+            "fish"
+        ]
+    },
+    {
+        "prompt": "a boy next to a bowl",
+        "objects": [
+            "boy",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a man on the left of a giraffe",
+        "objects": [
+            "man",
+            "giraffe"
+        ]
+    },
+    {
+        "prompt": "a mouse near a bowl",
+        "objects": [
+            "mouse",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a woman on the right of a wallet",
+        "objects": [
+            "woman",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a frog on the left of a book",
+        "objects": [
+            "frog",
+            "book"
+        ]
+    },
+    {
+        "prompt": "a mouse near a bag",
+        "objects": [
+            "mouse",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a bicycle on the top of a turtle",
+        "objects": [
+            "bicycle",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a bicycle on the bottom of a chicken",
+        "objects": [
+            "bicycle",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a sheep on side of a chair",
+        "objects": [
+            "sheep",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "a boy on the left of a balloon",
+        "objects": [
+            "boy",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a bee on the top of a bicycle",
+        "objects": [
+            "bee",
+            "bicycle"
+        ]
+    },
+    {
+        "prompt": "a painting on the top of a rabbit",
+        "objects": [
+            "painting",
+            "rabbit"
+        ]
+    },
+    {
+        "prompt": "a bird on the top of a person",
+        "objects": [
+            "bird",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a key on the top of a chicken",
+        "objects": [
+            "key",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a rabbit next to a table",
+        "objects": [
+            "rabbit",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a bee on side of a couch",
+        "objects": [
+            "bee",
+            "couch"
+        ]
+    },
+    {
+        "prompt": "a giraffe on the left of a table",
+        "objects": [
+            "giraffe",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a rabbit near a bicycle",
+        "objects": [
+            "rabbit",
+            "bicycle"
+        ]
+    },
+    {
+        "prompt": "a cup on the right of a dog",
+        "objects": [
+            "cup",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a book on the top of a butterfly",
+        "objects": [
+            "book",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a key on the left of a butterfly",
+        "objects": [
+            "key",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a bird on the left of a clock",
+        "objects": [
+            "bird",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a frog on the top of a bowl",
+        "objects": [
+            "frog",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a person on side of a cow",
+        "objects": [
+            "person",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a chicken on the right of a suitcase",
+        "objects": [
+            "chicken",
+            "suitcase"
+        ]
+    },
+    {
+        "prompt": "a sofa on the left of a frog",
+        "objects": [
+            "sofa",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a pig on the left of a lamp",
+        "objects": [
+            "pig",
+            "lamp"
+        ]
+    },
+    {
+        "prompt": "a horse on side of a car",
+        "objects": [
+            "horse",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a man on the right of a lamp",
+        "objects": [
+            "man",
+            "lamp"
+        ]
+    },
+    {
+        "prompt": "a horse on the left of a car",
+        "objects": [
+            "horse",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a wallet on the left of a giraffe",
+        "objects": [
+            "wallet",
+            "giraffe"
+        ]
+    },
+    {
+        "prompt": "a clock on the top of a sheep",
+        "objects": [
+            "clock",
+            "sheep"
+        ]
+    },
+    {
+        "prompt": "a cat on side of a suitcase",
+        "objects": [
+            "cat",
+            "suitcase"
+        ]
+    },
+    {
+        "prompt": "a cat next to a suitcase",
+        "objects": [
+            "cat",
+            "suitcase"
+        ]
+    },
+    {
+        "prompt": "a bird on the left of a microwave",
+        "objects": [
+            "bird",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a bird on the left of a phone",
+        "objects": [
+            "bird",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a computer on the top of a rabbit",
+        "objects": [
+            "computer",
+            "rabbit"
+        ]
+    },
+    {
+        "prompt": "a rabbit on side of a wallet",
+        "objects": [
+            "rabbit",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a dog on the bottom of a refrigerator",
+        "objects": [
+            "dog",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a couch on the right of a chicken",
+        "objects": [
+            "couch",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a phone on the right of a chicken",
+        "objects": [
+            "phone",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a bee on the top of a boy",
+        "objects": [
+            "bee",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a phone on the right of a rabbit",
+        "objects": [
+            "phone",
+            "rabbit"
+        ]
+    },
+    {
+        "prompt": "a bird on the left of a woman",
+        "objects": [
+            "bird",
+            "woman"
+        ]
+    },
+    {
+        "prompt": "a candle on the left of a mouse",
+        "objects": [
+            "candle",
+            "mouse"
+        ]
+    },
+    {
+        "prompt": "a man on the left of a lamp",
+        "objects": [
+            "man",
+            "lamp"
+        ]
+    },
+    {
+        "prompt": "a bee on the left of a refrigerator",
+        "objects": [
+            "bee",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a frog on the bottom of a bowl",
+        "objects": [
+            "frog",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a cup on the left of a pig",
+        "objects": [
+            "cup",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a cow on the bottom of a bag",
+        "objects": [
+            "cow",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a butterfly on side of a cup",
+        "objects": [
+            "butterfly",
+            "cup"
+        ]
+    },
+    {
+        "prompt": "a butterfly on the left of a candle",
+        "objects": [
+            "butterfly",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a desk on the top of a butterfly",
+        "objects": [
+            "desk",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a dog on the top of a sofa",
+        "objects": [
+            "dog",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a turtle next to a bowl",
+        "objects": [
+            "turtle",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a cow on the top of a chair",
+        "objects": [
+            "cow",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "a painting on the bottom of a chicken",
+        "objects": [
+            "painting",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a vase on the right of a cat",
+        "objects": [
+            "vase",
+            "cat"
+        ]
+    },
+    {
+        "prompt": "a girl on the bottom of a bag",
+        "objects": [
+            "girl",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a giraffe on the left of a balloon",
+        "objects": [
+            "giraffe",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a phone on the right of a butterfly",
+        "objects": [
+            "phone",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a giraffe next to a suitcase",
+        "objects": [
+            "giraffe",
+            "suitcase"
+        ]
+    },
+    {
+        "prompt": "a dog on the right of a wallet",
+        "objects": [
+            "dog",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a woman on the left of a cup",
+        "objects": [
+            "woman",
+            "cup"
+        ]
+    },
+    {
+        "prompt": "a airplane on the right of a person",
+        "objects": [
+            "airplane",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a microwave on the right of a pig",
+        "objects": [
+            "microwave",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a backpack on the top of a chicken",
+        "objects": [
+            "backpack",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a frog near a phone",
+        "objects": [
+            "frog",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a cat on side of a wallet",
+        "objects": [
+            "cat",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a woman on the top of a painting",
+        "objects": [
+            "woman",
+            "painting"
+        ]
+    },
+    {
+        "prompt": "a sheep on side of a sofa",
+        "objects": [
+            "sheep",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a boy on the top of a wallet",
+        "objects": [
+            "boy",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a cow on side of a train",
+        "objects": [
+            "cow",
+            "train"
+        ]
+    },
+    {
+        "prompt": "a chair on the bottom of a turtle",
+        "objects": [
+            "chair",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a turtle on the left of a man",
+        "objects": [
+            "turtle",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a bird on the top of a balloon",
+        "objects": [
+            "bird",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a horse on the left of a book",
+        "objects": [
+            "horse",
+            "book"
+        ]
+    },
+    {
+        "prompt": "a table on the top of a pig",
+        "objects": [
+            "table",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a boy on side of a bee",
+        "objects": [
+            "boy",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a turtle next to a television",
+        "objects": [
+            "turtle",
+            "television"
+        ]
+    },
+    {
+        "prompt": "a pig near a cup",
+        "objects": [
+            "pig",
+            "cup"
+        ]
+    },
+    {
+        "prompt": "a rabbit on the bottom of a chair",
+        "objects": [
+            "rabbit",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "a painting on the bottom of a horse",
+        "objects": [
+            "painting",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a bowl on the right of a butterfly",
+        "objects": [
+            "bowl",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a frog near a chair",
+        "objects": [
+            "frog",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "a dog on the top of a desk",
+        "objects": [
+            "dog",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a girl on side of a desk",
+        "objects": [
+            "girl",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a television on the right of a woman",
+        "objects": [
+            "television",
+            "woman"
+        ]
+    },
+    {
+        "prompt": "a pig near a wallet",
+        "objects": [
+            "pig",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a man near a pig",
+        "objects": [
+            "man",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a pig on the top of a boy",
+        "objects": [
+            "pig",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a giraffe near a wallet",
+        "objects": [
+            "giraffe",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a pig near a clock",
+        "objects": [
+            "pig",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a dog on the bottom of a balloon",
+        "objects": [
+            "dog",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a fish near a cup",
+        "objects": [
+            "fish",
+            "cup"
+        ]
+    },
+    {
+        "prompt": "a bag on the right of a dog",
+        "objects": [
+            "bag",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a cup on the top of a butterfly",
+        "objects": [
+            "cup",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a airplane on the right of a girl",
+        "objects": [
+            "airplane",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a frog next to a desk",
+        "objects": [
+            "frog",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a woman near a bag",
+        "objects": [
+            "woman",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a woman on the right of a television",
+        "objects": [
+            "woman",
+            "television"
+        ]
+    },
+    {
+        "prompt": "a cup on the bottom of a dog",
+        "objects": [
+            "cup",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a woman on the left of a plate",
+        "objects": [
+            "woman",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a frog near a refrigerator",
+        "objects": [
+            "frog",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a pig on the top of a man",
+        "objects": [
+            "pig",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a rabbit on the right of a wallet",
+        "objects": [
+            "rabbit",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a girl next to a cow",
+        "objects": [
+            "girl",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a man on the top of a sofa",
+        "objects": [
+            "man",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a cat on the right of a person",
+        "objects": [
+            "cat",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a bee on the bottom of a airplane",
+        "objects": [
+            "bee",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a bird on the right of a cup",
+        "objects": [
+            "bird",
+            "cup"
+        ]
+    },
+    {
+        "prompt": "a woman on the top of a pig",
+        "objects": [
+            "woman",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a airplane on the right of a turtle",
+        "objects": [
+            "airplane",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a television on the top of a bird",
+        "objects": [
+            "television",
+            "bird"
+        ]
+    },
+    {
+        "prompt": "a cow next to a couch",
+        "objects": [
+            "cow",
+            "couch"
+        ]
+    },
+    {
+        "prompt": "a bird on the right of a man",
+        "objects": [
+            "bird",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a table on the left of a girl",
+        "objects": [
+            "table",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a giraffe near a computer",
+        "objects": [
+            "giraffe",
+            "computer"
+        ]
+    },
+    {
+        "prompt": "a frog on the left of a refrigerator",
+        "objects": [
+            "frog",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a giraffe on the right of a wallet",
+        "objects": [
+            "giraffe",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a girl near a bag",
+        "objects": [
+            "girl",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a cow on side of a clock",
+        "objects": [
+            "cow",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a train on the top of a cow",
+        "objects": [
+            "train",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a giraffe on the top of a airplane",
+        "objects": [
+            "giraffe",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a plate on the left of a girl",
+        "objects": [
+            "plate",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a woman on side of a cup",
+        "objects": [
+            "woman",
+            "cup"
+        ]
+    },
+    {
+        "prompt": "a man next to a mouse",
+        "objects": [
+            "man",
+            "mouse"
+        ]
+    },
+    {
+        "prompt": "a chicken near a suitcase",
+        "objects": [
+            "chicken",
+            "suitcase"
+        ]
+    },
+    {
+        "prompt": "a girl on the bottom of a horse",
+        "objects": [
+            "girl",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a key on the right of a dog",
+        "objects": [
+            "key",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a horse near a sofa",
+        "objects": [
+            "horse",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a turtle on the bottom of a phone",
+        "objects": [
+            "turtle",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a butterfly on the right of a balloon",
+        "objects": [
+            "butterfly",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a horse on the bottom of a plate",
+        "objects": [
+            "horse",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a turtle next to a airplane",
+        "objects": [
+            "turtle",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a woman on the top of a butterfly",
+        "objects": [
+            "woman",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a mouse on the bottom of a phone",
+        "objects": [
+            "mouse",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a dog on the bottom of a desk",
+        "objects": [
+            "dog",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a frog on the right of a bag",
+        "objects": [
+            "frog",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a person on side of a table",
+        "objects": [
+            "person",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a chair on the right of a frog",
+        "objects": [
+            "chair",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a suitcase on the right of a cow",
+        "objects": [
+            "suitcase",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a rabbit near a train",
+        "objects": [
+            "rabbit",
+            "train"
+        ]
+    },
+    {
+        "prompt": "a candle on the top of a chicken",
+        "objects": [
+            "candle",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a television on the right of a person",
+        "objects": [
+            "television",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a fish next to a train",
+        "objects": [
+            "fish",
+            "train"
+        ]
+    },
+    {
+        "prompt": "a train on the bottom of a giraffe",
+        "objects": [
+            "train",
+            "giraffe"
+        ]
+    },
+    {
+        "prompt": "a train on the bottom of a girl",
+        "objects": [
+            "train",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a rabbit on the top of a clock",
+        "objects": [
+            "rabbit",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a man on side of a cow",
+        "objects": [
+            "man",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a man next to a airplane",
+        "objects": [
+            "man",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a woman on the left of a microwave",
+        "objects": [
+            "woman",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a candle on the right of a bird",
+        "objects": [
+            "candle",
+            "bird"
+        ]
+    },
+    {
+        "prompt": "a bird on side of a balloon",
+        "objects": [
+            "bird",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a giraffe on the bottom of a suitcase",
+        "objects": [
+            "giraffe",
+            "suitcase"
+        ]
+    },
+    {
+        "prompt": "a chair on the right of a giraffe",
+        "objects": [
+            "chair",
+            "giraffe"
+        ]
+    },
+    {
+        "prompt": "a frog on side of a wallet",
+        "objects": [
+            "frog",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a balloon on the right of a butterfly",
+        "objects": [
+            "balloon",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a butterfly next to a train",
+        "objects": [
+            "butterfly",
+            "train"
+        ]
+    },
+    {
+        "prompt": "a table on the right of a man",
+        "objects": [
+            "table",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a desk on the bottom of a giraffe",
+        "objects": [
+            "desk",
+            "giraffe"
+        ]
+    },
+    {
+        "prompt": "a cat on the bottom of a man",
+        "objects": [
+            "cat",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a airplane on the top of a mouse",
+        "objects": [
+            "airplane",
+            "mouse"
+        ]
+    },
+    {
+        "prompt": "a bee near a desk",
+        "objects": [
+            "bee",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a woman on the right of a phone",
+        "objects": [
+            "woman",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a bowl on the bottom of a frog",
+        "objects": [
+            "bowl",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a balloon on the bottom of a chicken",
+        "objects": [
+            "balloon",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a balloon on the bottom of a person",
+        "objects": [
+            "balloon",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a person on the right of a train",
+        "objects": [
+            "person",
+            "train"
+        ]
+    },
+    {
+        "prompt": "a airplane on the top of a horse",
+        "objects": [
+            "airplane",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a fish on side of a bag",
+        "objects": [
+            "fish",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a television on the top of a woman",
+        "objects": [
+            "television",
+            "woman"
+        ]
+    },
+    {
+        "prompt": "a person on the left of a vase",
+        "objects": [
+            "person",
+            "vase"
+        ]
+    },
+    {
+        "prompt": "a couch on the bottom of a pig",
+        "objects": [
+            "couch",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a rabbit next to a train",
+        "objects": [
+            "rabbit",
+            "train"
+        ]
+    },
+    {
+        "prompt": "a bee next to a microwave",
+        "objects": [
+            "bee",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a horse on the top of a wallet",
+        "objects": [
+            "horse",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a girl on the right of a sofa",
+        "objects": [
+            "girl",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a person on the left of a couch",
+        "objects": [
+            "person",
+            "couch"
+        ]
+    },
+    {
+        "prompt": "a chicken on side of a candle",
+        "objects": [
+            "chicken",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a cup on the right of a bee",
+        "objects": [
+            "cup",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a giraffe on the right of a candle",
+        "objects": [
+            "giraffe",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a woman on the top of a airplane",
+        "objects": [
+            "woman",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a rabbit on side of a suitcase",
+        "objects": [
+            "rabbit",
+            "suitcase"
+        ]
+    },
+    {
+        "prompt": "a phone on the bottom of a fish",
+        "objects": [
+            "phone",
+            "fish"
+        ]
+    },
+    {
+        "prompt": "a man on the top of a turtle",
+        "objects": [
+            "man",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a wallet on the bottom of a bird",
+        "objects": [
+            "wallet",
+            "bird"
+        ]
+    },
+    {
+        "prompt": "a woman next to a turtle",
+        "objects": [
+            "woman",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a vase on the bottom of a person",
+        "objects": [
+            "vase",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a butterfly on the right of a wallet",
+        "objects": [
+            "butterfly",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a woman on the top of a desk",
+        "objects": [
+            "woman",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a airplane on the right of a mouse",
+        "objects": [
+            "airplane",
+            "mouse"
+        ]
+    },
+    {
+        "prompt": "a boy on the left of a computer",
+        "objects": [
+            "boy",
+            "computer"
+        ]
+    },
+    {
+        "prompt": "a chicken on side of a cup",
+        "objects": [
+            "chicken",
+            "cup"
+        ]
+    },
+    {
+        "prompt": "a horse near a wallet",
+        "objects": [
+            "horse",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a cow on the top of a painting",
+        "objects": [
+            "cow",
+            "painting"
+        ]
+    },
+    {
+        "prompt": "a girl on the left of a pig",
+        "objects": [
+            "girl",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a fish near a car",
+        "objects": [
+            "fish",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a bee on side of a airplane",
+        "objects": [
+            "bee",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a boy near a airplane",
+        "objects": [
+            "boy",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a woman on the bottom of a frog",
+        "objects": [
+            "woman",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a woman on the top of a microwave",
+        "objects": [
+            "woman",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a giraffe next to a television",
+        "objects": [
+            "giraffe",
+            "television"
+        ]
+    },
+    {
+        "prompt": "a bee on the left of a key",
+        "objects": [
+            "bee",
+            "key"
+        ]
+    },
+    {
+        "prompt": "a cat on the top of a microwave",
+        "objects": [
+            "cat",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a giraffe on the bottom of a bicycle",
+        "objects": [
+            "giraffe",
+            "bicycle"
+        ]
+    },
+    {
+        "prompt": "a balloon on the bottom of a dog",
+        "objects": [
+            "balloon",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a bee on the left of a clock",
+        "objects": [
+            "bee",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a bird next to a refrigerator",
+        "objects": [
+            "bird",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a suitcase on the bottom of a turtle",
+        "objects": [
+            "suitcase",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a frog on the top of a cup",
+        "objects": [
+            "frog",
+            "cup"
+        ]
+    },
+    {
+        "prompt": "a cat on the right of a table",
+        "objects": [
+            "cat",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a computer on the bottom of a boy",
+        "objects": [
+            "computer",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a mouse on the top of a bowl",
+        "objects": [
+            "mouse",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a sheep on the left of a clock",
+        "objects": [
+            "sheep",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a woman on the right of a bowl",
+        "objects": [
+            "woman",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a wallet on the top of a man",
+        "objects": [
+            "wallet",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a butterfly on the right of a couch",
+        "objects": [
+            "butterfly",
+            "couch"
+        ]
+    },
+    {
+        "prompt": "a key on the bottom of a horse",
+        "objects": [
+            "key",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a turtle on the bottom of a chair",
+        "objects": [
+            "turtle",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "a turtle on the bottom of a microwave",
+        "objects": [
+            "turtle",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a boy on the right of a chicken",
+        "objects": [
+            "boy",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a bicycle on the left of a man",
+        "objects": [
+            "bicycle",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a woman next to a airplane",
+        "objects": [
+            "woman",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a man on side of a candle",
+        "objects": [
+            "man",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a woman on the left of a horse",
+        "objects": [
+            "woman",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a giraffe on the bottom of a bag",
+        "objects": [
+            "giraffe",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a person on side of a lamp",
+        "objects": [
+            "person",
+            "lamp"
+        ]
+    },
+    {
+        "prompt": "a plate on the bottom of a man",
+        "objects": [
+            "plate",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a cow next to a airplane",
+        "objects": [
+            "cow",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a mouse on the left of a train",
+        "objects": [
+            "mouse",
+            "train"
+        ]
+    },
+    {
+        "prompt": "a cat on the right of a sofa",
+        "objects": [
+            "cat",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a train on the bottom of a horse",
+        "objects": [
+            "train",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a girl on the top of a cow",
+        "objects": [
+            "girl",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a mouse on the left of a airplane",
+        "objects": [
+            "mouse",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a giraffe on the left of a car",
+        "objects": [
+            "giraffe",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a person on the top of a painting",
+        "objects": [
+            "person",
+            "painting"
+        ]
+    },
+    {
+        "prompt": "a cat on the top of a candle",
+        "objects": [
+            "cat",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a bee on side of a table",
+        "objects": [
+            "bee",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a butterfly on side of a desk",
+        "objects": [
+            "butterfly",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a bird on side of a key",
+        "objects": [
+            "bird",
+            "key"
+        ]
+    },
+    {
+        "prompt": "a suitcase on the left of a girl",
+        "objects": [
+            "suitcase",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a horse on the top of a man",
+        "objects": [
+            "horse",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a dog on side of a computer",
+        "objects": [
+            "dog",
+            "computer"
+        ]
+    },
+    {
+        "prompt": "a horse on the bottom of a wallet",
+        "objects": [
+            "horse",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a fish next to a desk",
+        "objects": [
+            "fish",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a cat on the left of a lamp",
+        "objects": [
+            "cat",
+            "lamp"
+        ]
+    },
+    {
+        "prompt": "a fish on the left of a table",
+        "objects": [
+            "fish",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a mouse on side of a phone",
+        "objects": [
+            "mouse",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a frog on the left of a table",
+        "objects": [
+            "frog",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a pig on the right of a vase",
+        "objects": [
+            "pig",
+            "vase"
+        ]
+    },
+    {
+        "prompt": "a dog on the bottom of a train",
+        "objects": [
+            "dog",
+            "train"
+        ]
+    },
+    {
+        "prompt": "a rabbit on the top of a candle",
+        "objects": [
+            "rabbit",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a frog on the left of a phone",
+        "objects": [
+            "frog",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a mouse on the bottom of a backpack",
+        "objects": [
+            "mouse",
+            "backpack"
+        ]
+    },
+    {
+        "prompt": "a desk on the top of a cat",
+        "objects": [
+            "desk",
+            "cat"
+        ]
+    },
+    {
+        "prompt": "a cow near a plate",
+        "objects": [
+            "cow",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a vase on the right of a man",
+        "objects": [
+            "vase",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a couch on the left of a dog",
+        "objects": [
+            "couch",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a chicken on the top of a plate",
+        "objects": [
+            "chicken",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a frog on the right of a couch",
+        "objects": [
+            "frog",
+            "couch"
+        ]
+    },
+    {
+        "prompt": "a sheep on the bottom of a painting",
+        "objects": [
+            "sheep",
+            "painting"
+        ]
+    },
+    {
+        "prompt": "a boy on the right of a pig",
+        "objects": [
+            "boy",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a pig on the left of a desk",
+        "objects": [
+            "pig",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a woman on side of a frog",
+        "objects": [
+            "woman",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a girl near a book",
+        "objects": [
+            "girl",
+            "book"
+        ]
+    },
+    {
+        "prompt": "a boy next to a couch",
+        "objects": [
+            "boy",
+            "couch"
+        ]
+    },
+    {
+        "prompt": "a giraffe on the left of a train",
+        "objects": [
+            "giraffe",
+            "train"
+        ]
+    },
+    {
+        "prompt": "a book on the top of a woman",
+        "objects": [
+            "book",
+            "woman"
+        ]
+    },
+    {
+        "prompt": "a car on the right of a man",
+        "objects": [
+            "car",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a sheep on the top of a table",
+        "objects": [
+            "sheep",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a giraffe on the right of a bowl",
+        "objects": [
+            "giraffe",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a cow on the top of a boy",
+        "objects": [
+            "cow",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a mouse on side of a bag",
+        "objects": [
+            "mouse",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a pig on side of a phone",
+        "objects": [
+            "pig",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a book on the left of a bird",
+        "objects": [
+            "book",
+            "bird"
+        ]
+    },
+    {
+        "prompt": "a man on the bottom of a sofa",
+        "objects": [
+            "man",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a painting on the right of a pig",
+        "objects": [
+            "painting",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a pig on the bottom of a wallet",
+        "objects": [
+            "pig",
+            "wallet"
+        ]
+    }
+]

@@ -1,0 +1,2099 @@
+[
+    {
+        "prompt": "a dog in front of a desk",
+        "objects": [
+            "dog",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a car in front of a mouse",
+        "objects": [
+            "car",
+            "mouse"
+        ]
+    },
+    {
+        "prompt": "a sheep in front of a key",
+        "objects": [
+            "sheep",
+            "key"
+        ]
+    },
+    {
+        "prompt": "a cat behind a boy",
+        "objects": [
+            "cat",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a chair hidden by a mouse",
+        "objects": [
+            "chair",
+            "mouse"
+        ]
+    },
+    {
+        "prompt": "a girl behind a cow",
+        "objects": [
+            "girl",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a girl behind a sheep",
+        "objects": [
+            "girl",
+            "sheep"
+        ]
+    },
+    {
+        "prompt": "a vase hidden by a candle",
+        "objects": [
+            "vase",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a chicken in front of a person",
+        "objects": [
+            "chicken",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a cup in front of a turtle",
+        "objects": [
+            "cup",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a woman hidden by a cow",
+        "objects": [
+            "woman",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a phone hidden by a man",
+        "objects": [
+            "phone",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a computer in front of a cow",
+        "objects": [
+            "computer",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a cat in front of a chair",
+        "objects": [
+            "cat",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "a bee in front of a bowl",
+        "objects": [
+            "bee",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a mouse hidden by a key",
+        "objects": [
+            "mouse",
+            "key"
+        ]
+    },
+    {
+        "prompt": "a chair hidden by a turtle",
+        "objects": [
+            "chair",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a giraffe behind a sofa",
+        "objects": [
+            "giraffe",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a key in front of a girl",
+        "objects": [
+            "key",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a balloon behind a sofa",
+        "objects": [
+            "balloon",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a train hidden by a plate",
+        "objects": [
+            "train",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a computer hidden by a pig",
+        "objects": [
+            "computer",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a backpack hidden by a butterfly",
+        "objects": [
+            "backpack",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a bowl behind a refrigerator",
+        "objects": [
+            "bowl",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a girl hidden by a refrigerator",
+        "objects": [
+            "girl",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a desk in front of a wallet",
+        "objects": [
+            "desk",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a bag behind a balloon",
+        "objects": [
+            "bag",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a painting behind a phone",
+        "objects": [
+            "painting",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a suitcase hidden by a table",
+        "objects": [
+            "suitcase",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a chair behind a girl",
+        "objects": [
+            "chair",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a plate hidden by a refrigerator",
+        "objects": [
+            "plate",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a bee hidden by a bowl",
+        "objects": [
+            "bee",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a backpack in front of a woman",
+        "objects": [
+            "backpack",
+            "woman"
+        ]
+    },
+    {
+        "prompt": "a couch behind a backpack",
+        "objects": [
+            "couch",
+            "backpack"
+        ]
+    },
+    {
+        "prompt": "a cup behind a bowl",
+        "objects": [
+            "cup",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a vase hidden by a clock",
+        "objects": [
+            "vase",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a vase hidden by a airplane",
+        "objects": [
+            "vase",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a balloon hidden by a sheep",
+        "objects": [
+            "balloon",
+            "sheep"
+        ]
+    },
+    {
+        "prompt": "a cup in front of a refrigerator",
+        "objects": [
+            "cup",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a candle in front of a phone",
+        "objects": [
+            "candle",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a bowl hidden by a painting",
+        "objects": [
+            "bowl",
+            "painting"
+        ]
+    },
+    {
+        "prompt": "a clock behind a painting",
+        "objects": [
+            "clock",
+            "painting"
+        ]
+    },
+    {
+        "prompt": "a key hidden by a girl",
+        "objects": [
+            "key",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a vase hidden by a book",
+        "objects": [
+            "vase",
+            "book"
+        ]
+    },
+    {
+        "prompt": "a bowl in front of a cow",
+        "objects": [
+            "bowl",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a mouse in front of a car",
+        "objects": [
+            "mouse",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a horse hidden by a boy",
+        "objects": [
+            "horse",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a painting behind a boy",
+        "objects": [
+            "painting",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a pig hidden by a lamp",
+        "objects": [
+            "pig",
+            "lamp"
+        ]
+    },
+    {
+        "prompt": "a girl hidden by a bird",
+        "objects": [
+            "girl",
+            "bird"
+        ]
+    },
+    {
+        "prompt": "a balloon behind a boy",
+        "objects": [
+            "balloon",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a chair hidden by a rabbit",
+        "objects": [
+            "chair",
+            "rabbit"
+        ]
+    },
+    {
+        "prompt": "a frog hidden by a chair",
+        "objects": [
+            "frog",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "a plate in front of a boy",
+        "objects": [
+            "plate",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a key behind a bicycle",
+        "objects": [
+            "key",
+            "bicycle"
+        ]
+    },
+    {
+        "prompt": "a turtle hidden by a boy",
+        "objects": [
+            "turtle",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a television hidden by a chair",
+        "objects": [
+            "television",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "a pig behind a boy",
+        "objects": [
+            "pig",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a sheep in front of a frog",
+        "objects": [
+            "sheep",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a mouse in front of a boy",
+        "objects": [
+            "mouse",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a dog behind a bird",
+        "objects": [
+            "dog",
+            "bird"
+        ]
+    },
+    {
+        "prompt": "a airplane in front of a giraffe",
+        "objects": [
+            "airplane",
+            "giraffe"
+        ]
+    },
+    {
+        "prompt": "a lamp hidden by a key",
+        "objects": [
+            "lamp",
+            "key"
+        ]
+    },
+    {
+        "prompt": "a bicycle in front of a butterfly",
+        "objects": [
+            "bicycle",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a bee behind a bird",
+        "objects": [
+            "bee",
+            "bird"
+        ]
+    },
+    {
+        "prompt": "a candle in front of a suitcase",
+        "objects": [
+            "candle",
+            "suitcase"
+        ]
+    },
+    {
+        "prompt": "a horse in front of a fish",
+        "objects": [
+            "horse",
+            "fish"
+        ]
+    },
+    {
+        "prompt": "a sheep in front of a cat",
+        "objects": [
+            "sheep",
+            "cat"
+        ]
+    },
+    {
+        "prompt": "a frog hidden by a candle",
+        "objects": [
+            "frog",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a airplane in front of a frog",
+        "objects": [
+            "airplane",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a computer hidden by a couch",
+        "objects": [
+            "computer",
+            "couch"
+        ]
+    },
+    {
+        "prompt": "a table hidden by a dog",
+        "objects": [
+            "table",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a woman in front of a computer",
+        "objects": [
+            "woman",
+            "computer"
+        ]
+    },
+    {
+        "prompt": "a girl behind a chicken",
+        "objects": [
+            "girl",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a fish hidden by a dog",
+        "objects": [
+            "fish",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a clock hidden by a train",
+        "objects": [
+            "clock",
+            "train"
+        ]
+    },
+    {
+        "prompt": "a candle hidden by a bag",
+        "objects": [
+            "candle",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a bowl hidden by a frog",
+        "objects": [
+            "bowl",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a car hidden by a plate",
+        "objects": [
+            "car",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a train behind a chair",
+        "objects": [
+            "train",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "a dog hidden by a bag",
+        "objects": [
+            "dog",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a vase behind a television",
+        "objects": [
+            "vase",
+            "television"
+        ]
+    },
+    {
+        "prompt": "a rabbit hidden by a chicken",
+        "objects": [
+            "rabbit",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a airplane in front of a mouse",
+        "objects": [
+            "airplane",
+            "mouse"
+        ]
+    },
+    {
+        "prompt": "a balloon in front of a clock",
+        "objects": [
+            "balloon",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a train hidden by a bee",
+        "objects": [
+            "train",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a girl hidden by a desk",
+        "objects": [
+            "girl",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a train in front of a boy",
+        "objects": [
+            "train",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a table in front of a microwave",
+        "objects": [
+            "table",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a chair in front of a bee",
+        "objects": [
+            "chair",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a chair in front of a candle",
+        "objects": [
+            "chair",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a sofa hidden by a book",
+        "objects": [
+            "sofa",
+            "book"
+        ]
+    },
+    {
+        "prompt": "a girl in front of a backpack",
+        "objects": [
+            "girl",
+            "backpack"
+        ]
+    },
+    {
+        "prompt": "a microwave in front of a butterfly",
+        "objects": [
+            "microwave",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a cow hidden by a phone",
+        "objects": [
+            "cow",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a person hidden by a book",
+        "objects": [
+            "person",
+            "book"
+        ]
+    },
+    {
+        "prompt": "a cat hidden by a rabbit",
+        "objects": [
+            "cat",
+            "rabbit"
+        ]
+    },
+    {
+        "prompt": "a phone behind a vase",
+        "objects": [
+            "phone",
+            "vase"
+        ]
+    },
+    {
+        "prompt": "a car hidden by a woman",
+        "objects": [
+            "car",
+            "woman"
+        ]
+    },
+    {
+        "prompt": "a fish hidden by a vase",
+        "objects": [
+            "fish",
+            "vase"
+        ]
+    },
+    {
+        "prompt": "a chicken behind a microwave",
+        "objects": [
+            "chicken",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a candle behind a vase",
+        "objects": [
+            "candle",
+            "vase"
+        ]
+    },
+    {
+        "prompt": "a suitcase in front of a horse",
+        "objects": [
+            "suitcase",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a train hidden by a horse",
+        "objects": [
+            "train",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a turtle behind a computer",
+        "objects": [
+            "turtle",
+            "computer"
+        ]
+    },
+    {
+        "prompt": "a painting hidden by a phone",
+        "objects": [
+            "painting",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a sheep hidden by a fish",
+        "objects": [
+            "sheep",
+            "fish"
+        ]
+    },
+    {
+        "prompt": "a lamp in front of a person",
+        "objects": [
+            "lamp",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a wallet hidden by a butterfly",
+        "objects": [
+            "wallet",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a rabbit in front of a balloon",
+        "objects": [
+            "rabbit",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a couch in front of a girl",
+        "objects": [
+            "couch",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a car behind a clock",
+        "objects": [
+            "car",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a computer behind a table",
+        "objects": [
+            "computer",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a couch hidden by a car",
+        "objects": [
+            "couch",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a desk hidden by a person",
+        "objects": [
+            "desk",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a painting behind a balloon",
+        "objects": [
+            "painting",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a rabbit hidden by a car",
+        "objects": [
+            "rabbit",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a table hidden by a sofa",
+        "objects": [
+            "table",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a frog hidden by a bicycle",
+        "objects": [
+            "frog",
+            "bicycle"
+        ]
+    },
+    {
+        "prompt": "a microwave hidden by a sheep",
+        "objects": [
+            "microwave",
+            "sheep"
+        ]
+    },
+    {
+        "prompt": "a sheep hidden by a refrigerator",
+        "objects": [
+            "sheep",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a cow in front of a pig",
+        "objects": [
+            "cow",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a computer in front of a dog",
+        "objects": [
+            "computer",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a wallet in front of a person",
+        "objects": [
+            "wallet",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a dog hidden by a person",
+        "objects": [
+            "dog",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a phone hidden by a frog",
+        "objects": [
+            "phone",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a man hidden by a backpack",
+        "objects": [
+            "man",
+            "backpack"
+        ]
+    },
+    {
+        "prompt": "a book behind a woman",
+        "objects": [
+            "book",
+            "woman"
+        ]
+    },
+    {
+        "prompt": "a cat behind a wallet",
+        "objects": [
+            "cat",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a couch behind a cow",
+        "objects": [
+            "couch",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a backpack hidden by a table",
+        "objects": [
+            "backpack",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a chair in front of a sofa",
+        "objects": [
+            "chair",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a candle in front of a rabbit",
+        "objects": [
+            "candle",
+            "rabbit"
+        ]
+    },
+    {
+        "prompt": "a television in front of a woman",
+        "objects": [
+            "television",
+            "woman"
+        ]
+    },
+    {
+        "prompt": "a chair behind a woman",
+        "objects": [
+            "chair",
+            "woman"
+        ]
+    },
+    {
+        "prompt": "a airplane hidden by a vase",
+        "objects": [
+            "airplane",
+            "vase"
+        ]
+    },
+    {
+        "prompt": "a lamp hidden by a giraffe",
+        "objects": [
+            "lamp",
+            "giraffe"
+        ]
+    },
+    {
+        "prompt": "a dog in front of a refrigerator",
+        "objects": [
+            "dog",
+            "refrigerator"
+        ]
+    },
+    {
+        "prompt": "a fish hidden by a sofa",
+        "objects": [
+            "fish",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a balloon hidden by a computer",
+        "objects": [
+            "balloon",
+            "computer"
+        ]
+    },
+    {
+        "prompt": "a frog hidden by a lamp",
+        "objects": [
+            "frog",
+            "lamp"
+        ]
+    },
+    {
+        "prompt": "a refrigerator hidden by a bag",
+        "objects": [
+            "refrigerator",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a man in front of a balloon",
+        "objects": [
+            "man",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a desk hidden by a cup",
+        "objects": [
+            "desk",
+            "cup"
+        ]
+    },
+    {
+        "prompt": "a bag in front of a microwave",
+        "objects": [
+            "bag",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a balloon behind a desk",
+        "objects": [
+            "balloon",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a car behind a candle",
+        "objects": [
+            "car",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a frog behind a painting",
+        "objects": [
+            "frog",
+            "painting"
+        ]
+    },
+    {
+        "prompt": "a giraffe in front of a bee",
+        "objects": [
+            "giraffe",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a woman in front of a car",
+        "objects": [
+            "woman",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a balloon hidden by a book",
+        "objects": [
+            "balloon",
+            "book"
+        ]
+    },
+    {
+        "prompt": "a desk behind a woman",
+        "objects": [
+            "desk",
+            "woman"
+        ]
+    },
+    {
+        "prompt": "a suitcase behind a car",
+        "objects": [
+            "suitcase",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a chicken hidden by a couch",
+        "objects": [
+            "chicken",
+            "couch"
+        ]
+    },
+    {
+        "prompt": "a person behind a table",
+        "objects": [
+            "person",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a airplane in front of a clock",
+        "objects": [
+            "airplane",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a candle behind a man",
+        "objects": [
+            "candle",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a desk hidden by a desk",
+        "objects": [
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a computer in front of a cat",
+        "objects": [
+            "computer",
+            "cat"
+        ]
+    },
+    {
+        "prompt": "a suitcase behind a painting",
+        "objects": [
+            "suitcase",
+            "painting"
+        ]
+    },
+    {
+        "prompt": "a painting behind a person",
+        "objects": [
+            "painting",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a airplane hidden by a turtle",
+        "objects": [
+            "airplane",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a chicken in front of a bowl",
+        "objects": [
+            "chicken",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a backpack behind a clock",
+        "objects": [
+            "backpack",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a sofa in front of a computer",
+        "objects": [
+            "sofa",
+            "computer"
+        ]
+    },
+    {
+        "prompt": "a couch in front of a pig",
+        "objects": [
+            "couch",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a lamp hidden by a clock",
+        "objects": [
+            "lamp",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a girl in front of a desk",
+        "objects": [
+            "girl",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a phone behind a pig",
+        "objects": [
+            "phone",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a wallet in front of a bowl",
+        "objects": [
+            "wallet",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a bee in front of a balloon",
+        "objects": [
+            "bee",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a bag behind a person",
+        "objects": [
+            "bag",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a woman in front of a butterfly",
+        "objects": [
+            "woman",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a cow in front of a book",
+        "objects": [
+            "cow",
+            "book"
+        ]
+    },
+    {
+        "prompt": "a chair in front of a rabbit",
+        "objects": [
+            "chair",
+            "rabbit"
+        ]
+    },
+    {
+        "prompt": "a pig hidden by a girl",
+        "objects": [
+            "pig",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a chicken behind a person",
+        "objects": [
+            "chicken",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a plate hidden by a car",
+        "objects": [
+            "plate",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a sofa in front of a chicken",
+        "objects": [
+            "sofa",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a plate behind a bee",
+        "objects": [
+            "plate",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a boy hidden by a plate",
+        "objects": [
+            "boy",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a car behind a suitcase",
+        "objects": [
+            "car",
+            "suitcase"
+        ]
+    },
+    {
+        "prompt": "a suitcase behind a bicycle",
+        "objects": [
+            "suitcase",
+            "bicycle"
+        ]
+    },
+    {
+        "prompt": "a cat in front of a bee",
+        "objects": [
+            "cat",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a cat behind a chicken",
+        "objects": [
+            "cat",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a sofa in front of a couch",
+        "objects": [
+            "sofa",
+            "couch"
+        ]
+    },
+    {
+        "prompt": "a fish hidden by a bicycle",
+        "objects": [
+            "fish",
+            "bicycle"
+        ]
+    },
+    {
+        "prompt": "a chair behind a desk",
+        "objects": [
+            "chair",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a backpack hidden by a book",
+        "objects": [
+            "backpack",
+            "book"
+        ]
+    },
+    {
+        "prompt": "a man in front of a backpack",
+        "objects": [
+            "man",
+            "backpack"
+        ]
+    },
+    {
+        "prompt": "a chicken hidden by a chicken",
+        "objects": [
+            "chicken",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a pig behind a car",
+        "objects": [
+            "pig",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a plate hidden by a person",
+        "objects": [
+            "plate",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a refrigerator hidden by a book",
+        "objects": [
+            "refrigerator",
+            "book"
+        ]
+    },
+    {
+        "prompt": "a lamp hidden by a chair",
+        "objects": [
+            "lamp",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "a chair in front of a table",
+        "objects": [
+            "chair",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a giraffe in front of a wallet",
+        "objects": [
+            "giraffe",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a horse hidden by a bicycle",
+        "objects": [
+            "horse",
+            "bicycle"
+        ]
+    },
+    {
+        "prompt": "a chicken in front of a bird",
+        "objects": [
+            "chicken",
+            "bird"
+        ]
+    },
+    {
+        "prompt": "a bird in front of a balloon",
+        "objects": [
+            "bird",
+            "balloon"
+        ]
+    },
+    {
+        "prompt": "a bicycle hidden by a microwave",
+        "objects": [
+            "bicycle",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a turtle hidden by a pig",
+        "objects": [
+            "turtle",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a sofa hidden by a cow",
+        "objects": [
+            "sofa",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a vase in front of a butterfly",
+        "objects": [
+            "vase",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a bicycle in front of a turtle",
+        "objects": [
+            "bicycle",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a backpack behind a mouse",
+        "objects": [
+            "backpack",
+            "mouse"
+        ]
+    },
+    {
+        "prompt": "a lamp behind a chair",
+        "objects": [
+            "lamp",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "a clock hidden by a candle",
+        "objects": [
+            "clock",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a car behind a table",
+        "objects": [
+            "car",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a sofa behind a backpack",
+        "objects": [
+            "sofa",
+            "backpack"
+        ]
+    },
+    {
+        "prompt": "a phone behind a plate",
+        "objects": [
+            "phone",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a phone behind a fish",
+        "objects": [
+            "phone",
+            "fish"
+        ]
+    },
+    {
+        "prompt": "a table behind a butterfly",
+        "objects": [
+            "table",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a cat hidden by a dog",
+        "objects": [
+            "cat",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a man hidden by a computer",
+        "objects": [
+            "man",
+            "computer"
+        ]
+    },
+    {
+        "prompt": "a key hidden by a wallet",
+        "objects": [
+            "key",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a candle in front of a bag",
+        "objects": [
+            "candle",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a boy in front of a cup",
+        "objects": [
+            "boy",
+            "cup"
+        ]
+    },
+    {
+        "prompt": "a chicken behind a clock",
+        "objects": [
+            "chicken",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a computer in front of a microwave",
+        "objects": [
+            "computer",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a vase hidden by a bicycle",
+        "objects": [
+            "vase",
+            "bicycle"
+        ]
+    },
+    {
+        "prompt": "a mouse in front of a microwave",
+        "objects": [
+            "mouse",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a bag hidden by a airplane",
+        "objects": [
+            "bag",
+            "airplane"
+        ]
+    },
+    {
+        "prompt": "a computer in front of a phone",
+        "objects": [
+            "computer",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a chair behind a giraffe",
+        "objects": [
+            "chair",
+            "giraffe"
+        ]
+    },
+    {
+        "prompt": "a horse in front of a table",
+        "objects": [
+            "horse",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a frog behind a rabbit",
+        "objects": [
+            "frog",
+            "rabbit"
+        ]
+    },
+    {
+        "prompt": "a turtle hidden by a bowl",
+        "objects": [
+            "turtle",
+            "bowl"
+        ]
+    },
+    {
+        "prompt": "a plate behind a girl",
+        "objects": [
+            "plate",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a rabbit behind a bag",
+        "objects": [
+            "rabbit",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a pig in front of a frog",
+        "objects": [
+            "pig",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a couch in front of a phone",
+        "objects": [
+            "couch",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a bee in front of a lamp",
+        "objects": [
+            "bee",
+            "lamp"
+        ]
+    },
+    {
+        "prompt": "a bag hidden by a giraffe",
+        "objects": [
+            "bag",
+            "giraffe"
+        ]
+    },
+    {
+        "prompt": "a turtle in front of a book",
+        "objects": [
+            "turtle",
+            "book"
+        ]
+    },
+    {
+        "prompt": "a balloon in front of a man",
+        "objects": [
+            "balloon",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a bag hidden by a girl",
+        "objects": [
+            "bag",
+            "girl"
+        ]
+    },
+    {
+        "prompt": "a pig hidden by a chicken",
+        "objects": [
+            "pig",
+            "chicken"
+        ]
+    },
+    {
+        "prompt": "a dog hidden by a vase",
+        "objects": [
+            "dog",
+            "vase"
+        ]
+    },
+    {
+        "prompt": "a mouse hidden by a microwave",
+        "objects": [
+            "mouse",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a television in front of a sofa",
+        "objects": [
+            "television",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a phone in front of a phone",
+        "objects": [
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a mouse hidden by a horse",
+        "objects": [
+            "mouse",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a horse in front of a book",
+        "objects": [
+            "horse",
+            "book"
+        ]
+    },
+    {
+        "prompt": "a girl hidden by a table",
+        "objects": [
+            "girl",
+            "table"
+        ]
+    },
+    {
+        "prompt": "a chicken in front of a painting",
+        "objects": [
+            "chicken",
+            "painting"
+        ]
+    },
+    {
+        "prompt": "a cow in front of a person",
+        "objects": [
+            "cow",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a airplane hidden by a man",
+        "objects": [
+            "airplane",
+            "man"
+        ]
+    },
+    {
+        "prompt": "a plate in front of a suitcase",
+        "objects": [
+            "plate",
+            "suitcase"
+        ]
+    },
+    {
+        "prompt": "a candle behind a candle",
+        "objects": [
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a dog hidden by a television",
+        "objects": [
+            "dog",
+            "television"
+        ]
+    },
+    {
+        "prompt": "a lamp hidden by a microwave",
+        "objects": [
+            "lamp",
+            "microwave"
+        ]
+    },
+    {
+        "prompt": "a frog in front of a horse",
+        "objects": [
+            "frog",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a frog behind a cow",
+        "objects": [
+            "frog",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a chair in front of a computer",
+        "objects": [
+            "chair",
+            "computer"
+        ]
+    },
+    {
+        "prompt": "a lamp behind a woman",
+        "objects": [
+            "lamp",
+            "woman"
+        ]
+    },
+    {
+        "prompt": "a table hidden by a wallet",
+        "objects": [
+            "table",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a pig hidden by a clock",
+        "objects": [
+            "pig",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a turtle behind a pig",
+        "objects": [
+            "turtle",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a desk in front of a bee",
+        "objects": [
+            "desk",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a man behind a bag",
+        "objects": [
+            "man",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a man behind a sofa",
+        "objects": [
+            "man",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a giraffe behind a vase",
+        "objects": [
+            "giraffe",
+            "vase"
+        ]
+    },
+    {
+        "prompt": "a couch in front of a bee",
+        "objects": [
+            "couch",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a fish behind a clock",
+        "objects": [
+            "fish",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a dog in front of a couch",
+        "objects": [
+            "dog",
+            "couch"
+        ]
+    },
+    {
+        "prompt": "a airplane hidden by a bag",
+        "objects": [
+            "airplane",
+            "bag"
+        ]
+    },
+    {
+        "prompt": "a pig behind a chair",
+        "objects": [
+            "pig",
+            "chair"
+        ]
+    },
+    {
+        "prompt": "a lamp hidden by a boy",
+        "objects": [
+            "lamp",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a sheep behind a plate",
+        "objects": [
+            "sheep",
+            "plate"
+        ]
+    },
+    {
+        "prompt": "a balloon in front of a person",
+        "objects": [
+            "balloon",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a dog hidden by a frog",
+        "objects": [
+            "dog",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a boy hidden by a desk",
+        "objects": [
+            "boy",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a plate behind a person",
+        "objects": [
+            "plate",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a girl hidden by a horse",
+        "objects": [
+            "girl",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a computer behind a wallet",
+        "objects": [
+            "computer",
+            "wallet"
+        ]
+    },
+    {
+        "prompt": "a cup hidden by a boy",
+        "objects": [
+            "cup",
+            "boy"
+        ]
+    },
+    {
+        "prompt": "a car hidden by a suitcase",
+        "objects": [
+            "car",
+            "suitcase"
+        ]
+    },
+    {
+        "prompt": "a computer in front of a clock",
+        "objects": [
+            "computer",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a mouse hidden by a dog",
+        "objects": [
+            "mouse",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a couch behind a person",
+        "objects": [
+            "couch",
+            "person"
+        ]
+    },
+    {
+        "prompt": "a sheep behind a phone",
+        "objects": [
+            "sheep",
+            "phone"
+        ]
+    },
+    {
+        "prompt": "a sheep in front of a horse",
+        "objects": [
+            "sheep",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a bicycle behind a butterfly",
+        "objects": [
+            "bicycle",
+            "butterfly"
+        ]
+    },
+    {
+        "prompt": "a clock hidden by a sheep",
+        "objects": [
+            "clock",
+            "sheep"
+        ]
+    },
+    {
+        "prompt": "a pig in front of a television",
+        "objects": [
+            "pig",
+            "television"
+        ]
+    },
+    {
+        "prompt": "a boy hidden by a horse",
+        "objects": [
+            "boy",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a key behind a candle",
+        "objects": [
+            "key",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a bird behind a rabbit",
+        "objects": [
+            "bird",
+            "rabbit"
+        ]
+    },
+    {
+        "prompt": "a mouse in front of a sofa",
+        "objects": [
+            "mouse",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a rabbit in front of a sofa",
+        "objects": [
+            "rabbit",
+            "sofa"
+        ]
+    },
+    {
+        "prompt": "a cup behind a cat",
+        "objects": [
+            "cup",
+            "cat"
+        ]
+    },
+    {
+        "prompt": "a mouse hidden by a bee",
+        "objects": [
+            "mouse",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a cup behind a desk",
+        "objects": [
+            "cup",
+            "desk"
+        ]
+    },
+    {
+        "prompt": "a bird in front of a turtle",
+        "objects": [
+            "bird",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a giraffe in front of a clock",
+        "objects": [
+            "giraffe",
+            "clock"
+        ]
+    },
+    {
+        "prompt": "a book in front of a candle",
+        "objects": [
+            "book",
+            "candle"
+        ]
+    },
+    {
+        "prompt": "a painting in front of a pig",
+        "objects": [
+            "painting",
+            "pig"
+        ]
+    },
+    {
+        "prompt": "a bird behind a car",
+        "objects": [
+            "bird",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a fish in front of a book",
+        "objects": [
+            "fish",
+            "book"
+        ]
+    }
+]
