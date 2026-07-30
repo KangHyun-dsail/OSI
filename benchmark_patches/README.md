@@ -27,12 +27,13 @@ cp -r benchmark_patches/T2I-CompBench/. T2I-CompBench/
 **GenEval** (`benchmark_patches/geneval/`)
 - `prompts/prompts/evaluation_metadata_*.jsonl`, `generation_prompts_*.txt` —
   the OSI prompt subsets (`two_object_100` … `six_object_100`, `single_object`) read by
-  `generate_osi_main_table.py` / `sd3_generate_geneval.py` / `evaluate_geneval.py`.
+  `generate_geneval_flux.py` / `generate_geneval_sd3.py` / `evaluate_geneval.py`.
 - `prompts/create_prompts.py` — generator used to produce the above (for provenance).
 
 **T2I-CompBench** (`benchmark_patches/T2I-CompBench/`)
-- `examples/dataset/*.json` — the CompBench prompt sets read by `generate_compbench.py`
-  / `sd3_generate_compbench.py` (`color_val_seen_phrase`, `texture_val_seen_phrase`, …).
+- `examples/dataset/*.json` — the CompBench prompt sets read by
+  `generate_compbench_flux.py` / `generate_compbench_sd3.py`
+  (`color_val_seen_phrase`, `texture_val_seen_phrase`, …).
 
 > BLIP-VQA training-data labeling (`label_blip.py`, used by `scripts/03_label_blip.sh`)
 > calls the **stock** `T2I-CompBench/BLIPvqa_eval/BLIP/train_vqa_func.py` — no overlay

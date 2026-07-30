@@ -30,16 +30,16 @@ if [ "$MODEL" = "sd3" ]; then
   CLASSIFIER_DIR="${CLASSIFIER_DIR:-classifier_ckpt/sd3}"
 else
   ALPHA="${ALPHA:-5.0}"; NUM_HEAD="${NUM_HEAD:-300}"
-  INT_END="${INT_END:-15}"           # flux default matches generate_osi_main_table.py
+  INT_END="${INT_END:-15}"           # flux default matches generate_geneval_flux.py
   CLASSIFIER_DIR="${CLASSIFIER_DIR:-classifier_ckpt/flux}"
 fi
 
 if [ "$BENCH" = "compbench" ]; then
   GENEVAL_TYPE="${GENEVAL_TYPE:-color_val_seen_phrase}"
-  [ "$MODEL" = "sd3" ] && SCRIPT=sd3_generate_compbench.py || SCRIPT=generate_compbench.py
+  [ "$MODEL" = "sd3" ] && SCRIPT=generate_compbench_sd3.py || SCRIPT=generate_compbench_flux.py
 else
   GENEVAL_TYPE="${GENEVAL_TYPE:-two_object_100}"
-  [ "$MODEL" = "sd3" ] && SCRIPT=sd3_generate_geneval.py || SCRIPT=generate_osi_main_table.py
+  [ "$MODEL" = "sd3" ] && SCRIPT=generate_geneval_sd3.py || SCRIPT=generate_geneval_flux.py
 fi
 
 END_ARGS=()

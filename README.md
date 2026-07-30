@@ -44,7 +44,7 @@ Pre-trained classifiers are included in `classifier_ckpt/`:
 ### FLUX.1-dev
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 python generate_demo.py \
+CUDA_VISIBLE_DEVICES=0 python generate_demo_flux.py \
   --prompt "a dog and a cat" \
   --target_tokens dog cat \
 ```
@@ -81,10 +81,10 @@ CUDA_VISIBLE_DEVICES=0 python generate_demo_sd3.py \
 
 ## Data Collection Demo
 
-`collect_data_demo.py` shows how we collect key vectors for classifier training. For a single prompt, it saves both the generated image and the attention key hidden states:
+`collect_data_demo_flux.py` shows how we collect key vectors for classifier training. For a single prompt, it saves both the generated image and the attention key hidden states:
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 python collect_data_demo.py \
+CUDA_VISIBLE_DEVICES=0 python collect_data_demo_flux.py \
   --prompt "a dog and a cat" \
   --target_tokens dog cat \
   --output_dir ./collected
@@ -178,9 +178,9 @@ OSI/
 ├── scripts/                   # Modular pipeline stage runners (01…06)
 ├── benchmark_patches/         # OSI overlay files for cloned geneval / T2I-CompBench
 ├── assets/                    # Object class pool (object_names.txt), README thumbnail
-├── generate_demo.py           # FLUX.1-dev single-image demo
+├── generate_demo_flux.py      # FLUX.1-dev single-image demo
 ├── generate_demo_sd3.py       # SD3.5-Medium single-image demo
-├── collect_data_demo.py       # Data collection demo (key vector saving)
+├── collect_data_demo_flux.py  # Data collection demo (key vector saving)
 ├── generate_dataset_flux.py   # Batch data collection (FLUX)
 ├── generate_dataset_sd3.py    # Batch data collection (SD3.5)
 ├── label_mask2former.py       # MM (Mask2Former) presence labeling
@@ -188,10 +188,10 @@ OSI/
 ├── label_merge.py             # Consensus-merge MM + BLIP labels
 ├── feature_extract.py         # Extract key tensors, train/test split
 ├── train_classifier_multi_object_real.py  # MMS direction-vector training
-├── generate_osi_main_table.py # FLUX GenEval batch generation
-├── generate_compbench.py      # FLUX T2I-CompBench generation
-├── sd3_generate_geneval.py    # SD3.5 GenEval generation
-├── sd3_generate_compbench.py  # SD3.5 T2I-CompBench generation
+├── generate_geneval_flux.py   # FLUX GenEval batch generation
+├── generate_geneval_sd3.py    # SD3.5 GenEval generation
+├── generate_compbench_flux.py # FLUX T2I-CompBench generation
+├── generate_compbench_sd3.py  # SD3.5 T2I-CompBench generation
 ├── evaluate_geneval.py        # GenEval scoring
 ├── evaluate_aesthetic.py      # MUSIQ / MANIQA quality metrics
 ├── INSTALL.md                 # All four conda environments

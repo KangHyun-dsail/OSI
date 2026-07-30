@@ -31,7 +31,7 @@ parser.add_argument("--model_config", type=str, default=None)
 parser.add_argument("--model_path", type=str, default="geneval/checkpoints")
 parser.add_argument("--options", type=str, default=['foo=bar', 'baz=qux'])
 parser.add_argument("--name", type=str, default='osi_alpha5.0_head300_seed42',
-                    help="Run folder name (matches the folder created by generate_osi_main_table.py)")
+                    help="Run folder name (matches the folder created by generate_geneval_flux.py)")
 
 args = parser.parse_args()
 

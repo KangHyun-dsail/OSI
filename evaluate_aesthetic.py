@@ -16,7 +16,7 @@ parser.add_argument("--input_dir", type=str, default="./outputs",
 parser.add_argument("--output_dir", type=str, default="./results",
                     help="Root directory for evaluation results")
 parser.add_argument("--name", type=str, default="osi_alpha5.0_head300_seed42",
-                    help="Run folder name (matches the folder created by generate_osi_main_table.py)")
+                    help="Run folder name (matches the folder created by generate_geneval_flux.py)")
 parser.add_argument("--metric", type=str, default="musiq", choices=["musiq", "maniqa"])
 args, unknown = parser.parse_known_args()
 

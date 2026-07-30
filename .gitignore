@@ -8,9 +8,9 @@
 !requirements.txt
 
 # Demos
-!generate_demo.py
+!generate_demo_flux.py
 !generate_demo_sd3.py
-!collect_data_demo.py
+!collect_data_demo_flux.py
 
 # Dataset collection + classifier training pipeline
 !generate_dataset_flux.py
@@ -22,10 +22,10 @@
 !train_classifier_multi_object_real.py
 
 # Generation + evaluation
-!generate_osi_main_table.py
-!generate_compbench.py
-!sd3_generate_geneval.py
-!sd3_generate_compbench.py
+!generate_geneval_flux.py
+!generate_geneval_sd3.py
+!generate_compbench_flux.py
+!generate_compbench_sd3.py
 !evaluate_geneval.py
 !evaluate_aesthetic.py
 
