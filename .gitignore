@@ -34,10 +34,6 @@
 !scripts/
 !scripts/*.sh
 
-# Docs
-!docs/
-!docs/**
-
 # Data assets (small: object class list)
 !assets/
 !assets/*.txt

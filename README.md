@@ -126,9 +126,8 @@ bash scripts/04_train_pipeline.sh
 ```
 
 The resulting `classifier_ckpt/flux_reproduced/` is directly loadable at inference via
-`--classifier_dir`. Details of each step: [docs/01_data_generation.md](docs/01_data_generation.md),
-[docs/02_classifier_training.md](docs/02_classifier_training.md). For SD3.5, pass `MODEL=sd3`
-to stage 1 and adjust the training timesteps (see docs/02).
+`--classifier_dir`. For SD3.5, pass `MODEL=sd3` to stage 1 and adjust the training
+timesteps accordingly.
 
 ## Benchmark Setup
 
@@ -175,7 +174,6 @@ OSI/
 ├── flux_osi_modules/          # FluxPipeline_custom / FluxAttnProcessor_custom
 ├── sd3_osi_modules/           # StableDiffusion3Pipeline_custom / SD3AttnProcessor_custom
 ├── scripts/                   # Modular pipeline stage runners (01…06)
-├── docs/                      # Data generation, training, evaluation docs
 ├── benchmark_patches/         # OSI overlay files for cloned geneval / T2I-CompBench
 ├── assets/object_names.txt    # Object class pool for data collection
 ├── generate_demo.py           # FLUX.1-dev single-image demo
