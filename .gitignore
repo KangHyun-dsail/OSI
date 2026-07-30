@@ -27,16 +27,16 @@
 !sd3_generate_geneval.py
 !sd3_generate_compbench.py
 !evaluate_geneval.py
-!evaluate_aesthetic/
-!evaluate_aesthetic/*.py
+!evaluate_aesthetic.py
 
 # Stage runner scripts
 !scripts/
 !scripts/*.sh
 
-# Data assets (small: object class list)
+# Data assets (object class list, README thumbnail)
 !assets/
 !assets/*.txt
+!assets/thumbnail.png
 
 # Benchmark overlay files (upstream repos are cloned separately, see benchmark_patches/README.md)
 !benchmark_patches/
@@ -54,5 +54,3 @@
 !sd3_osi_modules/
 !sd3_osi_modules/*.py
 
-!figure/
-!figure/thumbnail.png

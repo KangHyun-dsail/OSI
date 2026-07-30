@@ -6,7 +6,7 @@
 
 ## Introduction
 
-![Thumbnail](figure/thumbnail.png)
+![Thumbnail](assets/thumbnail.png)
 
 Multimodal Diffusion Transformers (MM-DiTs) have achieved remarkable progress in text-to-image generation, yet they frequently suffer from concept omission, where specified objects or attributes fail to emerge in the generated image. By performing linear probing on text tokens, we demonstrate that text embeddings can distinguish a characteristic `omission signal' representing the absence of target concepts. Leveraging this insight, we propose Omission Signal Intervention (OSI), which amplifies the omission signal to actively catalyze the generation of missing concepts. Comprehensive experiments on FLUX.1-Dev and SD3.5-Medium demonstrate that OSI significantly alleviates concept omission even in extreme scenarios.
 
@@ -152,7 +152,7 @@ MODEL=flux GENEVAL_TYPE=two_object_100 GPU=0 bash scripts/06_eval_geneval.sh
 
 CompBench evaluation uses several upstream tools (BLIP-VQA / CLIPScore / UniDet); see
 `benchmark_patches/README.md` and the T2I-CompBench README. Image-quality metrics
-(MUSIQ / MANIQA) are computed by `evaluate_aesthetic/pyiqa_test.py` in the `pyiqa` env.
+(MUSIQ / MANIQA) are computed by `evaluate_aesthetic.py` in the `pyiqa` env.
 
 ## Roadmap
 
@@ -175,7 +175,7 @@ OSI/
 ├── sd3_osi_modules/           # StableDiffusion3Pipeline_custom / SD3AttnProcessor_custom
 ├── scripts/                   # Modular pipeline stage runners (01…06)
 ├── benchmark_patches/         # OSI overlay files for cloned geneval / T2I-CompBench
-├── assets/object_names.txt    # Object class pool for data collection
+├── assets/                    # Object class pool (object_names.txt), README thumbnail
 ├── generate_demo.py           # FLUX.1-dev single-image demo
 ├── generate_demo_sd3.py       # SD3.5-Medium single-image demo
 ├── collect_data_demo.py       # Data collection demo (key vector saving)
@@ -191,8 +191,7 @@ OSI/
 ├── sd3_generate_geneval.py    # SD3.5 GenEval generation
 ├── sd3_generate_compbench.py  # SD3.5 T2I-CompBench generation
 ├── evaluate_geneval.py        # GenEval scoring
-├── evaluate_aesthetic/        # MUSIQ / MANIQA quality metrics
-├── figure/thumbnail.png
+├── evaluate_aesthetic.py      # MUSIQ / MANIQA quality metrics
 ├── INSTALL.md                 # All four conda environments
 ├── requirements.txt
 └── README.md
