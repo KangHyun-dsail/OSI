@@ -5,6 +5,9 @@ and split into train/test sets for classifier training.
 Input:
   - gen_text_real_two_object_512_MM_BLIP.jsonl : dual-labeled dataset
 
+Works for both FLUX.1-dev and SD3.5: the layer/head counts are inferred from the
+collected pickles (override with --layer_len / --head_len).
+
 Output (per timestep t, layer l, head h):
   - {output_dir}/
       x_train_key_{t}_{l}_{h}.pt
@@ -34,6 +37,11 @@ parser.add_argument("--train_ratio", type=float, default=0.89)
 parser.add_argument("--max_per_class", type=int, default=10,
                     help="Max absent samples per object class (balanced with present)")
 parser.add_argument("--seed", type=int, default=0)
+parser.add_argument("--layer_len", type=int, default=None,
+                    help="Number of attention layers to read (default: inferred from the "
+                         "collected pickles; FLUX.1-dev has 57, SD3.5-Medium 24)")
+parser.add_argument("--head_len", type=int, default=None,
+                    help="Number of attention heads per layer (default: inferred)")
 args = parser.parse_args()
 
 np.random.seed(args.seed)
@@ -70,6 +78,14 @@ for k, v in true_dict.items():
     else:
         true_dict_sample[k] = list(np.random.permutation(v)[:false_len])
 
+if not true_dict_sample:
+    raise SystemExit(
+        "No object class ended up with both present and absent samples, so there is "
+        "nothing to extract. Balancing needs each class to appear as present in some "
+        "images and absent in others; collect more samples in Stage 1 (a few thousand "
+        "is the usual scale) and re-run."
+    )
+
 # Train/test split by sample count within each object class
 train_true_dict, train_false_dict = {}, {}
 valid_true_dict, valid_false_dict = {}, {}
@@ -83,8 +99,44 @@ for k in true_dict_sample:
     valid_true_dict[k]  = [true_dict_sample[k][i] for i in idx[n_train:]]
     valid_false_dict[k] = [false_dict[k][i]        for i in idx[n_train:]]
 
-head_len = 24
-layer_len = 57
+def pkl_path_for(png_path):
+    return png_path.replace('samples', 'datas').replace('.png', '.pkl')
+
+
+def infer_key_dims(*file_dicts):
+    """Read one collected pickle to learn how many layers/heads it stores.
+
+    FLUX.1-dev yields 57 layers (19 double + 38 single blocks) and SD3.5-Medium 24,
+    so these cannot be hardcoded if both models are to share this script.
+    """
+    for file_dict in file_dicts:
+        for k, file_list in file_dict.items():
+            for file_ in file_list:
+                pkl_path = pkl_path_for(file_)
+                if not os.path.exists(pkl_path):
+                    continue
+                with open(pkl_path, 'rb') as f:
+                    hidden_states = pickle.load(f)
+                for t in hidden_states:
+                    keys = hidden_states[t]['key']
+                    return len(keys), keys[0][k].squeeze(2).shape[1]
+    raise SystemExit(
+        "Could not infer key-vector dimensions: no pickle found next to the samples "
+        f"(expected e.g. {pkl_path_for('.../samples/foo.png')}). Check that Stage 1 "
+        "wrote its datas/ directory, or pass --layer_len/--head_len explicitly."
+    )
+
+
+if args.layer_len is not None and args.head_len is not None:
+    layer_len, head_len = args.layer_len, args.head_len
+else:
+    inferred_layer, inferred_head = infer_key_dims(
+        train_true_dict, train_false_dict, valid_true_dict, valid_false_dict
+    )
+    layer_len = args.layer_len if args.layer_len is not None else inferred_layer
+    head_len = args.head_len if args.head_len is not None else inferred_head
+
+print(f"Key vectors: layer_len={layer_len}, head_len={head_len}")
 
 train_y_data, train_y_label = [], []
 valid_y_data, valid_y_label = [], []
@@ -97,10 +149,16 @@ def collect(file_dict, label, y_data, y_label, buckets):
         for file_ in file_list:
             y_data.append(label)
             y_label.append(k)
-            pkl_path = file_.replace('samples', 'datas').replace('.png', '.pkl')
+            pkl_path = pkl_path_for(file_)
             with open(pkl_path, 'rb') as f:
                 hidden_states = pickle.load(f)
             for t in hidden_states:
+                if len(hidden_states[t]['key']) < layer_len:
+                    raise SystemExit(
+                        f"{pkl_path} stores {len(hidden_states[t]['key'])} layers but "
+                        f"layer_len={layer_len} was requested. Drop --layer_len to infer it, "
+                        f"and keep each model's samples in a separate run."
+                    )
                 for l in range(layer_len):
                     sl = hidden_states[t]['key'][l][k].squeeze(2)
                     for h in range(head_len):

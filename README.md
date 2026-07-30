@@ -127,7 +127,9 @@ bash scripts/04_train_pipeline.sh
 
 The resulting `classifier_ckpt/flux_reproduced/` is directly loadable at inference via
 `--classifier_dir`. For SD3.5, pass `MODEL=sd3` to stage 1 and adjust the training
-timesteps accordingly.
+timesteps accordingly; the attention layer/head counts differ between the two models
+(FLUX.1-dev 57 layers, SD3.5-Medium 24) but `feature_extract.py` infers them from the
+collected pickles, so stages 3-5 need no further changes.
 
 ## Benchmark Setup
 
